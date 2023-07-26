@@ -1,0 +1,4541 @@
+[
+  {
+    "area_id": 2319,
+    "area_name": "Ballyfin",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Ballyfin",
+        "short_name": "Ballyfin",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ockanaroe",
+        "short_name": "Ockanaroe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ockanaroe, Ballyfin, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.0521538,
+        "lng": -7.4196588
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.0535027802915,
+          "lng": -7.418309819708497
+        },
+        "southwest": {
+          "lat": 53.0508048197085,
+          "lng": -7.421007780291502
+        }
+      }
+    },
+    "place_id": "ChIJz5n3LGgPXUgRQr66GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1513,
+    "area_name": "Abbeyleix",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Abbeyleix",
+        "short_name": "Abbeyleix",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Knocknamoe",
+        "short_name": "Knocknamoe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Knocknamoe, Abbeyleix, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.9152801,
+        "lng": -7.347892300000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.91662908029149,
+          "lng": -7.346543319708498
+        },
+        "southwest": {
+          "lat": 52.91393111970849,
+          "lng": -7.349241280291502
+        }
+      }
+    },
+    "place_id": "ChIJsduuItgQXUgRgHwxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1538,
+    "area_name": "Attanagh",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Attanagh",
+        "short_name": "Attanagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Grenan",
+        "short_name": "Grenan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Grenan, Attanagh, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.8332953,
+        "lng": -7.353231500000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8346442802915,
+          "lng": -7.351882519708498
+        },
+        "southwest": {
+          "lat": 52.8319463197085,
+          "lng": -7.354580480291503
+        }
+      }
+    },
+    "place_id": "ChIJLwl6kMEXXUgR4NIxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3887,
+    "area_name": "Ballinagar",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Laois",
+        "short_name": "Laois",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Laois, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.2156522,
+          "lng": -6.931934699999999
+        },
+        "southwest": {
+          "lat": 52.7812693,
+          "lng": -7.7346495
+        }
+      },
+      "location": {
+        "lat": 52.994295,
+        "lng": -7.332300699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2156522,
+          "lng": -6.931934699999999
+        },
+        "southwest": {
+          "lat": 52.7812693,
+          "lng": -7.7346495
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJG5glBMsNXUgRv42wYAzqMxw",
+    "types": [
+      "administrative_area_level_2",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1496,
+    "area_name": "Aghaboe",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Aghaboe",
+        "short_name": "Aghaboe",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Friarsland",
+        "short_name": "Friarsland",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Friarsland, Aghaboe, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.9203628,
+        "lng": -7.5119052
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9217117802915,
+          "lng": -7.510556219708498
+        },
+        "southwest": {
+          "lat": 52.9190138197085,
+          "lng": -7.513254180291502
+        }
+      }
+    },
+    "place_id": "ChIJCblYeIkbXUgRQrK6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1589,
+    "area_name": "Ballylynan",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Ballylynan",
+        "short_name": "Ballylynan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballylynan",
+        "short_name": "Ballylynan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballylynan, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.94358829999999,
+        "lng": -7.0420455
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9449372802915,
+          "lng": -7.040696519708499
+        },
+        "southwest": {
+          "lat": 52.9422393197085,
+          "lng": -7.043394480291503
+        }
+      }
+    },
+    "place_id": "ChIJBW5nc8BuXUgRZeTDbcSbxkg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2387,
+    "area_name": "Ballydavis",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Ballydavis",
+        "short_name": "Ballydavis",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballydavis, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.0669954,
+          "lng": -7.2335573
+        },
+        "southwest": {
+          "lat": 53.0477991,
+          "lng": -7.2597662
+        }
+      },
+      "location": {
+        "lat": 53.05487669999999,
+        "lng": -7.246655
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.0669954,
+          "lng": -7.2335573
+        },
+        "southwest": {
+          "lat": 53.0477991,
+          "lng": -7.2597662
+        }
+      }
+    },
+    "place_id": "ChIJOcnFp-4MXUgRor26GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1622,
+    "area_name": "Bilboa",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Laois",
+        "short_name": "Laois",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Laois, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.2156522,
+          "lng": -6.931934699999999
+        },
+        "southwest": {
+          "lat": 52.7812693,
+          "lng": -7.7346495
+        }
+      },
+      "location": {
+        "lat": 52.994295,
+        "lng": -7.332300699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2156522,
+          "lng": -6.931934699999999
+        },
+        "southwest": {
+          "lat": 52.7812693,
+          "lng": -7.7346495
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJG5glBMsNXUgRv42wYAzqMxw",
+    "types": [
+      "administrative_area_level_2",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1568,
+    "area_name": "Ballyroan",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Ballyroan",
+        "short_name": "Ballyroan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballyroan",
+        "short_name": "Ballyroan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyroan, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.9483991,
+        "lng": -7.304667599999998
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9497480802915,
+          "lng": -7.303318619708497
+        },
+        "southwest": {
+          "lat": 52.9470501197085,
+          "lng": -7.306016580291501
+        }
+      }
+    },
+    "place_id": "ChIJ7V8ww3gRXUgRwH8xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1579,
+    "area_name": "Ballintubbert",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Ballintubbert",
+        "short_name": "Ballintubbert",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballintubbert",
+        "short_name": "Ballintubbert",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballintubbert, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.9839895,
+        "lng": -7.0866237
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9853384802915,
+          "lng": -7.085274719708497
+        },
+        "southwest": {
+          "lat": 52.9826405197085,
+          "lng": -7.087972680291502
+        }
+      }
+    },
+    "place_id": "ChIJl1xrVHVuXUgRIIjfN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1508,
+    "area_name": "Ardlea",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Ardlea",
+        "short_name": "Ardlea",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ardlea, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.9893374,
+          "lng": -7.3743288
+        },
+        "southwest": {
+          "lat": 52.9736177,
+          "lng": -7.3973291
+        }
+      },
+      "location": {
+        "lat": 52.980234,
+        "lng": -7.384178299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9893374,
+          "lng": -7.3743288
+        },
+        "southwest": {
+          "lat": 52.9736177,
+          "lng": -7.3973291
+        }
+      }
+    },
+    "place_id": "ChIJzbkuryMQXUgRRGRzKTl5XBU",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2311,
+    "area_name": "Ballyhuppahane",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Ballyhupahaun",
+        "short_name": "Ballyhupahaun",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballyfin",
+        "short_name": "Ballyfin",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyfin, Ballyhupahaun, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.09335,
+        "lng": -7.44991
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.0946989802915,
+          "lng": -7.448561019708498
+        },
+        "southwest": {
+          "lat": 53.0920010197085,
+          "lng": -7.451258980291502
+        }
+      }
+    },
+    "place_id": "ChIJD7e7_Z8IXUgRpqdH8HB0F-w",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1491,
+    "area_name": "Borris-in-Ossory",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Borris-in-Ossory",
+        "short_name": "Borris-in-Ossory",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Townparks",
+        "short_name": "Townparks",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Townparks, Borris-in-Ossory, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.93917769999999,
+        "lng": -7.6310983
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9405266802915,
+          "lng": -7.629749319708497
+        },
+        "southwest": {
+          "lat": 52.9378287197085,
+          "lng": -7.632447280291501
+        }
+      }
+    },
+    "place_id": "ChIJe2aShn0dXUgRkOMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2390,
+    "area_name": "Ballybrittas",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Ballybrittas",
+        "short_name": "Ballybrittas",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Tullaghan",
+        "short_name": "Tullaghan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Tullaghan, Ballybrittas, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.109028,
+        "lng": -7.1374187
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1103769802915,
+          "lng": -7.136069719708498
+        },
+        "southwest": {
+          "lat": 53.1076790197085,
+          "lng": -7.138767680291502
+        }
+      }
+    },
+    "place_id": "ChIJObVcWhR0XUgRQH4xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1573,
+    "area_name": "Ballinakill",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Ballinakill",
+        "short_name": "Ballinakill",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballinakill, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8806642,
+          "lng": -7.297233599999999
+        },
+        "southwest": {
+          "lat": 52.8693349,
+          "lng": -7.3162796
+        }
+      },
+      "location": {
+        "lat": 52.8745935,
+        "lng": -7.3085929
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8806642,
+          "lng": -7.297233599999999
+        },
+        "southwest": {
+          "lat": 52.8693349,
+          "lng": -7.3162796
+        }
+      }
+    },
+    "place_id": "ChIJW8eutvIWXUgR4H0xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1485,
+    "area_name": "Coolrain",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Coolrain",
+        "short_name": "Coolrain",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Laurel Hill",
+        "short_name": "Laurel Hill",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Laurel Hill, Coolrain, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.97740659999999,
+        "lng": -7.5658368
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9787555802915,
+          "lng": -7.564487819708497
+        },
+        "southwest": {
+          "lat": 52.9760576197085,
+          "lng": -7.567185780291502
+        }
+      }
+    },
+    "place_id": "ChIJDWxsOcscXUgRQPkxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1566,
+    "area_name": "Cashel",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Laois",
+        "short_name": "Laois",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Laois, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.2156522,
+          "lng": -6.931934699999999
+        },
+        "southwest": {
+          "lat": 52.7812693,
+          "lng": -7.7346495
+        }
+      },
+      "location": {
+        "lat": 52.994295,
+        "lng": -7.332300699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2156522,
+          "lng": -6.931934699999999
+        },
+        "southwest": {
+          "lat": 52.7812693,
+          "lng": -7.7346495
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJG5glBMsNXUgRv42wYAzqMxw",
+    "types": [
+      "administrative_area_level_2",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1492,
+    "area_name": "Ballybrophy",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Ballybrophy",
+        "short_name": "Ballybrophy",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Station Road",
+        "short_name": "Station Road",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballybrophy, Station Road, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.9128169,
+          "lng": -7.607184699999999
+        },
+        "southwest": {
+          "lat": 52.8994884,
+          "lng": -7.6278109
+        }
+      },
+      "location": {
+        "lat": 52.905614,
+        "lng": -7.619033399999998
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9128169,
+          "lng": -7.607184699999999
+        },
+        "southwest": {
+          "lat": 52.8994884,
+          "lng": -7.6278109
+        }
+      }
+    },
+    "place_id": "ChIJg5QUZuUdXUgRQbu6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3912,
+    "area_name": "Ballacolla",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Ballacolla",
+        "short_name": "Ballacolla",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballacolla, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8864118,
+          "lng": -7.4410997
+        },
+        "southwest": {
+          "lat": 52.8774672,
+          "lng": -7.4539846
+        }
+      },
+      "location": {
+        "lat": 52.8825474,
+        "lng": -7.446860600000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8864118,
+          "lng": -7.4410997
+        },
+        "southwest": {
+          "lat": 52.8774672,
+          "lng": -7.4539846
+        }
+      }
+    },
+    "place_id": "ChIJ_yr-150ZXUgR0H4xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2306,
+    "area_name": "Camross",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Camross",
+        "short_name": "Camross",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Camross",
+        "short_name": "Camross",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Camross, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.0034062,
+        "lng": -7.5976758
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.0047551802915,
+          "lng": -7.596326819708498
+        },
+        "southwest": {
+          "lat": 53.0020572197085,
+          "lng": -7.599024780291503
+        }
+      }
+    },
+    "place_id": "ChIJaT7Zvx0DXUgR4Ocxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3982,
+    "area_name": "Graiguecullen",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Graigue",
+        "short_name": "Graigue",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Carlow",
+        "short_name": "Carlow",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Graigue, Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8477796,
+          "lng": -6.9319676
+        },
+        "southwest": {
+          "lat": 52.8289825,
+          "lng": -6.9608408
+        }
+      },
+      "location": {
+        "lat": 52.8387991,
+        "lng": -6.940100699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8477796,
+          "lng": -6.9319676
+        },
+        "southwest": {
+          "lat": 52.8289825,
+          "lng": -6.9608408
+        }
+      }
+    },
+    "place_id": "ChIJn7rSZ6xCXUgRNBHEsGz3_Wo",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1456,
+    "area_name": "Ballaghmore",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Ballaghmore",
+        "short_name": "Ballaghmore",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lackey",
+        "short_name": "Lackey",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lackey, Ballaghmore, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.96379,
+        "lng": -7.689829999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.96513898029151,
+          "lng": -7.688481019708497
+        },
+        "southwest": {
+          "lat": 52.96244101970851,
+          "lng": -7.691178980291501
+        }
+      }
+    },
+    "place_id": "ChIJRa2oK9jiXEgRQrO6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1590,
+    "area_name": "Arless",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Arles",
+        "short_name": "Arles",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Rathtillig",
+        "short_name": "Rathtillig",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rathtillig, Arles, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.89297,
+        "lng": -7.020919999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8943189802915,
+          "lng": -7.019571019708498
+        },
+        "southwest": {
+          "lat": 52.8916210197085,
+          "lng": -7.022268980291502
+        }
+      }
+    },
+    "place_id": "ChIJ-2zE8hFpXUgRMNIxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2304,
+    "area_name": "Clonaslee",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Clonaslee",
+        "short_name": "Clonaslee",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Clonaslee",
+        "short_name": "Clonaslee",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Clonaslee, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.1486014,
+        "lng": -7.524369599999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.14995038029149,
+          "lng": -7.523020619708498
+        },
+        "southwest": {
+          "lat": 53.14725241970849,
+          "lng": -7.525718580291501
+        }
+      }
+    },
+    "place_id": "ChIJ4_NLqH8HXUgR0I4xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1504,
+    "area_name": "Kilbricken",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Kilbricken",
+        "short_name": "Kilbricken",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Boston",
+        "short_name": "Boston",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Boston, Kilbricken, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.96502,
+        "lng": -7.4601
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9663689802915,
+          "lng": -7.458751019708497
+        },
+        "southwest": {
+          "lat": 52.9636710197085,
+          "lng": -7.461448980291502
+        }
+      }
+    },
+    "place_id": "ChIJC1tuHN0aXUgR6Y9OvhpVVNk",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1515,
+    "area_name": "Ballycolla",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Ballacolla",
+        "short_name": "Ballacolla",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballacolla, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8864118,
+          "lng": -7.4410997
+        },
+        "southwest": {
+          "lat": 52.8774672,
+          "lng": -7.4539846
+        }
+      },
+      "location": {
+        "lat": 52.8825474,
+        "lng": -7.446860600000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8864118,
+          "lng": -7.4410997
+        },
+        "southwest": {
+          "lat": 52.8774672,
+          "lng": -7.4539846
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ_yr-150ZXUgR0H4xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1592,
+    "area_name": "Ballickmoyler",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Ballickmoyler",
+        "short_name": "Ballickmoyler",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cooperhill Demesne",
+        "short_name": "Cooperhill Demesne",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cooperhill Demesne, Ballickmoyler, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.8786492,
+        "lng": -7.011676899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.87999818029149,
+          "lng": -7.010327919708497
+        },
+        "southwest": {
+          "lat": 52.87730021970849,
+          "lng": -7.013025880291502
+        }
+      }
+    },
+    "place_id": "ChIJJQxxO6ZpXUgRoNYxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2317,
+    "area_name": "Mountrath",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Mountrath",
+        "short_name": "Mountrath",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Mountrath",
+        "short_name": "Mountrath",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Mountrath, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.0025597,
+        "lng": -7.4751396
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.0039086802915,
+          "lng": -7.473790619708498
+        },
+        "southwest": {
+          "lat": 53.0012107197085,
+          "lng": -7.476488580291503
+        }
+      }
+    },
+    "place_id": "ChIJIzIPSiEFXUgRwIQxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2309,
+    "area_name": "Rosenallis",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Rosenallis",
+        "short_name": "Rosenallis",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Shanbeg",
+        "short_name": "Shanbeg",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Shanbeg, Rosenallis, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.1356927,
+        "lng": -7.407042899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1370416802915,
+          "lng": -7.405693919708496
+        },
+        "southwest": {
+          "lat": 53.1343437197085,
+          "lng": -7.408391880291501
+        }
+      }
+    },
+    "place_id": "ChIJl6KlR0oIXUgRMB4yl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1511,
+    "area_name": "Shanahoe",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Shanahoe",
+        "short_name": "Shanahoe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Shanahoe, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.9408253,
+          "lng": -7.404897699999999
+        },
+        "southwest": {
+          "lat": 52.9225564,
+          "lng": -7.435073699999998
+        }
+      },
+      "location": {
+        "lat": 52.9313508,
+        "lng": -7.4197006
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9408253,
+          "lng": -7.404897699999999
+        },
+        "southwest": {
+          "lat": 52.9225564,
+          "lng": -7.435073699999998
+        }
+      }
+    },
+    "place_id": "ChIJVfbhDGwaXUgRsCEyl6nHAAo",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2385,
+    "area_name": "Portarlington",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Portarlington",
+        "short_name": "Portarlington",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Portarlington, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.17075,
+          "lng": -7.174510099999999
+        },
+        "southwest": {
+          "lat": 53.14593,
+          "lng": -7.221660099999999
+        }
+      },
+      "location": {
+        "lat": 53.16121099999999,
+        "lng": -7.187757399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.17075,
+          "lng": -7.174510099999999
+        },
+        "southwest": {
+          "lat": 53.14593,
+          "lng": -7.221660099999999
+        }
+      }
+    },
+    "place_id": "ChIJWxX_mXF1XUgRYJAxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2308,
+    "area_name": "Clarahill",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Clarahill",
+        "short_name": "Clarahill",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "River View",
+        "short_name": "River View",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Clarahill, River View, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.1471045,
+          "lng": -7.4825339
+        },
+        "southwest": {
+          "lat": 53.1395207,
+          "lng": -7.503926499999999
+        }
+      },
+      "location": {
+        "lat": 53.1426016,
+        "lng": -7.4965658
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1471045,
+          "lng": -7.4825339
+        },
+        "southwest": {
+          "lat": 53.1395207,
+          "lng": -7.503926499999999
+        }
+      }
+    },
+    "place_id": "ChIJsYvqkPEHXUgRMgO7GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1507,
+    "area_name": "Coolnareen",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Laois",
+        "short_name": "Laois",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Laois, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.2156522,
+          "lng": -6.931934699999999
+        },
+        "southwest": {
+          "lat": 52.7812693,
+          "lng": -7.7346495
+        }
+      },
+      "location": {
+        "lat": 52.994295,
+        "lng": -7.332300699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2156522,
+          "lng": -6.931934699999999
+        },
+        "southwest": {
+          "lat": 52.7812693,
+          "lng": -7.7346495
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJG5glBMsNXUgRv42wYAzqMxw",
+    "types": [
+      "administrative_area_level_2",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4031,
+    "area_name": "Ballyadams",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Ballyadams",
+        "short_name": "Ballyadams",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyadams, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.97195250000001,
+          "lng": -7.062563399999999
+        },
+        "southwest": {
+          "lat": 52.9598272,
+          "lng": -7.0848648
+        }
+      },
+      "location": {
+        "lat": 52.9668105,
+        "lng": -7.0741119
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.97195250000001,
+          "lng": -7.062563399999999
+        },
+        "southwest": {
+          "lat": 52.9598272,
+          "lng": -7.0848648
+        }
+      }
+    },
+    "place_id": "ChIJcUrZWXtuXUgRkADrN6nHABg",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2386,
+    "area_name": "Emo",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Emo",
+        "short_name": "Emo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Killimy",
+        "short_name": "Killimy",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Killimy, Emo, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.097203,
+        "lng": -7.208534999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.0985519802915,
+          "lng": -7.207186019708497
+        },
+        "southwest": {
+          "lat": 53.0958540197085,
+          "lng": -7.209883980291502
+        }
+      }
+    },
+    "place_id": "ChIJtb0LUqV0XUgRAIMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3777,
+    "area_name": "Crettyard",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Crettyard",
+        "short_name": "Crettyard",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Crettyard",
+        "short_name": "Crettyard",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Crettyard, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.8418541,
+        "lng": -7.1276305
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8432030802915,
+          "lng": -7.126281519708497
+        },
+        "southwest": {
+          "lat": 52.8405051197085,
+          "lng": -7.128979480291502
+        }
+      }
+    },
+    "place_id": "ChIJ0WUlEphqXUgRG-jY1TxbynY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1582,
+    "area_name": "Shanragh",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Shanragh",
+        "short_name": "Shanragh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Shanragh, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.92174,
+          "lng": -7.089729699999999
+        },
+        "southwest": {
+          "lat": 52.9052827,
+          "lng": -7.112460899999999
+        }
+      },
+      "location": {
+        "lat": 52.9140429,
+        "lng": -7.103095799999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.92174,
+          "lng": -7.089729699999999
+        },
+        "southwest": {
+          "lat": 52.9052827,
+          "lng": -7.112460899999999
+        }
+      }
+    },
+    "place_id": "ChIJYRnlmY5rXUgRkjxTu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2301,
+    "area_name": "Castlecuffe",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Castlecuffe",
+        "short_name": "Castlecuffe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Castlecuffe, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.1518562,
+          "lng": -7.579050599999999
+        },
+        "southwest": {
+          "lat": 53.13078110000001,
+          "lng": -7.6021657
+        }
+      },
+      "location": {
+        "lat": 53.1406593,
+        "lng": -7.5924334
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1518562,
+          "lng": -7.579050599999999
+        },
+        "southwest": {
+          "lat": 53.13078110000001,
+          "lng": -7.6021657
+        }
+      }
+    },
+    "place_id": "ChIJywSM6ACqXUgRYgK7GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1503,
+    "area_name": "Castletown",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Castletown",
+        "short_name": "Castletown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Churchfield",
+        "short_name": "Churchfield",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Churchfield, Castletown, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.9774693,
+        "lng": -7.4995604
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9788182802915,
+          "lng": -7.498211419708499
+        },
+        "southwest": {
+          "lat": 52.9761203197085,
+          "lng": -7.500909380291502
+        }
+      }
+    },
+    "place_id": "ChIJC6cHTDEbXUgRwIAxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2297,
+    "area_name": "Kilcavan",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Kilcavan",
+        "short_name": "Kilcavan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilcavan, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.2008306,
+          "lng": -7.350124599999999
+        },
+        "southwest": {
+          "lat": 53.1803946,
+          "lng": -7.381658099999999
+        }
+      },
+      "location": {
+        "lat": 53.1892375,
+        "lng": -7.370429799999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2008306,
+          "lng": -7.350124599999999
+        },
+        "southwest": {
+          "lat": 53.1803946,
+          "lng": -7.381658099999999
+        }
+      }
+    },
+    "place_id": "ChIJh4YFcc2gXUgRUgS7GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1509,
+    "area_name": "Cromoge",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Cromoge",
+        "short_name": "Cromoge",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Spahill",
+        "short_name": "Spahill",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cromoge, Spahill, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.95827,
+          "lng": -7.4041922
+        },
+        "southwest": {
+          "lat": 52.9424521,
+          "lng": -7.4206756
+        }
+      },
+      "location": {
+        "lat": 52.9521369,
+        "lng": -7.412816400000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.95827,
+          "lng": -7.4041922
+        },
+        "southwest": {
+          "lat": 52.9424521,
+          "lng": -7.4206756
+        }
+      }
+    },
+    "place_id": "ChIJI-kgSXEQXUgR0mpSu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1512,
+    "area_name": "Old Town",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Old Town",
+        "short_name": "Old Town",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Tullyroe",
+        "short_name": "Tullyroe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Tullyroe, Old Town, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.9080981,
+        "lng": -7.374188900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9094470802915,
+          "lng": -7.372839919708499
+        },
+        "southwest": {
+          "lat": 52.9067491197085,
+          "lng": -7.375537880291503
+        }
+      }
+    },
+    "place_id": "ChIJz0CD2rUQXUgRx0mVGaot0MU",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1585,
+    "area_name": "Swan",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Swan",
+        "short_name": "Swan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Slatt Lower",
+        "short_name": "Slatt Lower",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Slatt Lower, Swan, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.88901000000001,
+        "lng": -7.160559999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.89035898029151,
+          "lng": -7.159211019708497
+        },
+        "southwest": {
+          "lat": 52.88766101970851,
+          "lng": -7.161908980291502
+        }
+      }
+    },
+    "place_id": "ChIJjzsQti9rXUgRR4JkOW5WyCU",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1499,
+    "area_name": "Donaghmore",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Donaghmore",
+        "short_name": "Donaghmore",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Donaghmore",
+        "short_name": "Donaghmore",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Donaghmore, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.872509,
+        "lng": -7.6021564
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8738579802915,
+          "lng": -7.600807419708498
+        },
+        "southwest": {
+          "lat": 52.8711600197085,
+          "lng": -7.603505380291502
+        }
+      }
+    },
+    "place_id": "ChIJp9_KVRceXUgRYPoxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2389,
+    "area_name": "Jamestown",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Jamestown",
+        "short_name": "Jamestown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Coole",
+        "short_name": "Coole",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Jamestown, Coole, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.1190215,
+          "lng": -7.096790500000001
+        },
+        "southwest": {
+          "lat": 53.10059219999999,
+          "lng": -7.1200585
+        }
+      },
+      "location": {
+        "lat": 53.110508,
+        "lng": -7.1090164
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1190215,
+          "lng": -7.096790500000001
+        },
+        "southwest": {
+          "lat": 53.10059219999999,
+          "lng": -7.1200585
+        }
+      }
+    },
+    "place_id": "ChIJZ8GzeJ52XUgRQtC6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2392,
+    "area_name": "Stradbally",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Stradbally",
+        "short_name": "Stradbally",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Stradbally",
+        "short_name": "Stradbally",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Stradbally, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.01579830000001,
+        "lng": -7.149471699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.01714728029151,
+          "lng": -7.148122719708497
+        },
+        "southwest": {
+          "lat": 53.01444931970851,
+          "lng": -7.150820680291502
+        }
+      }
+    },
+    "place_id": "ChIJzTUkG4hyXUgRoNAxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2315,
+    "area_name": "Ringstown",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Ringstown",
+        "short_name": "Ringstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ringstown, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.0331376,
+          "lng": -7.437795299999999
+        },
+        "southwest": {
+          "lat": 53.0161884,
+          "lng": -7.4655367
+        }
+      },
+      "location": {
+        "lat": 53.0249877,
+        "lng": -7.4512607
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.0331376,
+          "lng": -7.437795299999999
+        },
+        "southwest": {
+          "lat": 53.0161884,
+          "lng": -7.4655367
+        }
+      }
+    },
+    "place_id": "ChIJ2wtU5nYFXUgRLeiYRgRXfOo",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1571,
+    "area_name": "Spink",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Spink",
+        "short_name": "Spink",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Knockbaun",
+        "short_name": "Knockbaun",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Knockbaun, Spink, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.90062,
+        "lng": -7.21552
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.90196898029149,
+          "lng": -7.214171019708497
+        },
+        "southwest": {
+          "lat": 52.89927101970849,
+          "lng": -7.216868980291502
+        }
+      }
+    },
+    "place_id": "ChIJsTEE148UXUgRgd66GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2384,
+    "area_name": "Mountmellick",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Mountmellick",
+        "short_name": "Mountmellick",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Townparks",
+        "short_name": "Townparks",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Townparks, Mountmellick, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.1181481,
+        "lng": -7.3267379
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1194970802915,
+          "lng": -7.325388919708498
+        },
+        "southwest": {
+          "lat": 53.1167991197085,
+          "lng": -7.328086880291503
+        }
+      }
+    },
+    "place_id": "ChIJ57RPWc4LXUgR8BYyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2391,
+    "area_name": "Vicarstown",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Vicarstown",
+        "short_name": "Vicarstown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Vicarstown (Cosby)",
+        "short_name": "Vicarstown (Cosby)",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Vicarstown (Cosby), Vicarstown, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.0517537,
+        "lng": -7.0834163
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.0531026802915,
+          "lng": -7.082067319708497
+        },
+        "southwest": {
+          "lat": 53.0504047197085,
+          "lng": -7.084765280291502
+        }
+      }
+    },
+    "place_id": "ChIJ2b3wFnhxXUgRYNgxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3839,
+    "area_name": "Killenard",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Killenard",
+        "short_name": "Killenard",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballycarroll",
+        "short_name": "Ballycarroll",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballycarroll, Killenard, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.1349458,
+        "lng": -7.1478515
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.13629478029149,
+          "lng": -7.146502519708497
+        },
+        "southwest": {
+          "lat": 53.1335968197085,
+          "lng": -7.149200480291502
+        }
+      }
+    },
+    "place_id": "ChIJ7foEYLV1XUgR4Akyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1498,
+    "area_name": "Clough",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Clogh",
+        "short_name": "Clogh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Tinnaragh",
+        "short_name": "Tinnaragh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Tinnaragh, Clogh, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.8868194,
+        "lng": -7.5098311
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8881683802915,
+          "lng": -7.508482119708497
+        },
+        "southwest": {
+          "lat": 52.8854704197085,
+          "lng": -7.511180080291502
+        }
+      }
+    },
+    "place_id": "ChIJla_Fqa0eXUgRAMoxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1518,
+    "area_name": "Cappalinnan",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Cappalinnan",
+        "short_name": "Cappalinnan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cappalinnan, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.834888,
+          "lng": -7.6216564
+        },
+        "southwest": {
+          "lat": 52.8218526,
+          "lng": -7.650292700000001
+        }
+      },
+      "location": {
+        "lat": 52.828163,
+        "lng": -7.638286099999998
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.834888,
+          "lng": -7.6216564
+        },
+        "southwest": {
+          "lat": 52.8218526,
+          "lng": -7.650292700000001
+        }
+      }
+    },
+    "place_id": "ChIJGTghLkHgXEgRQsC6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2320,
+    "area_name": "Pallas",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Pallas",
+        "short_name": "Pallas",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pallas Big",
+        "short_name": "Pallas Big",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Pallas Big, Pallas, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.04322999999999,
+        "lng": -7.340529999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.04457898029149,
+          "lng": -7.339181019708497
+        },
+        "southwest": {
+          "lat": 53.0418810197085,
+          "lng": -7.341878980291502
+        }
+      }
+    },
+    "place_id": "ChIJi6NHq48OXUgRbopOkAGHX-o",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2388,
+    "area_name": "Portlaoise",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Portlaoise",
+        "short_name": "Portlaoise",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Portlaoise, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.05466010000001,
+          "lng": -7.255550100000001
+        },
+        "southwest": {
+          "lat": 53.02104,
+          "lng": -7.330229900000001
+        }
+      },
+      "location": {
+        "lat": 53.0328123,
+        "lng": -7.298793300000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.05466010000001,
+          "lng": -7.255550100000001
+        },
+        "southwest": {
+          "lat": 53.02104,
+          "lng": -7.330229900000001
+        }
+      }
+    },
+    "place_id": "ChIJB05JSzUMXUgR0HQxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1455,
+    "area_name": "Nealstown",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Ballaghlyragh",
+        "short_name": "Ballaghlyragh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Gurteen",
+        "short_name": "Gurteen",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballaghlyragh, Gurteen, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.9968308,
+          "lng": -7.6964213
+        },
+        "southwest": {
+          "lat": 52.9844394,
+          "lng": -7.712274000000001
+        }
+      },
+      "location": {
+        "lat": 52.9899982,
+        "lng": -7.707800199999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9968308,
+          "lng": -7.6964213
+        },
+        "southwest": {
+          "lat": 52.9844394,
+          "lng": -7.712274000000001
+        }
+      }
+    },
+    "place_id": "ChIJUyDXKR79XEgRwkm7GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1494,
+    "area_name": "Pike of Rush Hall",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Pike of Rush Hall",
+        "short_name": "Pike of Rush Hall",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Rush Hall",
+        "short_name": "Rush Hall",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rush Hall, Pike of Rush Hall, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.95359999999999,
+        "lng": -7.55094
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.95494898029149,
+          "lng": -7.549591019708497
+        },
+        "southwest": {
+          "lat": 52.95225101970849,
+          "lng": -7.552288980291502
+        }
+      }
+    },
+    "place_id": "ChIJibRH-pQcXUgRXptcuUQp4Jk",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1570,
+    "area_name": "Timahoe",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Timahoe",
+        "short_name": "Timahoe",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Timahoe",
+        "short_name": "Timahoe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Timahoe, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.96066279999999,
+        "lng": -7.201463299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.96201178029149,
+          "lng": -7.200114319708497
+        },
+        "southwest": {
+          "lat": 52.95931381970849,
+          "lng": -7.202812280291502
+        }
+      }
+    },
+    "place_id": "ChIJDwbNOdcSXUgRACYyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1580,
+    "area_name": "Luggacurren",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Luggacurren",
+        "short_name": "Luggacurren",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Knockahonagh",
+        "short_name": "Knockahonagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Knockahonagh, Luggacurren, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.9472068,
+        "lng": -7.126792600000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9485557802915,
+          "lng": -7.125443619708499
+        },
+        "southwest": {
+          "lat": 52.9458578197085,
+          "lng": -7.128141580291503
+        }
+      }
+    },
+    "place_id": "ChIJPfi6YF9sXUgRcBAyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1650,
+    "area_name": "Kilmorony",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Kilmoroney",
+        "short_name": "Kilmoroney",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilmorony",
+        "short_name": "Kilmorony",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilmorony, Kilmoroney, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.94551999999999,
+        "lng": -6.975919999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9468689802915,
+          "lng": -6.974571019708497
+        },
+        "southwest": {
+          "lat": 52.9441710197085,
+          "lng": -6.977268980291502
+        }
+      }
+    },
+    "place_id": "ChIJJUI4VkJvXUgREgC7GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3888,
+    "area_name": "Kilminchy",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Kilminchy",
+        "short_name": "Kilminchy",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Portlaoise",
+        "short_name": "Portlaoise",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilminchy, Portlaoise, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.0526338,
+          "lng": -7.257628299999999
+        },
+        "southwest": {
+          "lat": 53.0399342,
+          "lng": -7.2754598
+        }
+      },
+      "location": {
+        "lat": 53.0457419,
+        "lng": -7.2673758
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.0526338,
+          "lng": -7.257628299999999
+        },
+        "southwest": {
+          "lat": 53.0399342,
+          "lng": -7.2754598
+        }
+      }
+    },
+    "place_id": "ChIJ8fzLl_wMXUgRctJSu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1586,
+    "area_name": "Newtown",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Newtown",
+        "short_name": "Newtown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Newtown, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.866768,
+          "lng": -7.1041839
+        },
+        "southwest": {
+          "lat": 52.8593526,
+          "lng": -7.1232035
+        }
+      },
+      "location": {
+        "lat": 52.8630266,
+        "lng": -7.1082572
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.866768,
+          "lng": -7.1041839
+        },
+        "southwest": {
+          "lat": 52.8593526,
+          "lng": -7.1232035
+        }
+      }
+    },
+    "place_id": "ChIJFa0yA_RqXUgRoBgyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2313,
+    "area_name": "Knocks",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Knock",
+        "short_name": "Knock",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Spink",
+        "short_name": "Spink",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Knock, Spink, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.90092929999999,
+        "lng": -7.233611300000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.90227828029149,
+          "lng": -7.232262319708498
+        },
+        "southwest": {
+          "lat": 52.8995803197085,
+          "lng": -7.234960280291503
+        }
+      }
+    },
+    "place_id": "ChIJGaCtNWMUXUgRu4wzXCsPJQk",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  },
+  {
+    "area_id": 1517,
+    "area_name": "Durrow",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Durrow",
+        "short_name": "Durrow",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Durrow, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8515364,
+          "lng": -7.381138099999999
+        },
+        "southwest": {
+          "lat": 52.8363153,
+          "lng": -7.4058141
+        }
+      },
+      "location": {
+        "lat": 52.84622479999999,
+        "lng": -7.394980200000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8515364,
+          "lng": -7.381138099999999
+        },
+        "southwest": {
+          "lat": 52.8363153,
+          "lng": -7.4058141
+        }
+      }
+    },
+    "place_id": "ChIJYcdCDCUYXUgR8IIxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1537,
+    "area_name": "Cullahill",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Cullohill",
+        "short_name": "Cullohill",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Galesquarter",
+        "short_name": "Galesquarter",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Galesquarter, Cullohill, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.8186911,
+        "lng": -7.474689300000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8200400802915,
+          "lng": -7.473340319708498
+        },
+        "southwest": {
+          "lat": 52.8173421197085,
+          "lng": -7.476038280291503
+        }
+      }
+    },
+    "place_id": "ChIJ02zFBa8YXUgR0Moxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1501,
+    "area_name": "Rathdowney",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Rathdowney",
+        "short_name": "Rathdowney",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rathdowney, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8597823,
+          "lng": -7.5677112
+        },
+        "southwest": {
+          "lat": 52.8464815,
+          "lng": -7.604495200000001
+        }
+      },
+      "location": {
+        "lat": 52.8555198,
+        "lng": -7.584797300000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8597823,
+          "lng": -7.5677112
+        },
+        "southwest": {
+          "lat": 52.8464815,
+          "lng": -7.604495200000001
+        }
+      }
+    },
+    "place_id": "ChIJlz9hjTYeXUgRMIYxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1458,
+    "area_name": "Errill",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Errill",
+        "short_name": "Errill",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Garrison",
+        "short_name": "Garrison",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Garrison, Errill, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.8599496,
+        "lng": -7.6769934
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8612985802915,
+          "lng": -7.675644419708497
+        },
+        "southwest": {
+          "lat": 52.8586006197085,
+          "lng": -7.678342380291502
+        }
+      }
+    },
+    "place_id": "ChIJu7JlUAzhXEgRMIMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1621,
+    "area_name": "Rossmore",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Laois",
+        "short_name": "Laois",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Laois, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.2156522,
+          "lng": -6.931934699999999
+        },
+        "southwest": {
+          "lat": 52.7812693,
+          "lng": -7.7346495
+        }
+      },
+      "location": {
+        "lat": 52.994295,
+        "lng": -7.332300699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2156522,
+          "lng": -6.931934699999999
+        },
+        "southwest": {
+          "lat": 52.7812693,
+          "lng": -7.7346495
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJG5glBMsNXUgRv42wYAzqMxw",
+    "types": [
+      "administrative_area_level_2",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1584,
+    "area_name": "Wolfhill",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Wolfhill",
+        "short_name": "Wolfhill",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Wolfhill",
+        "short_name": "Wolfhill",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Wolfhill, Co. Laois, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.8982326,
+        "lng": -7.1315671
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8995815802915,
+          "lng": -7.130218119708498
+        },
+        "southwest": {
+          "lat": 52.8968836197085,
+          "lng": -7.132916080291502
+        }
+      }
+    },
+    "place_id": "ChIJ4e1KEW1rXUgRemfqciFvwKE",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3778,
+    "area_name": "Towlerton",
+    "county_name": "Laois",
+    "county_id": 8,
+    "address_components": [
+      {
+        "long_name": "Towlerton",
+        "short_name": "Towlerton",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Towlerton, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8623996,
+          "lng": -7.0413948
+        },
+        "southwest": {
+          "lat": 52.8440113,
+          "lng": -7.0733299
+        }
+      },
+      "location": {
+        "lat": 52.8558323,
+        "lng": -7.0568063
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8623996,
+          "lng": -7.0413948
+        },
+        "southwest": {
+          "lat": 52.8440113,
+          "lng": -7.0733299
+        }
+      }
+    },
+    "place_id": "ChIJR22hvRlqXUgRO8FVE73R4V0",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  }
+]

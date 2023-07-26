@@ -1,0 +1,5255 @@
+[
+  {
+    "area_id": 650,
+    "area_name": "Loskeran",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Loskeran",
+        "short_name": "Loskeran",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Loskeran, Co. Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.02220010000001,
+          "lng": -7.608102799999999
+        },
+        "southwest": {
+          "lat": 52.0115765,
+          "lng": -7.627570100000001
+        }
+      },
+      "location": {
+        "lat": 52.0168463,
+        "lng": -7.617561899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.02220010000001,
+          "lng": -7.608102799999999
+        },
+        "southwest": {
+          "lat": 52.0115765,
+          "lng": -7.627570100000001
+        }
+      }
+    },
+    "place_id": "ChIJibxBPnUaQ0gRAt66GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4113,
+    "area_name": "Ballylaneen",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Ballylaneen",
+        "short_name": "Ballylaneen",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Carrigcastle",
+        "short_name": "Carrigcastle",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carrigcastle, Ballylaneen, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.1731296,
+        "lng": -7.3998351
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.1744785802915,
+          "lng": -7.398486119708497
+        },
+        "southwest": {
+          "lat": 52.1717806197085,
+          "lng": -7.401184080291502
+        }
+      }
+    },
+    "place_id": "ChIJ16CRVXXfQkgRYqq6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 621,
+    "area_name": "Ballymacarbry",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Ballymacarbry",
+        "short_name": "Ballymacarbry",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Curtiswood",
+        "short_name": "Curtiswood",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Curtiswood, Ballymacarbry, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.2670804,
+        "lng": -7.717650399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.26842938029149,
+          "lng": -7.716301419708497
+        },
+        "southwest": {
+          "lat": 52.26573141970849,
+          "lng": -7.718999380291502
+        }
+      }
+    },
+    "place_id": "ChIJOzSrgog6Q0gR8Lsxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 656,
+    "area_name": "Ballyaneen",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Ballylaneen",
+        "short_name": "Ballylaneen",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Carrigcastle",
+        "short_name": "Carrigcastle",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carrigcastle, Ballylaneen, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.1731296,
+        "lng": -7.3998351
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.1744785802915,
+          "lng": -7.398486119708497
+        },
+        "southwest": {
+          "lat": 52.1717806197085,
+          "lng": -7.401184080291502
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ16CRVXXfQkgRYqq6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 627,
+    "area_name": "Ballinaspick",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Ballinaspick",
+        "short_name": "Ballinaspick",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Monatrim Upper",
+        "short_name": "Monatrim Upper",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Monatrim Upper, Ballinaspick, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.10799,
+        "lng": -7.94663
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.1093389802915,
+          "lng": -7.945281019708498
+        },
+        "southwest": {
+          "lat": 52.1066410197085,
+          "lng": -7.947978980291502
+        }
+      }
+    },
+    "place_id": "ChIJZ7pH5vJBQ0gRoci6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 636,
+    "area_name": "Modelligo",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Modelligo",
+        "short_name": "Modelligo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Scart (Sergeant)",
+        "short_name": "Scart (Sergeant)",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Scart (Sergeant), Modelligo, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.14653999999999,
+        "lng": -7.74858
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.1478889802915,
+          "lng": -7.747231019708498
+        },
+        "southwest": {
+          "lat": 52.1451910197085,
+          "lng": -7.749928980291503
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJG1MjotU9Q0gRqcjtRxAMgCU",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 639,
+    "area_name": "Mahon Bridge",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Mahon Bridge",
+        "short_name": "Mahon Bridge",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Furraleigh",
+        "short_name": "Furraleigh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Furraleigh, Mahon Bridge, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.20554,
+        "lng": -7.49966
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.2068889802915,
+          "lng": -7.498311019708498
+        },
+        "southwest": {
+          "lat": 52.2041910197085,
+          "lng": -7.501008980291503
+        }
+      }
+    },
+    "place_id": "ChIJuSzSey0hQ0gR8GvfN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4050,
+    "area_name": "Ballinamona",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Ballinamona",
+        "short_name": "Ballinamona",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Upper Curragh",
+        "short_name": "Upper Curragh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballinamona, Upper Curragh, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 51.9610628,
+        "lng": -7.719258
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 51.9624117802915,
+          "lng": -7.717909019708498
+        },
+        "southwest": {
+          "lat": 51.9597138197085,
+          "lng": -7.720606980291502
+        }
+      }
+    },
+    "place_id": "ChIJj3cP4mASQ0gRkIXmN6nHABg",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  },
+  {
+    "area_id": 665,
+    "area_name": "Portlaw",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Portlaw",
+        "short_name": "Portlaw",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Portlaw, Co. Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.2969692,
+          "lng": -7.307820299999999
+        },
+        "southwest": {
+          "lat": 52.2794089,
+          "lng": -7.324320999999999
+        }
+      },
+      "location": {
+        "lat": 52.28926569999999,
+        "lng": -7.3147439
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.2969692,
+          "lng": -7.307820299999999
+        },
+        "southwest": {
+          "lat": 52.2794089,
+          "lng": -7.324320999999999
+        }
+      }
+    },
+    "place_id": "ChIJA2vsZWvaQkgRABsyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 451,
+    "area_name": "Ardmore",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Ardmore",
+        "short_name": "Ardmore",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Duffcarrick",
+        "short_name": "Duffcarrick",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Duffcarrick, Ardmore, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 51.9510741,
+        "lng": -7.725328999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 51.9524230802915,
+          "lng": -7.723980019708497
+        },
+        "southwest": {
+          "lat": 51.9497251197085,
+          "lng": -7.726677980291502
+        }
+      }
+    },
+    "place_id": "ChIJK_0BM20SQ0gRIMcxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 644,
+    "area_name": "Newtown",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Waterford",
+        "short_name": "Waterford",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.27019989999999,
+          "lng": -7.0548699
+        },
+        "southwest": {
+          "lat": 52.22481,
+          "lng": -7.171189999999999
+        }
+      },
+      "location": {
+        "lat": 52.2593197,
+        "lng": -7.110070299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.27019989999999,
+          "lng": -7.0548699
+        },
+        "southwest": {
+          "lat": 52.22481,
+          "lng": -7.171189999999999
+        }
+      }
+    },
+    "place_id": "ChIJTeTZY5zGQkgR-7lni4iBu8U",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 622,
+    "area_name": "Ballinamult",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Ballynamult",
+        "short_name": "Ballynamult",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballynamult",
+        "short_name": "Ballynamult",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballynamult, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.2114993,
+        "lng": -7.733832299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.2128482802915,
+          "lng": -7.732483319708496
+        },
+        "southwest": {
+          "lat": 52.2101503197085,
+          "lng": -7.735181280291501
+        }
+      }
+    },
+    "place_id": "ChIJDyrASZQ7Q0gRsm1Ru6fHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 600,
+    "area_name": "Lyrenaglogh",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Lyrenaglogh",
+        "short_name": "Lyrenaglogh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Church View",
+        "short_name": "Church View",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lyrenaglogh, Church View, Co. Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.17175899999999,
+          "lng": -8.0970739
+        },
+        "southwest": {
+          "lat": 52.1583799,
+          "lng": -8.1180333
+        }
+      },
+      "location": {
+        "lat": 52.1639877,
+        "lng": -8.106808299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.17175899999999,
+          "lng": -8.0970739
+        },
+        "southwest": {
+          "lat": 52.1583799,
+          "lng": -8.1180333
+        }
+      }
+    },
+    "place_id": "ChIJO5fbsahcQ0gREuC6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 601,
+    "area_name": "Ballyduff",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Ballyduff",
+        "short_name": "Ballyduff",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballyduff",
+        "short_name": "Ballyduff",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyduff, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.1477946,
+        "lng": -8.051272599999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.1491435802915,
+          "lng": -8.049923619708498
+        },
+        "southwest": {
+          "lat": 52.1464456197085,
+          "lng": -8.052621580291502
+        }
+      }
+    },
+    "place_id": "ChIJFceMERVDQ0gR8KYxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 649,
+    "area_name": "Ballynagaul",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Ballynagaul",
+        "short_name": "Ballynagaul",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballyreilly",
+        "short_name": "Ballyreilly",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyreilly, Ballynagaul, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.04967,
+        "lng": -7.562990000000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.0510189802915,
+          "lng": -7.561641019708499
+        },
+        "southwest": {
+          "lat": 52.0483210197085,
+          "lng": -7.564338980291503
+        }
+      }
+    },
+    "place_id": "ChIJNRgnHpwZQ0gRLDS8zybEIjs",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 638,
+    "area_name": "Rathgormack",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Rathgormack",
+        "short_name": "Rathgormack",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Carrowleigh",
+        "short_name": "Carrowleigh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carrowleigh, Rathgormack, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.30536129999999,
+        "lng": -7.495986299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.30671028029149,
+          "lng": -7.494637319708497
+        },
+        "southwest": {
+          "lat": 52.30401231970849,
+          "lng": -7.497335280291501
+        }
+      }
+    },
+    "place_id": "ChIJoVTj2nEoQ0gRQv-6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 683,
+    "area_name": "Passage East",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Passage East",
+        "short_name": "Passage East",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Passage West",
+        "short_name": "Passage West",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Passage West, Passage East, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.2396938,
+        "lng": -6.974394999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.24104278029149,
+          "lng": -6.973046019708498
+        },
+        "southwest": {
+          "lat": 52.2383448197085,
+          "lng": -6.975743980291502
+        }
+      }
+    },
+    "place_id": "ChIJ2-cfdDW_QkgR4M4xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 631,
+    "area_name": "Aglish",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Aglish",
+        "short_name": "Aglish",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballynaparka",
+        "short_name": "Ballynaparka",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballynaparka, Aglish, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.0715072,
+        "lng": -7.822269599999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.0728561802915,
+          "lng": -7.820920619708497
+        },
+        "southwest": {
+          "lat": 52.0701582197085,
+          "lng": -7.823618580291502
+        }
+      }
+    },
+    "place_id": "ChIJ41GcNCUVQ0gR4MYxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3926,
+    "area_name": "Ballygunner",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Ballygunner",
+        "short_name": "Ballygunner",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Waterford",
+        "short_name": "Waterford",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballygunner, Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.2307546,
+        "lng": -7.0643689
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.2321035802915,
+          "lng": -7.063019919708498
+        },
+        "southwest": {
+          "lat": 52.2294056197085,
+          "lng": -7.065717880291502
+        }
+      }
+    },
+    "place_id": "ChIJNTbpMSzBQkgRtciIIXu8aBQ",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  },
+  {
+    "area_id": 3920,
+    "area_name": "Ballytruckle",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Ballytruckle",
+        "short_name": "Ballytruckle",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Waterford",
+        "short_name": "Waterford",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballytruckle, Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.2501018,
+        "lng": -7.109148800000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.25145078029149,
+          "lng": -7.107799819708499
+        },
+        "southwest": {
+          "lat": 52.24875281970849,
+          "lng": -7.110497780291503
+        }
+      }
+    },
+    "place_id": "ChIJzYfLuB_EQkgRMSwsu6fHACY",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  },
+  {
+    "area_id": 675,
+    "area_name": "Annestown",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Annestown",
+        "short_name": "Annestown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Annestown",
+        "short_name": "Annestown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Annestown, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.1405863,
+        "lng": -7.2719426
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.1419352802915,
+          "lng": -7.270593619708498
+        },
+        "southwest": {
+          "lat": 52.1392373197085,
+          "lng": -7.273291580291502
+        }
+      }
+    },
+    "place_id": "ChIJLwqxbovdQkgRINExl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 449,
+    "area_name": "Moord",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Moord",
+        "short_name": "Moord",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Moord, Co. Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 51.9683709,
+          "lng": -7.799512900000001
+        },
+        "southwest": {
+          "lat": 51.9597787,
+          "lng": -7.816002600000001
+        }
+      },
+      "location": {
+        "lat": 51.96340559999999,
+        "lng": -7.807277099999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 51.9683709,
+          "lng": -7.799512900000001
+        },
+        "southwest": {
+          "lat": 51.9597787,
+          "lng": -7.816002600000001
+        }
+      }
+    },
+    "place_id": "ChIJn1kce80SQ0gR0fy6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 625,
+    "area_name": "Millstreet",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Millstreet",
+        "short_name": "Millstreet",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Castlequarter",
+        "short_name": "Castlequarter",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Castlequarter, Millstreet, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.16202,
+        "lng": -7.75045
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.16336898029149,
+          "lng": -7.749101019708498
+        },
+        "southwest": {
+          "lat": 52.1606710197085,
+          "lng": -7.751798980291502
+        }
+      }
+    },
+    "place_id": "ChIJD-tiRSY8Q0gRA0dKUlGT6YA",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 630,
+    "area_name": "Boola",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Boola",
+        "short_name": "Boola",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Springmount",
+        "short_name": "Springmount",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Boola, Springmount, Co. Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.0233781,
+          "lng": -7.907218299999999
+        },
+        "southwest": {
+          "lat": 52.0080733,
+          "lng": -7.937446800000001
+        }
+      },
+      "location": {
+        "lat": 52.0142061,
+        "lng": -7.920897000000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.0233781,
+          "lng": -7.907218299999999
+        },
+        "southwest": {
+          "lat": 52.0080733,
+          "lng": -7.937446800000001
+        }
+      }
+    },
+    "place_id": "ChIJ90M24_lrQ0gR-blaRov1JIY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 673,
+    "area_name": "Belview Port",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Waterford",
+        "short_name": "Waterford",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.27019989999999,
+          "lng": -7.0548699
+        },
+        "southwest": {
+          "lat": 52.22481,
+          "lng": -7.171189999999999
+        }
+      },
+      "location": {
+        "lat": 52.2593197,
+        "lng": -7.110070299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.27019989999999,
+          "lng": -7.0548699
+        },
+        "southwest": {
+          "lat": 52.22481,
+          "lng": -7.171189999999999
+        }
+      }
+    },
+    "place_id": "ChIJTeTZY5zGQkgR-7lni4iBu8U",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 641,
+    "area_name": "Mothel",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Mothel",
+        "short_name": "Mothel",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Mothel",
+        "short_name": "Mothel",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Mothel, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.2999044,
+        "lng": -7.4191859
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.3012533802915,
+          "lng": -7.417836919708498
+        },
+        "southwest": {
+          "lat": 52.2985554197085,
+          "lng": -7.420534880291503
+        }
+      }
+    },
+    "place_id": "ChIJnRwlEYjXQkgR3nNcDLRxOoU",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3811,
+    "area_name": "Carrick-on-Suir",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Carrick-on-Suir",
+        "short_name": "Carrick-on-Suir",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Tipperary",
+        "short_name": "TA",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carrick-on-Suir, Co. Tipperary, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.3555956,
+          "lng": -7.384372599999999
+        },
+        "southwest": {
+          "lat": 52.33822199999999,
+          "lng": -7.4282674
+        }
+      },
+      "location": {
+        "lat": 52.3467186,
+        "lng": -7.414770799999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.3555956,
+          "lng": -7.384372599999999
+        },
+        "southwest": {
+          "lat": 52.33822199999999,
+          "lng": -7.4282674
+        }
+      }
+    },
+    "place_id": "ChIJHwUZlvzWQkgREOkxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 629,
+    "area_name": "The Pike",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "The Pike",
+        "short_name": "The Pike",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Killineen East",
+        "short_name": "Killineen East",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Killineen East, The Pike, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.12484,
+        "lng": -7.560999999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.1261889802915,
+          "lng": -7.559651019708498
+        },
+        "southwest": {
+          "lat": 52.1234910197085,
+          "lng": -7.562348980291501
+        }
+      }
+    },
+    "place_id": "ChIJD0Vv1nAiQ0gRIcuIpw5VjBY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 654,
+    "area_name": "Stradbally",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Stradbally",
+        "short_name": "Stradbally",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Stradbally More",
+        "short_name": "Stradbally More",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Stradbally More, Stradbally, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.1313569,
+        "lng": -7.4608978
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.1327058802915,
+          "lng": -7.459548819708497
+        },
+        "southwest": {
+          "lat": 52.1300079197085,
+          "lng": -7.462246780291502
+        }
+      }
+    },
+    "place_id": "ChIJv6JFMS8gQ0gRkNAxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 450,
+    "area_name": "Curragh",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Waterford",
+        "short_name": "Waterford",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.27019989999999,
+          "lng": -7.0548699
+        },
+        "southwest": {
+          "lat": 52.22481,
+          "lng": -7.171189999999999
+        }
+      },
+      "location": {
+        "lat": 52.2593197,
+        "lng": -7.110070299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.27019989999999,
+          "lng": -7.0548699
+        },
+        "southwest": {
+          "lat": 52.22481,
+          "lng": -7.171189999999999
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJTeTZY5zGQkgR-7lni4iBu8U",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 633,
+    "area_name": "Keereen",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Keereen",
+        "short_name": "Keereen",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Keereen Lower",
+        "short_name": "Keereen Lower",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Keereen Lower, Keereen, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.08974,
+        "lng": -7.797019999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.0910889802915,
+          "lng": -7.795671019708497
+        },
+        "southwest": {
+          "lat": 52.0883910197085,
+          "lng": -7.798368980291501
+        }
+      }
+    },
+    "place_id": "ChIJyUES03YVQ0gRwti6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3801,
+    "area_name": "Faithlegg",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Faithlegg",
+        "short_name": "Faithlegg",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Faithlegg, Co. Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.2713482,
+          "lng": -7.013332999999999
+        },
+        "southwest": {
+          "lat": 52.2529194,
+          "lng": -7.0376505
+        }
+      },
+      "location": {
+        "lat": 52.2610318,
+        "lng": -7.0234649
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.2713482,
+          "lng": -7.013332999999999
+        },
+        "southwest": {
+          "lat": 52.2529194,
+          "lng": -7.0376505
+        }
+      }
+    },
+    "place_id": "ChIJkQgeul3HQkgRECzfN6nHABg",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 624,
+    "area_name": "Knockboy",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Knockboy",
+        "short_name": "Knockboy",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Waterford",
+        "short_name": "Waterford",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Knockboy, Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.2344703,
+        "lng": -7.060227599999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.23581928029149,
+          "lng": -7.058878619708497
+        },
+        "southwest": {
+          "lat": 52.2331213197085,
+          "lng": -7.061576580291502
+        }
+      }
+    },
+    "place_id": "ChIJVU-HpSrBQkgR0d20uqfHACY",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  },
+  {
+    "area_id": 655,
+    "area_name": "Faha",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Faha",
+        "short_name": "Faha",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Grawn",
+        "short_name": "Grawn",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Faha, Grawn, Co. Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.1887734,
+          "lng": -7.4608303
+        },
+        "southwest": {
+          "lat": 52.1730277,
+          "lng": -7.486509999999999
+        }
+      },
+      "location": {
+        "lat": 52.1805547,
+        "lng": -7.4715887
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.1887734,
+          "lng": -7.4608303
+        },
+        "southwest": {
+          "lat": 52.1730277,
+          "lng": -7.486509999999999
+        }
+      }
+    },
+    "place_id": "ChIJZV1aVuQgQ0gRIITss1qH-XE",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3814,
+    "area_name": "Ring",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Ringville",
+        "short_name": "Ringville",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballynagaul Beg",
+        "short_name": "Ballynagaul Beg",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballynagaul Beg, Ringville, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.04689450000001,
+        "lng": -7.571887899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.04824348029151,
+          "lng": -7.570538919708497
+        },
+        "southwest": {
+          "lat": 52.04554551970851,
+          "lng": -7.573236880291502
+        }
+      }
+    },
+    "place_id": "ChIJ08tT5ZMZQ0gRYJIxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3965,
+    "area_name": "Old Parish",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Old Parish",
+        "short_name": "Old Parish",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Knockroe Estate",
+        "short_name": "Knockroe Estate",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Old Parish, Knockroe Estate, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.0069522,
+        "lng": -7.6323504
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.0083011802915,
+          "lng": -7.631001419708498
+        },
+        "southwest": {
+          "lat": 52.0056032197085,
+          "lng": -7.633699380291502
+        }
+      }
+    },
+    "place_id": "ChIJWSHvY-oQQ0gREWkQ9QRvGY8",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  },
+  {
+    "area_id": 676,
+    "area_name": "Fenor",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Fennor",
+        "short_name": "Fennor",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Fennor North",
+        "short_name": "Fennor North",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Fennor North, Fennor, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.1614744,
+        "lng": -7.227133900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.1628233802915,
+          "lng": -7.225784919708499
+        },
+        "southwest": {
+          "lat": 52.1601254197085,
+          "lng": -7.228482880291503
+        }
+      }
+    },
+    "place_id": "ChIJm3IdMxXdQkgRAqm6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 648,
+    "area_name": "Ringville",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Ringville",
+        "short_name": "Ringville",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballynagaul Beg",
+        "short_name": "Ballynagaul Beg",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballynagaul Beg, Ringville, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.04689450000001,
+        "lng": -7.571887899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.04824348029151,
+          "lng": -7.570538919708497
+        },
+        "southwest": {
+          "lat": 52.04554551970851,
+          "lng": -7.573236880291502
+        }
+      }
+    },
+    "place_id": "ChIJ08tT5ZMZQ0gRYJIxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3910,
+    "area_name": "Cappagh",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Cappagh",
+        "short_name": "Cappagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilcannon",
+        "short_name": "Kilcannon",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cappagh, Kilcannon, Co. Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.1254635,
+          "lng": -7.7328818
+        },
+        "southwest": {
+          "lat": 52.1149445,
+          "lng": -7.7532095
+        }
+      },
+      "location": {
+        "lat": 52.1192156,
+        "lng": -7.742777599999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.1254635,
+          "lng": -7.7328818
+        },
+        "southwest": {
+          "lat": 52.1149445,
+          "lng": -7.7532095
+        }
+      }
+    },
+    "place_id": "ChIJ--xIm-M9Q0gRcmxRu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4012,
+    "area_name": "Kilclooney",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Kilclooney",
+        "short_name": "Kilclooney",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cutteen",
+        "short_name": "Cutteen",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilclooney, Cutteen, Co. Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.2538591,
+          "lng": -7.4882298
+        },
+        "southwest": {
+          "lat": 52.2310492,
+          "lng": -7.549291299999999
+        }
+      },
+      "location": {
+        "lat": 52.2431155,
+        "lng": -7.5142376
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.2538591,
+          "lng": -7.4882298
+        },
+        "southwest": {
+          "lat": 52.2310492,
+          "lng": -7.549291299999999
+        }
+      }
+    },
+    "place_id": "ChIJSRiGrPEmQ0gR_0r_-Sfqd8g",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 667,
+    "area_name": "Dunhill",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Dunhill",
+        "short_name": "Dunhill",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballyphilip",
+        "short_name": "Ballyphilip",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyphilip, Dunhill, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.1737783,
+        "lng": -7.263755799999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.17512728029149,
+          "lng": -7.262406819708497
+        },
+        "southwest": {
+          "lat": 52.1724293197085,
+          "lng": -7.265104780291502
+        }
+      }
+    },
+    "place_id": "ChIJof0nIKndQkgRcP4xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3802,
+    "area_name": "Cheekpoint",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Cheekpoint",
+        "short_name": "Cheekpoint",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cheekpoint, Co. Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.2756972,
+          "lng": -6.9836189
+        },
+        "southwest": {
+          "lat": 52.25970969999999,
+          "lng": -7.020145899999999
+        }
+      },
+      "location": {
+        "lat": 52.2685767,
+        "lng": -7.0036114
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.2756972,
+          "lng": -6.9836189
+        },
+        "southwest": {
+          "lat": 52.25970969999999,
+          "lng": -7.020145899999999
+        }
+      }
+    },
+    "place_id": "ChIJRVSsfZC4QkgR0Boyl6nHAAo",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 635,
+    "area_name": "Clashmore",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Clashmore",
+        "short_name": "Clashmore",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Raheen",
+        "short_name": "Raheen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Raheen, Clashmore, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.0093569,
+        "lng": -7.8188756
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.0107058802915,
+          "lng": -7.817526619708498
+        },
+        "southwest": {
+          "lat": 52.0080079197085,
+          "lng": -7.820224580291502
+        }
+      }
+    },
+    "place_id": "ChIJ0et5NlITQ0gRgO8xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4013,
+    "area_name": "Grantstown",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Grantstown",
+        "short_name": "Grantstown",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Waterford",
+        "short_name": "Waterford",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Grantstown, Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.2319666,
+        "lng": -7.069787199999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.2333155802915,
+          "lng": -7.068438219708497
+        },
+        "southwest": {
+          "lat": 52.2306176197085,
+          "lng": -7.071136180291502
+        }
+      }
+    },
+    "place_id": "ChIJDdOra8vGQkgRcndQu6fHACY",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  },
+  {
+    "area_id": 651,
+    "area_name": "Boolattin",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Boolattin",
+        "short_name": "Boolattin",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cutteen",
+        "short_name": "Cutteen",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Boolattin, Cutteen, Co. Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.1813866,
+          "lng": -7.5551814
+        },
+        "southwest": {
+          "lat": 52.1694962,
+          "lng": -7.5848334
+        }
+      },
+      "location": {
+        "lat": 52.1754812,
+        "lng": -7.569864099999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.1813866,
+          "lng": -7.5551814
+        },
+        "southwest": {
+          "lat": 52.1694962,
+          "lng": -7.5848334
+        }
+      }
+    },
+    "place_id": "ChIJI4FBb7kjQ0gRnhmGlJ4Pflk",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 647,
+    "area_name": "Dungarvan",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Dungarvan",
+        "short_name": "Dungarvan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Dungarvan, Co. Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.10551,
+          "lng": -7.5958199
+        },
+        "southwest": {
+          "lat": 52.0773099,
+          "lng": -7.6464501
+        }
+      },
+      "location": {
+        "lat": 52.0936763,
+        "lng": -7.620362699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.10551,
+          "lng": -7.5958199
+        },
+        "southwest": {
+          "lat": 52.0773099,
+          "lng": -7.6464501
+        }
+      }
+    },
+    "place_id": "ChIJJ1mpKYwXQ0gRn8AdzO5jChw",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 623,
+    "area_name": "Ballynaguilkee",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Ballynaguilkee",
+        "short_name": "Ballynaguilkee",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballynaguilkee Lower",
+        "short_name": "Ballynaguilkee Lower",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballynaguilkee Lower, Ballynaguilkee, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.19403,
+        "lng": -7.739630000000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.19537898029149,
+          "lng": -7.738281019708499
+        },
+        "southwest": {
+          "lat": 52.1926810197085,
+          "lng": -7.740978980291502
+        }
+      }
+    },
+    "place_id": "ChIJSSROnvU7Q0gRn5NPts0Gr8Y",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 620,
+    "area_name": "Feagarrid",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Feagarrid",
+        "short_name": "Feagarrid",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Feagarrid, Co. Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.18640689999999,
+          "lng": -7.9688031
+        },
+        "southwest": {
+          "lat": 52.1738284,
+          "lng": -7.987912099999999
+        }
+      },
+      "location": {
+        "lat": 52.1794281,
+        "lng": -7.978916799999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.18640689999999,
+          "lng": -7.9688031
+        },
+        "southwest": {
+          "lat": 52.1738284,
+          "lng": -7.987912099999999
+        }
+      }
+    },
+    "place_id": "ChIJQ4I3sqtGQ0gRYt1VzxFG7I8",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 448,
+    "area_name": "Kinsalebeg",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Kinsalebeg",
+        "short_name": "Kinsalebeg",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pilltown",
+        "short_name": "Pilltown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Pilltown, Kinsalebeg, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 51.9692953,
+        "lng": -7.8092161
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 51.97064428029149,
+          "lng": -7.807867119708497
+        },
+        "southwest": {
+          "lat": 51.9679463197085,
+          "lng": -7.810565080291502
+        }
+      }
+    },
+    "place_id": "ChIJVd3hl9MSQ0gRQFnfN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 666,
+    "area_name": "Kilmeadan",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Kilmeaden",
+        "short_name": "Kilmeaden",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Adamstown",
+        "short_name": "Adamstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Adamstown, Kilmeaden, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.23333,
+        "lng": -7.24281
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.23467898029149,
+          "lng": -7.241461019708497
+        },
+        "southwest": {
+          "lat": 52.2319810197085,
+          "lng": -7.244158980291502
+        }
+      }
+    },
+    "place_id": "ChIJyY0FjETbQkgRALwxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 613,
+    "area_name": "Tallowbridge",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Tallowbridge",
+        "short_name": "Tallowbridge",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Tallowbridge Lands",
+        "short_name": "Tallowbridge Lands",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Tallowbridge Lands, Tallowbridge, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.10222,
+        "lng": -8.00057
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.1035689802915,
+          "lng": -7.999221019708498
+        },
+        "southwest": {
+          "lat": 52.1008710197085,
+          "lng": -8.001918980291503
+        }
+      }
+    },
+    "place_id": "ChIJp2QsMG5CQ0gR5xdO2eBiYPg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 626,
+    "area_name": "Lismore",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Lismore",
+        "short_name": "Lismore",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lismore",
+        "short_name": "Lismore",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lismore, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.13581840000001,
+        "lng": -7.9376803
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.13716738029151,
+          "lng": -7.936331319708498
+        },
+        "southwest": {
+          "lat": 52.13446941970851,
+          "lng": -7.939029280291503
+        }
+      }
+    },
+    "place_id": "ChIJlZPwpKdBQ0gR8A4yl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 681,
+    "area_name": "Dunmore East",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Dunmore East",
+        "short_name": "Dunmore East",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Nymphhall",
+        "short_name": "Nymphhall",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Nymphhall, Dunmore East, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.1527666,
+        "lng": -6.994803999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.1541155802915,
+          "lng": -6.993455019708497
+        },
+        "southwest": {
+          "lat": 52.1514176197085,
+          "lng": -6.996152980291502
+        }
+      }
+    },
+    "place_id": "ChIJpSqYR6fqQkgR0P8xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 679,
+    "area_name": "Ballymacaw",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Ballymacaw",
+        "short_name": "Ballymacaw",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballymacaw, Co. Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.1566245,
+          "lng": -7.0376572
+        },
+        "southwest": {
+          "lat": 52.1404879,
+          "lng": -7.0544318
+        }
+      },
+      "location": {
+        "lat": 52.1472912,
+        "lng": -7.046466799999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.1566245,
+          "lng": -7.0376572
+        },
+        "southwest": {
+          "lat": 52.1404879,
+          "lng": -7.0544318
+        }
+      }
+    },
+    "place_id": "ChIJmZYVzXnqQkgRKAjwvj0VPBM",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3945,
+    "area_name": "Kilmacow",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Kilmacow",
+        "short_name": "Kilmacow",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilmacow, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.325626,
+          "lng": -7.167436299999999
+        },
+        "southwest": {
+          "lat": 52.3081808,
+          "lng": -7.1888109
+        }
+      },
+      "location": {
+        "lat": 52.31208050000001,
+        "lng": -7.1765298
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.325626,
+          "lng": -7.167436299999999
+        },
+        "southwest": {
+          "lat": 52.3081808,
+          "lng": -7.1888109
+        }
+      }
+    },
+    "place_id": "ChIJR3PBwH3PQkgRIIkxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 653,
+    "area_name": "Ballynacourty",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Ballinacourty",
+        "short_name": "Ballinacourty",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballinacourty, Co. Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.088936,
+          "lng": -7.550942399999999
+        },
+        "southwest": {
+          "lat": 52.0777827,
+          "lng": -7.57204
+        }
+      },
+      "location": {
+        "lat": 52.0850472,
+        "lng": -7.562872
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.088936,
+          "lng": -7.550942399999999
+        },
+        "southwest": {
+          "lat": 52.0777827,
+          "lng": -7.57204
+        }
+      }
+    },
+    "place_id": "ChIJnWllZfkYQ0gRoB3ErHlIqIA",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 680,
+    "area_name": "Brownstown",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Brownstown",
+        "short_name": "Brownstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Brownstown, Co. Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.14147149999999,
+          "lng": -7.0812279
+        },
+        "southwest": {
+          "lat": 52.1272974,
+          "lng": -7.108767299999999
+        }
+      },
+      "location": {
+        "lat": 52.1356849,
+        "lng": -7.0961668
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.14147149999999,
+          "lng": -7.0812279
+        },
+        "southwest": {
+          "lat": 52.1272974,
+          "lng": -7.108767299999999
+        }
+      }
+    },
+    "place_id": "ChIJ62v27fDpQkgR4r-6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 674,
+    "area_name": "Kill",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Kill",
+        "short_name": "Kill",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Sleveen",
+        "short_name": "Sleveen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Sleveen, Kill, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.1758844,
+        "lng": -7.335392100000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.1772333802915,
+          "lng": -7.334043119708499
+        },
+        "southwest": {
+          "lat": 52.1745354197085,
+          "lng": -7.336741080291503
+        }
+      }
+    },
+    "place_id": "ChIJKXRExIneQkgR0Mkxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 682,
+    "area_name": "Woodstown",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Woodstown",
+        "short_name": "Woodstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Woodstown, Co. Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.2607282,
+          "lng": -7.1756997
+        },
+        "southwest": {
+          "lat": 52.2432431,
+          "lng": -7.202652499999999
+        }
+      },
+      "location": {
+        "lat": 52.2502576,
+        "lng": -7.1924262
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.2607282,
+          "lng": -7.1756997
+        },
+        "southwest": {
+          "lat": 52.2432431,
+          "lng": -7.202652499999999
+        }
+      }
+    },
+    "place_id": "ChIJVwgVjezEQkgRYtleYBafEAY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 640,
+    "area_name": "Kilbrien",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Kilbrien",
+        "short_name": "Kilbrien",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilbryan Lower",
+        "short_name": "Kilbryan Lower",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilbryan Lower, Kilbrien, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.18731,
+        "lng": -7.652279999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.1886589802915,
+          "lng": -7.650931019708497
+        },
+        "southwest": {
+          "lat": 52.1859610197085,
+          "lng": -7.653628980291502
+        }
+      }
+    },
+    "place_id": "ChIJXU3cv608Q0gRgtm6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 645,
+    "area_name": "Kilmacthomas",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Kilmacthomas",
+        "short_name": "Kilmacthomas",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilmacthomas, Co. Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.2103414,
+          "lng": -7.4089789
+        },
+        "southwest": {
+          "lat": 52.1969332,
+          "lng": -7.434842600000001
+        }
+      },
+      "location": {
+        "lat": 52.2054897,
+        "lng": -7.426765199999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.2103414,
+          "lng": -7.4089789
+        },
+        "southwest": {
+          "lat": 52.1969332,
+          "lng": -7.434842600000001
+        }
+      }
+    },
+    "place_id": "ChIJXwdn1lDfQkgR4PMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 643,
+    "area_name": "Fews",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Fews",
+        "short_name": "Fews",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilnagrange",
+        "short_name": "Kilnagrange",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilnagrange, Fews, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.22088,
+        "lng": -7.450830000000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.2222289802915,
+          "lng": -7.449481019708498
+        },
+        "southwest": {
+          "lat": 52.2195310197085,
+          "lng": -7.452178980291503
+        }
+      }
+    },
+    "place_id": "ChIJi3mBMU8nQ0gRwkZSu6fHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 668,
+    "area_name": "Butlerstown",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Butlerstown",
+        "short_name": "Butlerstown",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Hillcrest Grove",
+        "short_name": "Hillcrest Grove",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Butlerstown, Hillcrest Grove, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.2295939,
+        "lng": -7.1781459
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.23094288029151,
+          "lng": -7.176796919708497
+        },
+        "southwest": {
+          "lat": 52.22824491970851,
+          "lng": -7.179494880291502
+        }
+      }
+    },
+    "place_id": "ChIJtZjMtILEQkgRt6L1EjcHCmQ",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  },
+  {
+    "area_id": 678,
+    "area_name": "Clohernagh",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Clohernagh",
+        "short_name": "Clohernagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilmacleague East",
+        "short_name": "Kilmacleague East",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilmacleague East, Clohernagh, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.17013000000001,
+        "lng": -7.06398
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.17147898029151,
+          "lng": -7.062631019708498
+        },
+        "southwest": {
+          "lat": 52.16878101970851,
+          "lng": -7.065328980291502
+        }
+      }
+    },
+    "place_id": "ChIJb_Z2aMDBQkgRfAjxoBaHG6k",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 453,
+    "area_name": "Grange",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Grange",
+        "short_name": "Grange",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballybrusa West",
+        "short_name": "Ballybrusa West",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballybrusa West, Grange, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 51.98679449999999,
+        "lng": -7.747890299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 51.98814348029149,
+          "lng": -7.746541319708497
+        },
+        "southwest": {
+          "lat": 51.9854455197085,
+          "lng": -7.749239280291501
+        }
+      }
+    },
+    "place_id": "ChIJEYq7La4TQ0gRdumWJ9Kv31o",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 669,
+    "area_name": "Waterford City",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Waterford",
+        "short_name": "Waterford",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.27019989999999,
+          "lng": -7.0548699
+        },
+        "southwest": {
+          "lat": 52.22481,
+          "lng": -7.171189999999999
+        }
+      },
+      "location": {
+        "lat": 52.2593197,
+        "lng": -7.110070299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.27019989999999,
+          "lng": -7.0548699
+        },
+        "southwest": {
+          "lat": 52.22481,
+          "lng": -7.171189999999999
+        }
+      }
+    },
+    "place_id": "ChIJTeTZY5zGQkgR-7lni4iBu8U",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 628,
+    "area_name": "Villierstown",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Villierstown",
+        "short_name": "Villierstown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballingowan West",
+        "short_name": "Ballingowan West",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballingowan West, Villierstown, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.08824449999999,
+        "lng": -7.850768
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.0895934802915,
+          "lng": -7.849419019708497
+        },
+        "southwest": {
+          "lat": 52.0868955197085,
+          "lng": -7.852116980291502
+        }
+      }
+    },
+    "place_id": "ChIJ9dbJt7FqQ0gRUL8xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 634,
+    "area_name": "Cross",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Tramore Cross, County Waterford",
+        "short_name": "Tramore Cross, County Waterford",
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "long_name": "Orchardstown",
+        "short_name": "Orchardstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Tramore Cross, County Waterford, Orchardstown, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.2318144,
+        "lng": -7.200759499999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": 52.23316983029149,
+          "lng": -7.199337619708498
+        },
+        "southwest": {
+          "lat": 52.2304718697085,
+          "lng": -7.202035580291502
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ32yjuqbEQkgR81efdAqgvz8",
+    "plus_code": {
+      "compound_code": "6QJX+PM Orchardstown Close, County Waterford, Ireland",
+      "global_code": "9C4J6QJX+PM"
+    },
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  {
+    "area_id": 3868,
+    "area_name": "Lackaroe",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Lackaroe",
+        "short_name": "Lackaroe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lackaroe, Co. Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.000102,
+          "lng": -7.8805085
+        },
+        "southwest": {
+          "lat": 51.9899148,
+          "lng": -7.9000496
+        }
+      },
+      "location": {
+        "lat": 51.9916605,
+        "lng": -7.8908175
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.000102,
+          "lng": -7.8805085
+        },
+        "southwest": {
+          "lat": 51.9899148,
+          "lng": -7.9000496
+        }
+      }
+    },
+    "place_id": "ChIJAeiUQGhsQ0gRkg7BGajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 646,
+    "area_name": "Kilgobnet",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Kilgobnet",
+        "short_name": "Kilgobnet",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilgobnet, Co. Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.1308286,
+          "lng": -7.6402724
+        },
+        "southwest": {
+          "lat": 52.1162394,
+          "lng": -7.657143700000001
+        }
+      },
+      "location": {
+        "lat": 52.1227205,
+        "lng": -7.6458413
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.1308286,
+          "lng": -7.6402724
+        },
+        "southwest": {
+          "lat": 52.1162394,
+          "lng": -7.657143700000001
+        }
+      }
+    },
+    "place_id": "ChIJMSWMuFo9Q0gRylBYR9M6uJk",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 657,
+    "area_name": "Bunmahon",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Bunmahon",
+        "short_name": "Bunmahon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Knockmahon",
+        "short_name": "Knockmahon",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Knockmahon, Bunmahon, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.1405503,
+        "lng": -7.365204
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.1418992802915,
+          "lng": -7.363855019708498
+        },
+        "southwest": {
+          "lat": 52.1392013197085,
+          "lng": -7.366552980291503
+        }
+      }
+    },
+    "place_id": "ChIJ5x90b9LfQkgR0JIxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 637,
+    "area_name": "Glendalough",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Glendalough",
+        "short_name": "Glendalough",
+        "types": [
+          "establishment",
+          "park",
+          "point_of_interest",
+          "tourist_attraction"
+        ]
+      },
+      {
+        "long_name": "Derrybawn",
+        "short_name": "Derrybawn",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Wicklow",
+        "short_name": "WW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Glendalough, Unnamed Road, Derrybawn, Co. Wicklow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.0057287,
+        "lng": -6.3461637
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": 53.0075963802915,
+          "lng": -6.344205619708498
+        },
+        "southwest": {
+          "lat": 53.0048984197085,
+          "lng": -6.346903580291502
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJhe3GKYOXZ0gRoj1OwIidXqc",
+    "plus_code": {
+      "compound_code": "2M43+7G Knockfadda, County Wicklow, Ireland",
+      "global_code": "9C5M2M43+7G"
+    },
+    "types": [
+      "establishment",
+      "park",
+      "point_of_interest",
+      "tourist_attraction"
+    ]
+  },
+  {
+    "area_id": 612,
+    "area_name": "Tallow",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Tallow",
+        "short_name": "Tallow",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Tallow",
+        "short_name": "Tallow",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Tallow, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.09214069999999,
+        "lng": -8.007030199999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.0934896802915,
+          "lng": -8.005681219708498
+        },
+        "southwest": {
+          "lat": 52.0907917197085,
+          "lng": -8.008379180291502
+        }
+      }
+    },
+    "place_id": "ChIJxTsj1n5CQ0gRYCcyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3816,
+    "area_name": "Knockanore",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Knockanore",
+        "short_name": "Knockanore",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Knockanore",
+        "short_name": "Knockanore",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Knockanore, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.05244769999999,
+        "lng": -7.889779700000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.0537966802915,
+          "lng": -7.888430719708499
+        },
+        "southwest": {
+          "lat": 52.0510987197085,
+          "lng": -7.891128680291503
+        }
+      }
+    },
+    "place_id": "ChIJcziPbgNrQ0gR0si6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3784,
+    "area_name": "Ferrybank",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Ferrybank",
+        "short_name": "Ferrybank",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Waterford",
+        "short_name": "Waterford",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ferrybank, Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.2671181,
+        "lng": -7.1035588
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.2684670802915,
+          "lng": -7.102209819708498
+        },
+        "southwest": {
+          "lat": 52.2657691197085,
+          "lng": -7.104907780291502
+        }
+      }
+    },
+    "place_id": "ChIJeV1t6ZrGQkgRQGLqN6nHABg",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  },
+  {
+    "area_id": 652,
+    "area_name": "Lemybrien",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Lemybrien",
+        "short_name": "Lemybrien",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lemybrien",
+        "short_name": "Lemybrien",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lemybrien, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.1683402,
+        "lng": -7.519583700000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.16968918029149,
+          "lng": -7.518234719708499
+        },
+        "southwest": {
+          "lat": 52.1669912197085,
+          "lng": -7.520932680291503
+        }
+      }
+    },
+    "place_id": "ChIJM0StWHchQ0gRYKsxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3998,
+    "area_name": "Killowen",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Killowen",
+        "short_name": "Killowen",
+        "types": [
+          "premise"
+        ]
+      },
+      {
+        "long_name": "Rockfield Park",
+        "short_name": "Rockfield Park",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Waterford",
+        "short_name": "Waterford",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Killowen, Rockfield Park, Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.2623004,
+        "lng": -7.1231369
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": {
+          "lat": 52.2637076802915,
+          "lng": -7.121733769708497
+        },
+        "southwest": {
+          "lat": 52.2610097197085,
+          "lng": -7.124431730291501
+        }
+      }
+    },
+    "place_id": "ChIJxSC0aybEQkgRXVD3nzQv1Ic",
+    "types": [
+      "premise"
+    ]
+  },
+  {
+    "area_id": 3944,
+    "area_name": "Carrigeen",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Waterford",
+        "short_name": "Waterford",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.27019989999999,
+          "lng": -7.0548699
+        },
+        "southwest": {
+          "lat": 52.22481,
+          "lng": -7.171189999999999
+        }
+      },
+      "location": {
+        "lat": 52.2593197,
+        "lng": -7.110070299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.27019989999999,
+          "lng": -7.0548699
+        },
+        "southwest": {
+          "lat": 52.22481,
+          "lng": -7.171189999999999
+        }
+      }
+    },
+    "place_id": "ChIJTeTZY5zGQkgR-7lni4iBu8U",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 642,
+    "area_name": "Clonea",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Clonea",
+        "short_name": "Clonea",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Clonea",
+        "short_name": "Clonea",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Clonea, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.27947229999999,
+        "lng": -7.4385152
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.2808212802915,
+          "lng": -7.437166219708498
+        },
+        "southwest": {
+          "lat": 52.2781233197085,
+          "lng": -7.439864180291503
+        }
+      }
+    },
+    "place_id": "ChIJWaZPZxLYQkgRPjOCfkjxxcE",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 632,
+    "area_name": "Cappoquin",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Cappoquin",
+        "short_name": "Cappoquin",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Shanbally",
+        "short_name": "Shanbally",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Shanbally, Cappoquin, Co. Waterford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.1462713,
+        "lng": -7.842743799999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.14762028029149,
+          "lng": -7.841394819708497
+        },
+        "southwest": {
+          "lat": 52.14492231970849,
+          "lng": -7.844092780291501
+        }
+      }
+    },
+    "place_id": "ChIJwRjr2XM_Q0gRMLwxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 677,
+    "area_name": "Tramore",
+    "county_name": "Waterford",
+    "county_id": 12,
+    "address_components": [
+      {
+        "long_name": "Tramore",
+        "short_name": "Tramore",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Waterford",
+        "short_name": "WD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Tramore, Co. Waterford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.1785499,
+          "lng": -7.131710000000001
+        },
+        "southwest": {
+          "lat": 52.14681,
+          "lng": -7.174440099999999
+        }
+      },
+      "location": {
+        "lat": 52.16143539999999,
+        "lng": -7.1492952
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.1785499,
+          "lng": -7.131710000000001
+        },
+        "southwest": {
+          "lat": 52.14681,
+          "lng": -7.174440099999999
+        }
+      }
+    },
+    "place_id": "ChIJv0OJ7ovCQkgR4Hgxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  }
+]

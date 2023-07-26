@@ -1,0 +1,4372 @@
+[
+  {
+    "area_id": 1334,
+    "area_name": "Aghadowey",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Aghadowey",
+        "short_name": "Aghadowey",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Coleraine",
+        "short_name": "Coleraine",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Causeway Coast and Glens",
+        "short_name": "Causeway Coast and Glens",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT51 4DW",
+        "short_name": "BT51 4DW",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Aghadowey, Coleraine BT51 4DW, UK",
+    "geometry": {
+      "location": {
+        "lat": 55.02961,
+        "lng": -6.65189
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.03095898029149,
+          "lng": -6.650541019708498
+        },
+        "southwest": {
+          "lat": 55.02826101970849,
+          "lng": -6.653238980291502
+        }
+      }
+    },
+    "place_id": "ChIJmemmOU85YEgRQrg2vLM_DyY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1668,
+    "area_name": "Ballymoney",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Ballymoney",
+        "short_name": "Ballymoney",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballymoney",
+        "short_name": "Ballymoney",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Causeway Coast and Glens",
+        "short_name": "Causeway Coast and Glens",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT53",
+        "short_name": "BT53",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Ballymoney BT53, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 55.0844001,
+          "lng": -6.4803945
+        },
+        "southwest": {
+          "lat": 55.0568006,
+          "lng": -6.5390779
+        }
+      },
+      "location": {
+        "lat": 55.0704888,
+        "lng": -6.5173708
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.0844001,
+          "lng": -6.4803945
+        },
+        "southwest": {
+          "lat": 55.0568006,
+          "lng": -6.5390779
+        }
+      }
+    },
+    "place_id": "ChIJL8RmaRAtYEgRwDadQcw5rUA",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1312,
+    "area_name": "Articlave",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Articlave",
+        "short_name": "Articlave",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Coleraine",
+        "short_name": "Coleraine",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Causeway Coast and Glens",
+        "short_name": "Causeway Coast and Glens",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT51",
+        "short_name": "BT51",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Articlave, Coleraine BT51, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 55.1505923,
+          "lng": -6.7667787
+        },
+        "southwest": {
+          "lat": 55.1412371,
+          "lng": -6.7817362
+        }
+      },
+      "location": {
+        "lat": 55.1461601,
+        "lng": -6.77299
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.1505923,
+          "lng": -6.7667787
+        },
+        "southwest": {
+          "lat": 55.1412371,
+          "lng": -6.7817362
+        }
+      }
+    },
+    "place_id": "ChIJ22x3tNoiYEgRhuoF2RMdalQ",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1749,
+    "area_name": "Ballyronan",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Ballyronan",
+        "short_name": "Ballyronan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Magherafelt",
+        "short_name": "Magherafelt",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Mid Ulster",
+        "short_name": "Mid Ulster",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT45",
+        "short_name": "BT45",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyronan, Magherafelt BT45, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.713486,
+          "lng": -6.5284425
+        },
+        "southwest": {
+          "lat": 54.700196,
+          "lng": -6.543317999999999
+        }
+      },
+      "location": {
+        "lat": 54.7077733,
+        "lng": -6.532332299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.713486,
+          "lng": -6.5284425
+        },
+        "southwest": {
+          "lat": 54.700196,
+          "lng": -6.543317999999999
+        }
+      }
+    },
+    "place_id": "ChIJD6mvm85bYEgRGjCdlZkPNLQ",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1283,
+    "area_name": "Ballykelly",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Ballykelly",
+        "short_name": "Ballykelly",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Limavady",
+        "short_name": "Limavady",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Causeway Coast and Glens",
+        "short_name": "Causeway Coast and Glens",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT49",
+        "short_name": "BT49",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Ballykelly, Limavady BT49, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 55.0485988,
+          "lng": -7.004577899999999
+        },
+        "southwest": {
+          "lat": 55.0397157,
+          "lng": -7.0476024
+        }
+      },
+      "location": {
+        "lat": 55.04432,
+        "lng": -7.0203601
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.0485988,
+          "lng": -7.004577899999999
+        },
+        "southwest": {
+          "lat": 55.0397157,
+          "lng": -7.0476024
+        }
+      }
+    },
+    "place_id": "ChIJWzajTJUNYEgRFVl2nSbeG1U",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1270,
+    "area_name": "Culmore",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Derry",
+        "short_name": "Derry",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Londonderry",
+        "short_name": "Londonderry",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Derry and Strabane",
+        "short_name": "Derry and Strabane",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Derry, Londonderry, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 55.0436191,
+          "lng": -7.262598799999999
+        },
+        "southwest": {
+          "lat": 54.96971199999999,
+          "lng": -7.3606922
+        }
+      },
+      "location": {
+        "lat": 54.9964705,
+        "lng": -7.3101358
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.0436191,
+          "lng": -7.262598799999999
+        },
+        "southwest": {
+          "lat": 54.96971199999999,
+          "lng": -7.3606922
+        }
+      }
+    },
+    "place_id": "ChIJY5PQNOTdX0gRL_NVxyr6Ib0",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1741,
+    "area_name": "Bellaghy",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Bellaghy",
+        "short_name": "Bellaghy",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Magherafelt",
+        "short_name": "Magherafelt",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Mid Ulster",
+        "short_name": "Mid Ulster",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT45",
+        "short_name": "BT45",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Bellaghy, Magherafelt BT45, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.8135123,
+          "lng": -6.5112115
+        },
+        "southwest": {
+          "lat": 54.8032586,
+          "lng": -6.524490999999999
+        }
+      },
+      "location": {
+        "lat": 54.80824579999999,
+        "lng": -6.518924699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.8135123,
+          "lng": -6.5112115
+        },
+        "southwest": {
+          "lat": 54.8032586,
+          "lng": -6.524490999999999
+        }
+      }
+    },
+    "place_id": "ChIJs-GhHPtEYEgRx378qUkGtNM",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1700,
+    "area_name": "Burnfoot",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Burnfoot",
+        "short_name": "Burnfoot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballyederowen",
+        "short_name": "Ballyederowen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Donegal",
+        "short_name": "DL",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyederowen, Burnfoot, Co. Donegal, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 55.0583056,
+        "lng": -7.4049447
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.0596545802915,
+          "lng": -7.403595719708497
+        },
+        "southwest": {
+          "lat": 55.0569566197085,
+          "lng": -7.406293680291502
+        }
+      }
+    },
+    "place_id": "ChIJ-XJTcp3kX0gRIOQxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1658,
+    "area_name": "Ardmore",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Ardmore",
+        "short_name": "Ardmore",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Londonderry",
+        "short_name": "Londonderry",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Derry and Strabane",
+        "short_name": "Derry and Strabane",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT47",
+        "short_name": "BT47",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Ardmore, Londonderry BT47, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.96700019999999,
+          "lng": -7.255017
+        },
+        "southwest": {
+          "lat": 54.95573659999999,
+          "lng": -7.272263799999999
+        }
+      },
+      "location": {
+        "lat": 54.96196,
+        "lng": -7.2651099
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.96700019999999,
+          "lng": -7.255017
+        },
+        "southwest": {
+          "lat": 54.95573659999999,
+          "lng": -7.272263799999999
+        }
+      }
+    },
+    "place_id": "ChIJg7qvBkDgX0gR0IZC4ehU1v8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1274,
+    "area_name": "Campsey",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Campsie",
+        "short_name": "Campsie",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Londonderry",
+        "short_name": "Londonderry",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Derry and Strabane",
+        "short_name": "Derry and Strabane",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT47",
+        "short_name": "BT47",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Campsie, Londonderry BT47, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 55.0429852,
+          "lng": -7.179898499999999
+        },
+        "southwest": {
+          "lat": 55.0253184,
+          "lng": -7.230740799999999
+        }
+      },
+      "location": {
+        "lat": 55.03037,
+        "lng": -7.215910000000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.0429852,
+          "lng": -7.179898499999999
+        },
+        "southwest": {
+          "lat": 55.0253184,
+          "lng": -7.230740799999999
+        }
+      }
+    },
+    "place_id": "ChIJ56AHX54JYEgRMU39IJuFzWY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1735,
+    "area_name": "Clady",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Clady",
+        "short_name": "Clady",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballymena",
+        "short_name": "Ballymena",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Mid Ulster",
+        "short_name": "Mid Ulster",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT44",
+        "short_name": "BT44",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Clady, Ballymena BT44, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.874641,
+          "lng": -6.497611399999999
+        },
+        "southwest": {
+          "lat": 54.8663872,
+          "lng": -6.5166866
+        }
+      },
+      "location": {
+        "lat": 54.86969329999999,
+        "lng": -6.5084162
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.874641,
+          "lng": -6.497611399999999
+        },
+        "southwest": {
+          "lat": 54.8663872,
+          "lng": -6.5166866
+        }
+      }
+    },
+    "place_id": "ChIJ4ckCofhFYEgRaNw3MXshARo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3786,
+    "area_name": "Derry City",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Derry",
+        "short_name": "Derry",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Londonderry",
+        "short_name": "Londonderry",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Derry and Strabane",
+        "short_name": "Derry and Strabane",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Derry, Londonderry, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 55.0436191,
+          "lng": -7.262598799999999
+        },
+        "southwest": {
+          "lat": 54.96971199999999,
+          "lng": -7.3606922
+        }
+      },
+      "location": {
+        "lat": 54.9964705,
+        "lng": -7.3101358
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.0436191,
+          "lng": -7.262598799999999
+        },
+        "southwest": {
+          "lat": 54.96971199999999,
+          "lng": -7.3606922
+        }
+      }
+    },
+    "place_id": "ChIJY5PQNOTdX0gRL_NVxyr6Ib0",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1669,
+    "area_name": "Claudy",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Claudy",
+        "short_name": "Claudy",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Londonderry",
+        "short_name": "Londonderry",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Derry and Strabane",
+        "short_name": "Derry and Strabane",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT47",
+        "short_name": "BT47",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Claudy, Londonderry BT47, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.9178704,
+          "lng": -7.1425839
+        },
+        "southwest": {
+          "lat": 54.9046085,
+          "lng": -7.170477099999998
+        }
+      },
+      "location": {
+        "lat": 54.9118564,
+        "lng": -7.1535639
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.9178704,
+          "lng": -7.1425839
+        },
+        "southwest": {
+          "lat": 54.9046085,
+          "lng": -7.170477099999998
+        }
+      }
+    },
+    "place_id": "ChIJNZUHlKwMYEgRbECrKPQsSzo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1310,
+    "area_name": "Castlerock",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Castlerock",
+        "short_name": "Castlerock",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Coleraine",
+        "short_name": "Coleraine",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Causeway Coast and Glens",
+        "short_name": "Causeway Coast and Glens",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT51",
+        "short_name": "BT51",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Castlerock, Coleraine BT51, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 55.16866,
+          "lng": -6.778207
+        },
+        "southwest": {
+          "lat": 55.1580356,
+          "lng": -6.8015857
+        }
+      },
+      "location": {
+        "lat": 55.164987,
+        "lng": -6.7904168
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.16866,
+          "lng": -6.778207
+        },
+        "southwest": {
+          "lat": 55.1580356,
+          "lng": -6.8015857
+        }
+      }
+    },
+    "place_id": "ChIJeZKxNZUiYEgRED81JHmFcEc",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1744,
+    "area_name": "Castledawson",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Castledawson",
+        "short_name": "Castledawson",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Magherafelt",
+        "short_name": "Magherafelt",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Mid Ulster",
+        "short_name": "Mid Ulster",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT45",
+        "short_name": "BT45",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Castledawson, Magherafelt BT45, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.782918,
+          "lng": -6.5400461
+        },
+        "southwest": {
+          "lat": 54.76695729999999,
+          "lng": -6.5686652
+        }
+      },
+      "location": {
+        "lat": 54.7782341,
+        "lng": -6.5579191
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.782918,
+          "lng": -6.5400461
+        },
+        "southwest": {
+          "lat": 54.76695729999999,
+          "lng": -6.5686652
+        }
+      }
+    },
+    "place_id": "ChIJ-ZJ0ha9EYEgR4T1R4zk0T7c",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1322,
+    "area_name": "Boleran",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Boleran",
+        "short_name": "Boleran",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Coleraine",
+        "short_name": "Coleraine",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Causeway Coast and Glens",
+        "short_name": "Causeway Coast and Glens",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT51 5EQ",
+        "short_name": "BT51 5EQ",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Boleran, Coleraine BT51 5EQ, UK",
+    "geometry": {
+      "location": {
+        "lat": 55.01844000000001,
+        "lng": -6.74283
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.01978898029151,
+          "lng": -6.741481019708497
+        },
+        "southwest": {
+          "lat": 55.01709101970851,
+          "lng": -6.744178980291502
+        }
+      }
+    },
+    "place_id": "ChIJFZrV4Wc-YEgRPY43ma3b4Ik",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1330,
+    "area_name": "Castleroe",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Castleroe",
+        "short_name": "Castleroe",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Coleraine",
+        "short_name": "Coleraine",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Causeway Coast and Glens",
+        "short_name": "Causeway Coast and Glens",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT51 3RN",
+        "short_name": "BT51 3RN",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Castleroe, Coleraine BT51 3RN, UK",
+    "geometry": {
+      "location": {
+        "lat": 55.1017521,
+        "lng": -6.6564764
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.10310108029149,
+          "lng": -6.655127419708498
+        },
+        "southwest": {
+          "lat": 55.1004031197085,
+          "lng": -6.657825380291502
+        }
+      }
+    },
+    "place_id": "ChIJ-ciYBxU7YEgRQLZdFgVVKuc",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1314,
+    "area_name": "Coleraine",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Coleraine",
+        "short_name": "Coleraine",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Coleraine",
+        "short_name": "Coleraine",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Causeway Coast and Glens",
+        "short_name": "Causeway Coast and Glens",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Coleraine, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 55.15713419999999,
+          "lng": -6.6333096
+        },
+        "southwest": {
+          "lat": 55.10671749999999,
+          "lng": -6.69841
+        }
+      },
+      "location": {
+        "lat": 55.1325802,
+        "lng": -6.6646102
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.15713419999999,
+          "lng": -6.6333096
+        },
+        "southwest": {
+          "lat": 55.10671749999999,
+          "lng": -6.69841
+        }
+      }
+    },
+    "place_id": "ChIJvRcViVcVYEgRa4eb1yLnR6A",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1725,
+    "area_name": "Desertmartin",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Desertmartin",
+        "short_name": "Desertmartin",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Magherafelt",
+        "short_name": "Magherafelt",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Mid Ulster",
+        "short_name": "Mid Ulster",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT45 5LN",
+        "short_name": "BT45 5LN",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Desertmartin, Magherafelt BT45 5LN, UK",
+    "geometry": {
+      "location": {
+        "lat": 54.76946,
+        "lng": -6.67244
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.7708089802915,
+          "lng": -6.671091019708498
+        },
+        "southwest": {
+          "lat": 54.7681110197085,
+          "lng": -6.673788980291502
+        }
+      }
+    },
+    "place_id": "ChIJ4eLS4kpdYEgRgsobd_-mI3s",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1660,
+    "area_name": "Drumahoe",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Drumahoe",
+        "short_name": "Drumahoe",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Derry",
+        "short_name": "Derry",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Londonderry",
+        "short_name": "Londonderry",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Derry and Strabane",
+        "short_name": "Derry and Strabane",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT47",
+        "short_name": "BT47",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Drumahoe, Derry, Londonderry BT47, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.98433,
+          "lng": -7.262598799999999
+        },
+        "southwest": {
+          "lat": 54.974781,
+          "lng": -7.2866437
+        }
+      },
+      "location": {
+        "lat": 54.9795785,
+        "lng": -7.2715652
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.98433,
+          "lng": -7.262598799999999
+        },
+        "southwest": {
+          "lat": 54.974781,
+          "lng": -7.2866437
+        }
+      }
+    },
+    "place_id": "ChIJTRIpn9vhX0gRPmiDh2b3Zv8",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  },
+  {
+    "area_id": 1712,
+    "area_name": "Garvagh",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Garvagh Court",
+        "short_name": "Garvagh Ct",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Derry",
+        "short_name": "Derry",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Londonderry",
+        "short_name": "Londonderry",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Derry and Strabane",
+        "short_name": "Derry and Strabane",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT47 6YH",
+        "short_name": "BT47 6YH",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Garvagh Ct, Derry, Londonderry BT47 6YH, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 55.0057699,
+          "lng": -7.276924500000001
+        },
+        "southwest": {
+          "lat": 55.0054779,
+          "lng": -7.277505400000001
+        }
+      },
+      "location": {
+        "lat": 55.0055815,
+        "lng": -7.2772377
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": 55.0069728802915,
+          "lng": -7.275865969708498
+        },
+        "southwest": {
+          "lat": 55.0042749197085,
+          "lng": -7.278563930291503
+        }
+      }
+    },
+    "place_id": "ChIJGd1YAPnhX0gRcqxWVrEzu34",
+    "types": [
+      "route"
+    ]
+  },
+  {
+    "area_id": 1673,
+    "area_name": "Feeny",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Feeny",
+        "short_name": "Feeny",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Londonderry",
+        "short_name": "Londonderry",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Causeway Coast and Glens",
+        "short_name": "Causeway Coast and Glens",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT47",
+        "short_name": "BT47",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Feeny, Londonderry BT47, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.9003367,
+          "lng": -7.0139954
+        },
+        "southwest": {
+          "lat": 54.888601,
+          "lng": -7.0302191
+        }
+      },
+      "location": {
+        "lat": 54.89206859999999,
+        "lng": -7.0212563
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.9003367,
+          "lng": -7.0139954
+        },
+        "southwest": {
+          "lat": 54.888601,
+          "lng": -7.0302191
+        }
+      }
+    },
+    "place_id": "ChIJZ_ErVG9yYEgRNWpV6Mbk5o8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1738,
+    "area_name": "Gulladuff",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Gulladuff",
+        "short_name": "Gulladuff",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Magherafelt",
+        "short_name": "Magherafelt",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Mid Ulster",
+        "short_name": "Mid Ulster",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT45",
+        "short_name": "BT45",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Gulladuff, Magherafelt BT45, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.8410175,
+          "lng": -6.5872465
+        },
+        "southwest": {
+          "lat": 54.819784,
+          "lng": -6.6104027
+        }
+      },
+      "location": {
+        "lat": 54.83308,
+        "lng": -6.605049900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.8410175,
+          "lng": -6.5872465
+        },
+        "southwest": {
+          "lat": 54.819784,
+          "lng": -6.6104027
+        }
+      }
+    },
+    "place_id": "ChIJkenw-lxEYEgRFQZ1crVdfTk",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1662,
+    "area_name": "Londonderry",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Derry",
+        "short_name": "Derry",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Londonderry",
+        "short_name": "Londonderry",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Derry and Strabane",
+        "short_name": "Derry and Strabane",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Derry, Londonderry, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 55.0436191,
+          "lng": -7.262598799999999
+        },
+        "southwest": {
+          "lat": 54.96971199999999,
+          "lng": -7.3606922
+        }
+      },
+      "location": {
+        "lat": 54.9964705,
+        "lng": -7.3101358
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.0436191,
+          "lng": -7.262598799999999
+        },
+        "southwest": {
+          "lat": 54.96971199999999,
+          "lng": -7.3606922
+        }
+      }
+    },
+    "place_id": "ChIJY5PQNOTdX0gRL_NVxyr6Ib0",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1308,
+    "area_name": "Downhill",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Downhill",
+        "short_name": "Downhill",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Coleraine",
+        "short_name": "Coleraine",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Causeway Coast and Glens",
+        "short_name": "Causeway Coast and Glens",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT51 4RP",
+        "short_name": "BT51 4RP",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Downhill, Coleraine BT51 4RP, UK",
+    "geometry": {
+      "location": {
+        "lat": 55.16625,
+        "lng": -6.82386
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.16759898029149,
+          "lng": -6.822511019708497
+        },
+        "southwest": {
+          "lat": 55.16490101970849,
+          "lng": -6.825208980291502
+        }
+      }
+    },
+    "place_id": "ChIJVw-PjH8YYEgR4bc2vLM_DyY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1285,
+    "area_name": "Glenhead",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Glenhead",
+        "short_name": "Glenhead",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Limavady",
+        "short_name": "Limavady",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Causeway Coast and Glens",
+        "short_name": "Causeway Coast and Glens",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT49 9LT",
+        "short_name": "BT49 9LT",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Glenhead, Limavady BT49 9LT, UK",
+    "geometry": {
+      "location": {
+        "lat": 55.01718,
+        "lng": -7.00273
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.01852898029149,
+          "lng": -7.001381019708497
+        },
+        "southwest": {
+          "lat": 55.01583101970849,
+          "lng": -7.004078980291502
+        }
+      }
+    },
+    "place_id": "ChIJG07JLhgSYEgRxVSDtl9cuGI",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1701,
+    "area_name": "Dungiven",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Dungiven",
+        "short_name": "Dungiven",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Londonderry",
+        "short_name": "Londonderry",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Causeway Coast and Glens",
+        "short_name": "Causeway Coast and Glens",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT47",
+        "short_name": "BT47",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Dungiven, Londonderry BT47, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.93612299999999,
+          "lng": -6.9051635
+        },
+        "southwest": {
+          "lat": 54.9171115,
+          "lng": -6.9334739
+        }
+      },
+      "location": {
+        "lat": 54.9258611,
+        "lng": -6.921175700000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.93612299999999,
+          "lng": -6.9051635
+        },
+        "southwest": {
+          "lat": 54.9171115,
+          "lng": -6.9334739
+        }
+      }
+    },
+    "place_id": "ChIJv50oDVUNYEgRY_g-2pH4BlU",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1703,
+    "area_name": "Drumsurn",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Drumsurn",
+        "short_name": "Drumsurn",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Limavady",
+        "short_name": "Limavady",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Causeway Coast and Glens",
+        "short_name": "Causeway Coast and Glens",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT49",
+        "short_name": "BT49",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Drumsurn, Limavady BT49, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.9991172,
+          "lng": -6.8697405
+        },
+        "southwest": {
+          "lat": 54.9928482,
+          "lng": -6.8833816
+        }
+      },
+      "location": {
+        "lat": 54.99592999999999,
+        "lng": -6.877420099999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.9991172,
+          "lng": -6.8697405
+        },
+        "southwest": {
+          "lat": 54.9928482,
+          "lng": -6.8833816
+        }
+      }
+    },
+    "place_id": "ChIJ4y2yRlwUYEgRbRoFaCDcz0s",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1724,
+    "area_name": "Draperstown",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Draperstown",
+        "short_name": "Draperstown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Magherafelt",
+        "short_name": "Magherafelt",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Mid Ulster",
+        "short_name": "Mid Ulster",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT45",
+        "short_name": "BT45",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Draperstown, Magherafelt BT45, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.8000941,
+          "lng": -6.7672018
+        },
+        "southwest": {
+          "lat": 54.787495,
+          "lng": -6.799921299999999
+        }
+      },
+      "location": {
+        "lat": 54.7935167,
+        "lng": -6.7842648
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.8000941,
+          "lng": -6.7672018
+        },
+        "southwest": {
+          "lat": 54.787495,
+          "lng": -6.799921299999999
+        }
+      }
+    },
+    "place_id": "ChIJ1XEFRD5cYEgRzXjlPL7B-pY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1743,
+    "area_name": "Curran",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Curran",
+        "short_name": "Curran",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Magherafelt",
+        "short_name": "Magherafelt",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Mid Ulster",
+        "short_name": "Mid Ulster",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT45 8RB",
+        "short_name": "BT45 8RB",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Curran, Magherafelt BT45 8RB, UK",
+    "geometry": {
+      "location": {
+        "lat": 54.79503,
+        "lng": -6.61544
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.7963789802915,
+          "lng": -6.614091019708497
+        },
+        "southwest": {
+          "lat": 54.7936810197085,
+          "lng": -6.616788980291502
+        }
+      }
+    },
+    "place_id": "ChIJ6XUI6lhDYEgREB2uObU_Dwo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1728,
+    "area_name": "Kilrea",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Kilrea",
+        "short_name": "Kilrea",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Coleraine",
+        "short_name": "Coleraine",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Causeway Coast and Glens",
+        "short_name": "Causeway Coast and Glens",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT51",
+        "short_name": "BT51",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Kilrea, Coleraine BT51, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.9619332,
+          "lng": -6.542170899999999
+        },
+        "southwest": {
+          "lat": 54.94317299999999,
+          "lng": -6.5761864
+        }
+      },
+      "location": {
+        "lat": 54.95158900000001,
+        "lng": -6.5555797
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.9619332,
+          "lng": -6.542170899999999
+        },
+        "southwest": {
+          "lat": 54.94317299999999,
+          "lng": -6.5761864
+        }
+      }
+    },
+    "place_id": "ChIJWR9HWoxHYEgR58cc7kHMX20",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4124,
+    "area_name": "Limavady Road",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Limavady Road",
+        "short_name": "Limavady Rd",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Derry",
+        "short_name": "Derry",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Londonderry",
+        "short_name": "Londonderry",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Derry and Strabane",
+        "short_name": "Derry and Strabane",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT47",
+        "short_name": "BT47",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Limavady Rd, Derry, Londonderry BT47, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 55.0050725,
+          "lng": -7.2878336
+        },
+        "southwest": {
+          "lat": 54.9954439,
+          "lng": -7.310880999999999
+        }
+      },
+      "location": {
+        "lat": 55.0012176,
+        "lng": -7.2988567
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": 55.0050725,
+          "lng": -7.2878336
+        },
+        "southwest": {
+          "lat": 54.9954439,
+          "lng": -7.310880999999999
+        }
+      }
+    },
+    "place_id": "ChIJz_PqaIzhX0gRoUZVPCx_LC0",
+    "types": [
+      "route"
+    ]
+  },
+  {
+    "area_id": 1276,
+    "area_name": "Eglinton",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Eglinton",
+        "short_name": "Eglinton",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Londonderry",
+        "short_name": "Londonderry",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Derry and Strabane",
+        "short_name": "Derry and Strabane",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT47",
+        "short_name": "BT47",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Eglinton, Londonderry BT47, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 55.0338917,
+          "lng": -7.1631278
+        },
+        "southwest": {
+          "lat": 55.0176323,
+          "lng": -7.196196199999999
+        }
+      },
+      "location": {
+        "lat": 55.0267899,
+        "lng": -7.1783101
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.0338917,
+          "lng": -7.1631278
+        },
+        "southwest": {
+          "lat": 55.0176323,
+          "lng": -7.196196199999999
+        }
+      }
+    },
+    "place_id": "ChIJT1E4Wf0LYEgRUP5gI8b8_AU",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1302,
+    "area_name": "Limavady",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Limavady",
+        "short_name": "Limavady",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Limavady",
+        "short_name": "Limavady",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Causeway Coast and Glens",
+        "short_name": "Causeway Coast and Glens",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT49",
+        "short_name": "BT49",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Limavady BT49, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 55.0572568,
+          "lng": -6.912220599999999
+        },
+        "southwest": {
+          "lat": 55.0350169,
+          "lng": -6.955369500000001
+        }
+      },
+      "location": {
+        "lat": 55.0454563,
+        "lng": -6.9336758
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.0572568,
+          "lng": -6.912220599999999
+        },
+        "southwest": {
+          "lat": 55.0350169,
+          "lng": -6.955369500000001
+        }
+      }
+    },
+    "place_id": "ChIJAUeyDkQRYEgRkBSuObU_Dwo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1280,
+    "area_name": "Greysteel",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Greysteel",
+        "short_name": "Greysteel",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Londonderry",
+        "short_name": "Londonderry",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Causeway Coast and Glens",
+        "short_name": "Causeway Coast and Glens",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT47 3TY",
+        "short_name": "BT47 3TY",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Greysteel, Londonderry BT47 3TY, UK",
+    "geometry": {
+      "location": {
+        "lat": 55.0321167,
+        "lng": -7.119741599999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.0334656802915,
+          "lng": -7.118392619708497
+        },
+        "southwest": {
+          "lat": 55.0307677197085,
+          "lng": -7.121090580291502
+        }
+      }
+    },
+    "place_id": "ChIJQWqXuSkMYEgRInnSPVfij0s",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4226,
+    "area_name": "Knockloughrim",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Knockcloghrim",
+        "short_name": "Knockcloghrim",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Magherafelt",
+        "short_name": "Magherafelt",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Mid Ulster",
+        "short_name": "Mid Ulster",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT45 8QS",
+        "short_name": "BT45 8QS",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Knockcloghrim, Magherafelt BT45 8QS, UK",
+    "geometry": {
+      "location": {
+        "lat": 54.8117,
+        "lng": -6.61158
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.81304898029151,
+          "lng": -6.610231019708498
+        },
+        "southwest": {
+          "lat": 54.81035101970851,
+          "lng": -6.612928980291502
+        }
+      }
+    },
+    "place_id": "ChIJ765xq49EYEgRJ5QNXISvWuQ",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1316,
+    "area_name": "Macosquin",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Macosquin",
+        "short_name": "Macosquin",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Coleraine",
+        "short_name": "Coleraine",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Causeway Coast and Glens",
+        "short_name": "Causeway Coast and Glens",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT51",
+        "short_name": "BT51",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Macosquin, Coleraine BT51, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 55.1040416,
+          "lng": -6.699139199999999
+        },
+        "southwest": {
+          "lat": 55.0908768,
+          "lng": -6.7202591
+        }
+      },
+      "location": {
+        "lat": 55.09952,
+        "lng": -6.708349999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.1040416,
+          "lng": -6.699139199999999
+        },
+        "southwest": {
+          "lat": 55.0908768,
+          "lng": -6.7202591
+        }
+      }
+    },
+    "place_id": "ChIJY6q0kP48YEgRl6AGu1W4dFE",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1726,
+    "area_name": "Tobermore",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Tobermore",
+        "short_name": "Tobermore",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Magherafelt",
+        "short_name": "Magherafelt",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Mid Ulster",
+        "short_name": "Mid Ulster",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT45 5GH",
+        "short_name": "BT45 5GH",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Tobermore, Magherafelt BT45 5GH, UK",
+    "geometry": {
+      "location": {
+        "lat": 54.8114746,
+        "lng": -6.707056
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.81282358029149,
+          "lng": -6.705707019708497
+        },
+        "southwest": {
+          "lat": 54.81012561970849,
+          "lng": -6.708404980291502
+        }
+      }
+    },
+    "place_id": "ChIJq7m8tZRCYEgRQbFnrXf8PCQ",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1708,
+    "area_name": "Maghera",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Maghera",
+        "short_name": "Maghera",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maghera",
+        "short_name": "Maghera",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Mid Ulster",
+        "short_name": "Mid Ulster",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT46",
+        "short_name": "BT46",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Maghera BT46, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.8525769,
+          "lng": -6.658802
+        },
+        "southwest": {
+          "lat": 54.8375442,
+          "lng": -6.691751099999999
+        }
+      },
+      "location": {
+        "lat": 54.84453500000001,
+        "lng": -6.6733816
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.8525769,
+          "lng": -6.658802
+        },
+        "southwest": {
+          "lat": 54.8375442,
+          "lng": -6.691751099999999
+        }
+      }
+    },
+    "place_id": "ChIJi6CuAklAYEgRt6r9cpAAPHY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1710,
+    "area_name": "Swatragh",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Swatragh",
+        "short_name": "Swatragh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maghera",
+        "short_name": "Maghera",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Mid Ulster",
+        "short_name": "Mid Ulster",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT46",
+        "short_name": "BT46",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Swatragh, Maghera BT46, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.9198142,
+          "lng": -6.6533948
+        },
+        "southwest": {
+          "lat": 54.9041725,
+          "lng": -6.671709900000001
+        }
+      },
+      "location": {
+        "lat": 54.90802,
+        "lng": -6.6668201
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.9198142,
+          "lng": -6.6533948
+        },
+        "southwest": {
+          "lat": 54.9041725,
+          "lng": -6.671709900000001
+        }
+      }
+    },
+    "place_id": "ChIJ1VEJlSBBYEgRwEOuObU_Dwo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1706,
+    "area_name": "Lisnamuck",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Lisnamuck",
+        "short_name": "Lisnamuck",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maghera",
+        "short_name": "Maghera",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Mid Ulster",
+        "short_name": "Mid Ulster",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT46 5LJ",
+        "short_name": "BT46 5LJ",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Lisnamuck, Maghera BT46 5LJ, UK",
+    "geometry": {
+      "location": {
+        "lat": 54.83548,
+        "lng": -6.76413
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.83682898029151,
+          "lng": -6.762781019708497
+        },
+        "southwest": {
+          "lat": 54.83413101970851,
+          "lng": -6.765478980291502
+        }
+      }
+    },
+    "place_id": "ChIJJ_t3e9lpYEgRzFIm0acKFYU",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4186,
+    "area_name": "Portglenone",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Portglenone",
+        "short_name": "Portglenone",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballymena",
+        "short_name": "Ballymena",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Mid and East Antrim",
+        "short_name": "Mid and East Antrim",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT44",
+        "short_name": "BT44",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Portglenone, Ballymena BT44, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.8841821,
+          "lng": -6.4573298
+        },
+        "southwest": {
+          "lat": 54.868062,
+          "lng": -6.490406
+        }
+      },
+      "location": {
+        "lat": 54.8730813,
+        "lng": -6.474459599999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.8841821,
+          "lng": -6.4573298
+        },
+        "southwest": {
+          "lat": 54.868062,
+          "lng": -6.490406
+        }
+      }
+    },
+    "place_id": "ChIJB6UGHi1EYEgRlW7qqaoZqdI",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1719,
+    "area_name": "Moneyneany",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Moneyneany",
+        "short_name": "Moneyneany",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Magherafelt",
+        "short_name": "Magherafelt",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Mid Ulster",
+        "short_name": "Mid Ulster",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT45 7EN",
+        "short_name": "BT45 7EN",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Moneyneany, Magherafelt BT45 7EN, UK",
+    "geometry": {
+      "location": {
+        "lat": 54.8175,
+        "lng": -6.84061
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.81884898029149,
+          "lng": -6.839261019708498
+        },
+        "southwest": {
+          "lat": 54.81615101970849,
+          "lng": -6.841958980291502
+        }
+      }
+    },
+    "place_id": "ChIJGTQSQSFpYEgRM59c9WdZgzY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1730,
+    "area_name": "Upperlands",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Upperlands",
+        "short_name": "Upperlands",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maghera",
+        "short_name": "Maghera",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Mid Ulster",
+        "short_name": "Mid Ulster",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT46",
+        "short_name": "BT46",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Upperlands, Maghera BT46, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.88509939999999,
+          "lng": -6.6260658
+        },
+        "southwest": {
+          "lat": 54.8734134,
+          "lng": -6.6466167
+        }
+      },
+      "location": {
+        "lat": 54.8781962,
+        "lng": -6.6423767
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.88509939999999,
+          "lng": -6.6260658
+        },
+        "southwest": {
+          "lat": 54.8734134,
+          "lng": -6.6466167
+        }
+      }
+    },
+    "place_id": "ChIJCWEio01BYEgRgk47vLM_DyY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1320,
+    "area_name": "Ringsend",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Ringsend",
+        "short_name": "Ringsend",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Coleraine",
+        "short_name": "Coleraine",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Causeway Coast and Glens",
+        "short_name": "Causeway Coast and Glens",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT51 4HP",
+        "short_name": "BT51 4HP",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Ringsend, Coleraine BT51 4HP, UK",
+    "geometry": {
+      "location": {
+        "lat": 55.03953,
+        "lng": -6.751139999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.0408789802915,
+          "lng": -6.749791019708498
+        },
+        "southwest": {
+          "lat": 55.0381810197085,
+          "lng": -6.752488980291502
+        }
+      }
+    },
+    "place_id": "ChIJV-DQPQs-YEgRLZRBp2VPaMw",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1293,
+    "area_name": "Portstewart",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Portstewart",
+        "short_name": "Portstewart",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Portstewart",
+        "short_name": "Portstewart",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Causeway Coast and Glens",
+        "short_name": "Causeway Coast and Glens",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Portstewart, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 55.19465,
+          "lng": -6.691124200000001
+        },
+        "southwest": {
+          "lat": 55.1650413,
+          "lng": -6.728212999999999
+        }
+      },
+      "location": {
+        "lat": 55.1868773,
+        "lng": -6.717104099999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.19465,
+          "lng": -6.691124200000001
+        },
+        "southwest": {
+          "lat": 55.1650413,
+          "lng": -6.728212999999999
+        }
+      }
+    },
+    "place_id": "ChIJq-nXy3cjYEgRKHE5Aj-uCsM",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1298,
+    "area_name": "Magilligan",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Magilligan Point",
+        "short_name": "Magilligan Point",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Limavady",
+        "short_name": "Limavady",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Causeway Coast and Glens",
+        "short_name": "Causeway Coast and Glens",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT49 0LR",
+        "short_name": "BT49 0LR",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Magilligan Point, Limavady BT49 0LR, UK",
+    "geometry": {
+      "location": {
+        "lat": 55.187134,
+        "lng": -6.957675999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.1884829802915,
+          "lng": -6.956327019708497
+        },
+        "southwest": {
+          "lat": 55.1857850197085,
+          "lng": -6.959024980291502
+        }
+      }
+    },
+    "place_id": "ChIJDQuEQ-EbYEgR2079vZVja7o",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1748,
+    "area_name": "The Loup",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "The Loup",
+        "short_name": "The Loup",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Magherafelt",
+        "short_name": "Magherafelt",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Mid Ulster",
+        "short_name": "Mid Ulster",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT45",
+        "short_name": "BT45",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "The Loup, Magherafelt BT45, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.702702,
+          "lng": -6.5949572
+        },
+        "southwest": {
+          "lat": 54.6924346,
+          "lng": -6.6091777
+        }
+      },
+      "location": {
+        "lat": 54.6989582,
+        "lng": -6.6003626
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.702702,
+          "lng": -6.5949572
+        },
+        "southwest": {
+          "lat": 54.6924346,
+          "lng": -6.6091777
+        }
+      }
+    },
+    "place_id": "ChIJecwDoANcYEgRgByuObU_Dwo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1723,
+    "area_name": "Moneymore",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Moneymore",
+        "short_name": "Moneymore",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Magherafelt",
+        "short_name": "Magherafelt",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Mid Ulster",
+        "short_name": "Mid Ulster",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT45",
+        "short_name": "BT45",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Moneymore, Magherafelt BT45, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.7004247,
+          "lng": -6.6617951
+        },
+        "southwest": {
+          "lat": 54.6850941,
+          "lng": -6.6792896
+        }
+      },
+      "location": {
+        "lat": 54.69219289999999,
+        "lng": -6.670323199999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.7004247,
+          "lng": -6.6617951
+        },
+        "southwest": {
+          "lat": 54.6850941,
+          "lng": -6.6792896
+        }
+      }
+    },
+    "place_id": "ChIJVwSX4iriX0gRTqy8WoiYXvk",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1747,
+    "area_name": "Magherafelt",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Magherafelt",
+        "short_name": "Magherafelt",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Magherafelt",
+        "short_name": "Magherafelt",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Mid Ulster",
+        "short_name": "Mid Ulster",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT45",
+        "short_name": "BT45",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Magherafelt BT45, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.7672549,
+          "lng": -6.5872166
+        },
+        "southwest": {
+          "lat": 54.7403792,
+          "lng": -6.626211199999999
+        }
+      },
+      "location": {
+        "lat": 54.75537300000001,
+        "lng": -6.6079805
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.7672549,
+          "lng": -6.5872166
+        },
+        "southwest": {
+          "lat": 54.7403792,
+          "lng": -6.626211199999999
+        }
+      }
+    },
+    "place_id": "ChIJVwSX4iriX0gRUVyCjAFxwtg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1628,
+    "area_name": "New Buildings",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Newbuildings",
+        "short_name": "Newbuildings",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Londonderry",
+        "short_name": "Londonderry",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Derry and Strabane",
+        "short_name": "Derry and Strabane",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "BT47",
+        "short_name": "BT47",
+        "types": [
+          "postal_code",
+          "postal_code_prefix"
+        ]
+      }
+    ],
+    "formatted_address": "Newbuildings, Londonderry BT47, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.9674995,
+          "lng": -7.347764799999998
+        },
+        "southwest": {
+          "lat": 54.9486575,
+          "lng": -7.3651092
+        }
+      },
+      "location": {
+        "lat": 54.9597539,
+        "lng": -7.3574711
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.9674995,
+          "lng": -7.347764799999998
+        },
+        "southwest": {
+          "lat": 54.9486575,
+          "lng": -7.3651092
+        }
+      }
+    },
+    "place_id": "ChIJJ1S_sv3dX0gRCIv8V01H3rg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1674,
+    "area_name": "Park",
+    "county_name": "Derry",
+    "county_id": 31,
+    "address_components": [
+      {
+        "long_name": "Derry",
+        "short_name": "Derry",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Londonderry",
+        "short_name": "Londonderry",
+        "types": [
+          "postal_town"
+        ]
+      },
+      {
+        "long_name": "Derry and Strabane",
+        "short_name": "Derry and Strabane",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Northern Ireland",
+        "short_name": "Northern Ireland",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United Kingdom",
+        "short_name": "GB",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Derry, Londonderry, UK",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 55.0436191,
+          "lng": -7.262598799999999
+        },
+        "southwest": {
+          "lat": 54.96971199999999,
+          "lng": -7.3606922
+        }
+      },
+      "location": {
+        "lat": 54.9964705,
+        "lng": -7.3101358
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 55.0436191,
+          "lng": -7.262598799999999
+        },
+        "southwest": {
+          "lat": 54.96971199999999,
+          "lng": -7.3606922
+        }
+      }
+    },
+    "place_id": "ChIJY5PQNOTdX0gRL_NVxyr6Ib0",
+    "types": [
+      "locality",
+      "political"
+    ]
+  }
+]

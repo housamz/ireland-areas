@@ -1,0 +1,6088 @@
+[
+  {
+    "area_id": 2415,
+    "area_name": "Ballyfair",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Ballyfair",
+        "short_name": "Ballyfair",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyfair, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.12529960000001,
+          "lng": -6.8295205
+        },
+        "southwest": {
+          "lat": 53.1163664,
+          "lng": -6.8485549
+        }
+      },
+      "location": {
+        "lat": 53.1197502,
+        "lng": -6.8395673
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.12529960000001,
+          "lng": -6.8295205
+        },
+        "southwest": {
+          "lat": 53.1163664,
+          "lng": -6.8485549
+        }
+      }
+    },
+    "place_id": "ChIJZYakXod-XUgRQghUu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2430,
+    "area_name": "Calverstown",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Calverstown",
+        "short_name": "Calverstown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Calverstown",
+        "short_name": "Calverstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Calverstown, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.0826121,
+        "lng": -6.797989400000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.0839610802915,
+          "lng": -6.796640419708498
+        },
+        "southwest": {
+          "lat": 53.0812631197085,
+          "lng": -6.799338380291503
+        }
+      }
+    },
+    "place_id": "ChIJEZ-Z-b19XUgR0Lcxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1647,
+    "area_name": "Castledermot",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Castledermot",
+        "short_name": "Castledermot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Mullarney",
+        "short_name": "Mullarney",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Mullarney, Castledermot, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.9118755,
+        "lng": -6.837567
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9132244802915,
+          "lng": -6.836218019708498
+        },
+        "southwest": {
+          "lat": 52.9105265197085,
+          "lng": -6.838915980291502
+        }
+      }
+    },
+    "place_id": "ChIJQ7bB9stmXUgRoP4xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2787,
+    "area_name": "Mucklon",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Mucklon",
+        "short_name": "Mucklon",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cloona",
+        "short_name": "Cloona",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Mucklon, Cloona, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.37616149999999,
+          "lng": -6.8144646
+        },
+        "southwest": {
+          "lat": 53.3559428,
+          "lng": -6.8448973
+        }
+      },
+      "location": {
+        "lat": 53.36769469999999,
+        "lng": -6.8315756
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.37616149999999,
+          "lng": -6.8144646
+        },
+        "southwest": {
+          "lat": 53.3559428,
+          "lng": -6.8448973
+        }
+      }
+    },
+    "place_id": "ChIJh9kDeVR9Z0gRVhzTCtzw4O8",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2401,
+    "area_name": "Allen",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Allen",
+        "short_name": "Allen",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Russellstown",
+        "short_name": "Russellstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Russellstown, Allen, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.23928,
+        "lng": -6.855670000000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2406289802915,
+          "lng": -6.854321019708498
+        },
+        "southwest": {
+          "lat": 53.2379310197085,
+          "lng": -6.857018980291503
+        }
+      }
+    },
+    "place_id": "ChIJvVLTxqqBXUgRQIUxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2441,
+    "area_name": "Punchestown",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Punchestown",
+        "short_name": "Punchestown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Punchestown, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.1825142,
+          "lng": -6.6257958
+        },
+        "southwest": {
+          "lat": 53.173161,
+          "lng": -6.6455518
+        }
+      },
+      "location": {
+        "lat": 53.18094019999999,
+        "lng": -6.635803699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1825142,
+          "lng": -6.6257958
+        },
+        "southwest": {
+          "lat": 53.173161,
+          "lng": -6.6455518
+        }
+      }
+    },
+    "place_id": "ChIJTfsppkSCZ0gRFMCmR9_z8No",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3745,
+    "area_name": "Ballyroe",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Ballyroe",
+        "short_name": "Ballyroe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyroe, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.96316150000001,
+          "lng": -6.9341545
+        },
+        "southwest": {
+          "lat": 52.9455552,
+          "lng": -6.9550474
+        }
+      },
+      "location": {
+        "lat": 52.956216,
+        "lng": -6.9437523
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.96316150000001,
+          "lng": -6.9341545
+        },
+        "southwest": {
+          "lat": 52.9455552,
+          "lng": -6.9550474
+        }
+      }
+    },
+    "place_id": "ChIJ4aiU_ZdlXUgRoN8xl6nHAAo",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3789,
+    "area_name": "Pollardstown",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Pollardstown",
+        "short_name": "Pollardstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Pollardstown, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.1895775,
+          "lng": -6.8435729
+        },
+        "southwest": {
+          "lat": 53.1723708,
+          "lng": -6.8789697
+        }
+      },
+      "location": {
+        "lat": 53.1814367,
+        "lng": -6.8580507
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1895775,
+          "lng": -6.8435729
+        },
+        "southwest": {
+          "lat": 53.1723708,
+          "lng": -6.8789697
+        }
+      }
+    },
+    "place_id": "ChIJYbZNYHB_XUgR26bGnQ_adSs",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2788,
+    "area_name": "Newtown",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Newtown",
+        "short_name": "Newtown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilbride",
+        "short_name": "Kilbride",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilbride, Newtown, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.3942063,
+        "lng": -6.759023699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3955552802915,
+          "lng": -6.757674719708497
+        },
+        "southwest": {
+          "lat": 53.3928573197085,
+          "lng": -6.760372680291502
+        }
+      }
+    },
+    "place_id": "ChIJfRvz9mpjZ0gRwBgyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2418,
+    "area_name": "Boley",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Boley",
+        "short_name": "Boley",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Boley Little",
+        "short_name": "Boley Little",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Boley Little, Boley, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.06436,
+        "lng": -6.917009999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.0657089802915,
+          "lng": -6.915661019708497
+        },
+        "southwest": {
+          "lat": 53.0630110197085,
+          "lng": -6.918358980291502
+        }
+      }
+    },
+    "place_id": "ChIJPzMePqZ7XUgR5fHMy7bBXs8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2429,
+    "area_name": "Ballyshannon",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Ballyshannon",
+        "short_name": "Ballyshannon",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyshannon, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.101053,
+          "lng": -6.8223546
+        },
+        "southwest": {
+          "lat": 53.0865597,
+          "lng": -6.8415418
+        }
+      },
+      "location": {
+        "lat": 53.0912889,
+        "lng": -6.8328253
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.101053,
+          "lng": -6.8223546
+        },
+        "southwest": {
+          "lat": 53.0865597,
+          "lng": -6.8415418
+        }
+      }
+    },
+    "place_id": "ChIJXdCBKzR8XUgRAMjqN6nHABg",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2416,
+    "area_name": "Nurney",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Nurney",
+        "short_name": "Nurney",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Nurney",
+        "short_name": "Nurney",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Nurney, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.0966332,
+        "lng": -6.9482121
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.0979821802915,
+          "lng": -6.946863119708498
+        },
+        "southwest": {
+          "lat": 53.0952842197085,
+          "lng": -6.949561080291502
+        }
+      }
+    },
+    "place_id": "ChIJ-XXfbCx6XUgRcLgxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2423,
+    "area_name": "Athgarvan",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Athgarvan",
+        "short_name": "Athgarvan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Rosetown",
+        "short_name": "Rosetown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rosetown, Athgarvan, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.15289079999999,
+        "lng": -6.777700299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.15423978029149,
+          "lng": -6.776351319708497
+        },
+        "southwest": {
+          "lat": 53.15154181970849,
+          "lng": -6.779049280291502
+        }
+      }
+    },
+    "place_id": "ChIJSUeuRSp-XUgRQIcxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2422,
+    "area_name": "Newbridge",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Newbridge",
+        "short_name": "Newbridge",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Newbridge, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.19846,
+          "lng": -6.77156
+        },
+        "southwest": {
+          "lat": 53.16131,
+          "lng": -6.8233901
+        }
+      },
+      "location": {
+        "lat": 53.17507579999999,
+        "lng": -6.8047467
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.19846,
+          "lng": -6.77156
+        },
+        "southwest": {
+          "lat": 53.16131,
+          "lng": -6.8233901
+        }
+      }
+    },
+    "place_id": "ChIJycrBT-Z_XUgRMMwxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2421,
+    "area_name": "Narraghmore",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Narraghmore",
+        "short_name": "Narraghmore",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lipstown Upper",
+        "short_name": "Lipstown Upper",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lipstown Upper, Narraghmore, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.04868010000001,
+        "lng": -6.8294142
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.05002908029151,
+          "lng": -6.828065219708497
+        },
+        "southwest": {
+          "lat": 53.04733111970851,
+          "lng": -6.830763180291502
+        }
+      }
+    },
+    "place_id": "ChIJ_aSQEeZ8XUgRoI8xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2431,
+    "area_name": "Ballitore",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Ballitore",
+        "short_name": "Ballitore",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballitore",
+        "short_name": "Ballitore",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballitore, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.009742,
+        "lng": -6.8156295
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.01109098029149,
+          "lng": -6.814280519708498
+        },
+        "southwest": {
+          "lat": 53.0083930197085,
+          "lng": -6.816978480291502
+        }
+      }
+    },
+    "place_id": "ChIJqUlqSiVjXUgREI4xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1642,
+    "area_name": "Burtown",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Burtown",
+        "short_name": "Burtown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Burtown Big",
+        "short_name": "Burtown Big",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Burtown Big, Burtown, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.99281999999999,
+        "lng": -6.890149999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9941689802915,
+          "lng": -6.888801019708497
+        },
+        "southwest": {
+          "lat": 52.9914710197085,
+          "lng": -6.891498980291502
+        }
+      }
+    },
+    "place_id": "ChIJk4cEz8BkXUgRMMvfN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2427,
+    "area_name": "Brannockstown",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Brannockstown",
+        "short_name": "Brannockstown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Brannockstown",
+        "short_name": "Brannockstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Brannockstown, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.1226695,
+        "lng": -6.693786599999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1240184802915,
+          "lng": -6.692437619708497
+        },
+        "southwest": {
+          "lat": 53.1213205197085,
+          "lng": -6.695135580291502
+        }
+      }
+    },
+    "place_id": "ChIJT4_Q8jWBZ0gRINsxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1641,
+    "area_name": "Athy",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Athy",
+        "short_name": "Athy",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Athy, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.00189,
+          "lng": -6.964349899999999
+        },
+        "southwest": {
+          "lat": 52.97806,
+          "lng": -7.0013701
+        }
+      },
+      "location": {
+        "lat": 52.9918336,
+        "lng": -6.985728
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.00189,
+          "lng": -6.964349899999999
+        },
+        "southwest": {
+          "lat": 52.97806,
+          "lng": -7.0013701
+        }
+      }
+    },
+    "place_id": "ChIJw44Coo1vXUgRoI0xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3790,
+    "area_name": "Ballysax",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Ballysax",
+        "short_name": "Ballysax",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballysax Great",
+        "short_name": "Ballysax Great",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballysax Great, Ballysax, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.12651,
+        "lng": -6.812869999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.12785898029149,
+          "lng": -6.811521019708497
+        },
+        "southwest": {
+          "lat": 53.12516101970849,
+          "lng": -6.814218980291502
+        }
+      }
+    },
+    "place_id": "ChIJRdL_OI9-XUgRkLnfN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2420,
+    "area_name": "Ardscull",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Ardscull",
+        "short_name": "Ardscull",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ardscull, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.0247398,
+          "lng": -6.902430499999999
+        },
+        "southwest": {
+          "lat": 53.0085269,
+          "lng": -6.927394199999999
+        }
+      },
+      "location": {
+        "lat": 53.01663869999999,
+        "lng": -6.916915599999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.0247398,
+          "lng": -6.902430499999999
+        },
+        "southwest": {
+          "lat": 53.0085269,
+          "lng": -6.927394199999999
+        }
+      }
+    },
+    "place_id": "ChIJ5RStB9V6XUgRQvq6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2446,
+    "area_name": "Ballymore Eustace",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Ballymore Eustace",
+        "short_name": "Ballymore Eustace",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Sousheen Common",
+        "short_name": "Sousheen Common",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Sousheen Common, Ballymore Eustace, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.1330099,
+        "lng": -6.614880899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1343588802915,
+          "lng": -6.613531919708497
+        },
+        "southwest": {
+          "lat": 53.1316609197085,
+          "lng": -6.616229880291502
+        }
+      }
+    },
+    "place_id": "ChIJoS-hCXiDZ0gRsIsxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2407,
+    "area_name": "Prosperous",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Prosperous",
+        "short_name": "Prosperous",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Curryhills",
+        "short_name": "Curryhills",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Curryhills, Prosperous, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.2881253,
+        "lng": -6.7550083
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.28947428029149,
+          "lng": -6.753659319708498
+        },
+        "southwest": {
+          "lat": 53.28677631970849,
+          "lng": -6.756357280291502
+        }
+      }
+    },
+    "place_id": "ChIJRWEMzSt8Z0gRQIQxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2782,
+    "area_name": "Ballynadrumny",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Ballynadrumny",
+        "short_name": "Ballynadrumny",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Stoneyford",
+        "short_name": "Stoneyford",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballynadrumny, Stoneyford, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.43849040000001,
+          "lng": -6.940699
+        },
+        "southwest": {
+          "lat": 53.4268692,
+          "lng": -6.971118799999999
+        }
+      },
+      "location": {
+        "lat": 53.432362,
+        "lng": -6.954562399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.43849040000001,
+          "lng": -6.940699
+        },
+        "southwest": {
+          "lat": 53.4268692,
+          "lng": -6.971118799999999
+        }
+      }
+    },
+    "place_id": "ChIJZfCbDEmJXUgR0qlTu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1657,
+    "area_name": "Timolin",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Timolin",
+        "short_name": "Timolin",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Timolin",
+        "short_name": "Timolin",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Timolin, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.9849389,
+        "lng": -6.8100694
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.98628788029149,
+          "lng": -6.808720419708497
+        },
+        "southwest": {
+          "lat": 52.9835899197085,
+          "lng": -6.811418380291502
+        }
+      }
+    },
+    "place_id": "ChIJe5_jogNjXUgRMCYyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2398,
+    "area_name": "Windmill",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Kildare",
+        "short_name": "Kildare",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.1828601,
+          "lng": -6.8829899
+        },
+        "southwest": {
+          "lat": 53.15196,
+          "lng": -6.92259
+        }
+      },
+      "location": {
+        "lat": 53.1589342,
+        "lng": -6.9095683
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1828601,
+          "lng": -6.8829899
+        },
+        "southwest": {
+          "lat": 53.15196,
+          "lng": -6.92259
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJkxNuX8V4XUgRIHQxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2394,
+    "area_name": "Monasterevin",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Monasterevin",
+        "short_name": "Monasterevin",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Monasterevin",
+        "short_name": "Monasterevin",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Monasterevin, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.1400651,
+        "lng": -7.060377
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1414140802915,
+          "lng": -7.059028019708498
+        },
+        "southwest": {
+          "lat": 53.1387161197085,
+          "lng": -7.061725980291502
+        }
+      }
+    },
+    "place_id": "ChIJ3df3EKl3XUgRsHkxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2410,
+    "area_name": "Sallins",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Sallins",
+        "short_name": "Sallins",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Sallins",
+        "short_name": "Sallins",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Sallins, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.251067,
+        "lng": -6.6652312
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2524159802915,
+          "lng": -6.663882219708498
+        },
+        "southwest": {
+          "lat": 53.2497180197085,
+          "lng": -6.666580180291502
+        }
+      }
+    },
+    "place_id": "ChIJZSdpWx55Z0gRkBcyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2417,
+    "area_name": "Suncroft",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Suncroft",
+        "short_name": "Suncroft",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Common South",
+        "short_name": "Common South",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Common South, Suncroft, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.1075785,
+        "lng": -6.8613827
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1089274802915,
+          "lng": -6.860033719708498
+        },
+        "southwest": {
+          "lat": 53.1062295197085,
+          "lng": -6.862731680291502
+        }
+      }
+    },
+    "place_id": "ChIJ6VL8KKB-XUgRcPYxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2405,
+    "area_name": "Robertstown",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Robertstown",
+        "short_name": "Robertstown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Robertstown East",
+        "short_name": "Robertstown East",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Robertstown East, Robertstown, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.269268,
+        "lng": -6.815316399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.27061698029151,
+          "lng": -6.813967419708497
+        },
+        "southwest": {
+          "lat": 53.26791901970851,
+          "lng": -6.816665380291502
+        }
+      }
+    },
+    "place_id": "ChIJc4K-1aWAXUgRoIQxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2784,
+    "area_name": "Carbury",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Carbury",
+        "short_name": "Carbury",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Longridge",
+        "short_name": "Longridge",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carbury, Longridge, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.3656578,
+          "lng": -6.959233299999999
+        },
+        "southwest": {
+          "lat": 53.3454849,
+          "lng": -6.985122500000001
+        }
+      },
+      "location": {
+        "lat": 53.3571946,
+        "lng": -6.9726095
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3656578,
+          "lng": -6.959233299999999
+        },
+        "southwest": {
+          "lat": 53.3454849,
+          "lng": -6.985122500000001
+        }
+      }
+    },
+    "place_id": "ChIJKUjlMveFXUgRguS6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3831,
+    "area_name": "Broadford",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Broadford",
+        "short_name": "Broadford",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Royaloak",
+        "short_name": "Royaloak",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Royaloak, Broadford, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.4244724,
+        "lng": -6.960683
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.4258213802915,
+          "lng": -6.959334019708498
+        },
+        "southwest": {
+          "lat": 53.4231234197085,
+          "lng": -6.962031980291502
+        }
+      }
+    },
+    "place_id": "ChIJva7wwDWJXUgRsuO6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2399,
+    "area_name": "Allenwood",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Allenwood",
+        "short_name": "Allenwood",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Derrymullen",
+        "short_name": "Derrymullen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Derrymullen, Allenwood, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.2839545,
+        "lng": -6.8618405
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2853034802915,
+          "lng": -6.860491519708497
+        },
+        "southwest": {
+          "lat": 53.2826055197085,
+          "lng": -6.863189480291502
+        }
+      }
+    },
+    "place_id": "ChIJUZGmxzCHXUgRAAIyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2414,
+    "area_name": "Curragh",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Curragh",
+        "short_name": "Curragh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Curragh, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.1552406,
+          "lng": -6.8098163
+        },
+        "southwest": {
+          "lat": 53.1334147,
+          "lng": -6.8492713
+        }
+      },
+      "location": {
+        "lat": 53.1420265,
+        "lng": -6.828595399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1552406,
+          "lng": -6.8098163
+        },
+        "southwest": {
+          "lat": 53.1334147,
+          "lng": -6.8492713
+        }
+      }
+    },
+    "place_id": "ChIJb0pvmLB_XUgRUg1Uu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2413,
+    "area_name": "Kildare",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Kildare",
+        "short_name": "Kildare",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.1828601,
+          "lng": -6.8829899
+        },
+        "southwest": {
+          "lat": 53.15196,
+          "lng": -6.92259
+        }
+      },
+      "location": {
+        "lat": 53.1589342,
+        "lng": -6.9095683
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1828601,
+          "lng": -6.8829899
+        },
+        "southwest": {
+          "lat": 53.15196,
+          "lng": -6.92259
+        }
+      }
+    },
+    "place_id": "ChIJkxNuX8V4XUgRIHQxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3680,
+    "area_name": "Moyvalley",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Moyvally",
+        "short_name": "Moyvally",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "M0YVALLY",
+        "short_name": "M0YVALLY",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "M0YVALLY, Moyvally, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.42992,
+        "lng": -6.92087
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.4312689802915,
+          "lng": -6.919521019708498
+        },
+        "southwest": {
+          "lat": 53.4285710197085,
+          "lng": -6.922218980291502
+        }
+      }
+    },
+    "place_id": "ChIJRSPZ1XSJXUgR0s1Tu6fHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1661,
+    "area_name": "Graney",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Graney",
+        "short_name": "Graney",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Knockfield",
+        "short_name": "Knockfield",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Knockfield, Graney, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.90105,
+        "lng": -6.78647
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.90239898029149,
+          "lng": -6.785121019708497
+        },
+        "southwest": {
+          "lat": 52.89970101970849,
+          "lng": -6.787818980291502
+        }
+      }
+    },
+    "place_id": "ChIJc3xY5ANhXUgRIQ67GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2434,
+    "area_name": "Crookstown",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Crookstown",
+        "short_name": "Crookstown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Crookstown Upper",
+        "short_name": "Crookstown Upper",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Crookstown Upper, Crookstown, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.02115000000001,
+        "lng": -6.80925
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.02249898029151,
+          "lng": -6.807901019708497
+        },
+        "southwest": {
+          "lat": 53.01980101970851,
+          "lng": -6.810598980291502
+        }
+      }
+    },
+    "place_id": "ChIJl1BegipjXUgRpHFccAgLadc",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3692,
+    "area_name": "Kilshanroe",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Kilshanroe",
+        "short_name": "Kilshanroe",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilshanchoe",
+        "short_name": "Kilshanchoe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilshanchoe, Kilshanroe, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.38391,
+        "lng": -6.89274
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3852589802915,
+          "lng": -6.891391019708498
+        },
+        "southwest": {
+          "lat": 53.3825610197085,
+          "lng": -6.894088980291502
+        }
+      }
+    },
+    "place_id": "ChIJKylG6maIXUgRoAsyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2818,
+    "area_name": "Maynooth",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Maynooth",
+        "short_name": "Maynooth",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Maynooth, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.3915101,
+          "lng": -6.57626
+        },
+        "southwest": {
+          "lat": 53.36823,
+          "lng": -6.61254
+        }
+      },
+      "location": {
+        "lat": 53.3812896,
+        "lng": -6.5918499
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3915101,
+          "lng": -6.57626
+        },
+        "southwest": {
+          "lat": 53.36823,
+          "lng": -6.61254
+        }
+      }
+    },
+    "place_id": "ChIJBzgtFx5wZ0gR8BEyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 257,
+    "area_name": "Leixlip",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Leixlip",
+        "short_name": "Leixlip",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Leixlip, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.37480009999999,
+          "lng": -6.473680000000001
+        },
+        "southwest": {
+          "lat": 53.3587301,
+          "lng": -6.521649999999999
+        }
+      },
+      "location": {
+        "lat": 53.36384280000001,
+        "lng": -6.4900033
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.37480009999999,
+          "lng": -6.473680000000001
+        },
+        "southwest": {
+          "lat": 53.3587301,
+          "lng": -6.521649999999999
+        }
+      }
+    },
+    "place_id": "ChIJz5MSuB9yZ0gR0HMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2426,
+    "area_name": "Milemill",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Milemill",
+        "short_name": "Milemill",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Milemill, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.1237479,
+          "lng": -6.721279999999999
+        },
+        "southwest": {
+          "lat": 53.1116362,
+          "lng": -6.7415847
+        }
+      },
+      "location": {
+        "lat": 53.1186054,
+        "lng": -6.7300857
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1237479,
+          "lng": -6.721279999999999
+        },
+        "southwest": {
+          "lat": 53.1116362,
+          "lng": -6.7415847
+        }
+      }
+    },
+    "place_id": "ChIJBznUdNOAZ0gR4BMyl6nHAAo",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2412,
+    "area_name": "Cherryville",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Cherryville",
+        "short_name": "Cherryville",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cherryville, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.16447849999999,
+          "lng": -6.9593061
+        },
+        "southwest": {
+          "lat": 53.1473097,
+          "lng": -6.983726799999999
+        }
+      },
+      "location": {
+        "lat": 53.1561497,
+        "lng": -6.9723202
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.16447849999999,
+          "lng": -6.9593061
+        },
+        "southwest": {
+          "lat": 53.1473097,
+          "lng": -6.983726799999999
+        }
+      }
+    },
+    "place_id": "ChIJD96ae0V4XUgRIuW6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2439,
+    "area_name": "Kill",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Kill",
+        "short_name": "Kill",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kill East",
+        "short_name": "Kill East",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kill East, Kill, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.24870629999999,
+        "lng": -6.590530600000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.25005528029149,
+          "lng": -6.5891816197085
+        },
+        "southwest": {
+          "lat": 53.24735731970849,
+          "lng": -6.591879580291503
+        }
+      }
+    },
+    "place_id": "ChIJhzXJmC54Z0gR0Igxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3670,
+    "area_name": "Coill Dubh",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Blackwood",
+        "short_name": "Blackwood",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Blackwood",
+        "short_name": "Blackwood",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Blackwood, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.2931573,
+        "lng": -6.818584400000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.29450628029149,
+          "lng": -6.817235419708499
+        },
+        "southwest": {
+          "lat": 53.29180831970849,
+          "lng": -6.819933380291503
+        }
+      }
+    },
+    "place_id": "ChIJ5xgcI_h9Z0gRcIQxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2433,
+    "area_name": "Colbinstown",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Colbinstown",
+        "short_name": "Colbinstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Colbinstown, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.0408274,
+          "lng": -6.7481737
+        },
+        "southwest": {
+          "lat": 53.0234422,
+          "lng": -6.7702241
+        }
+      },
+      "location": {
+        "lat": 53.0321408,
+        "lng": -6.759772799999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.0408274,
+          "lng": -6.7481737
+        },
+        "southwest": {
+          "lat": 53.0234422,
+          "lng": -6.7702241
+        }
+      }
+    },
+    "place_id": "ChIJbULSc1R9XUgRste6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2786,
+    "area_name": "Kilshanchoe",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Kilshanroe",
+        "short_name": "Kilshanroe",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilshanchoe",
+        "short_name": "Kilshanchoe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilshanchoe, Kilshanroe, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.38391,
+        "lng": -6.89274
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3852589802915,
+          "lng": -6.891391019708498
+        },
+        "southwest": {
+          "lat": 53.3825610197085,
+          "lng": -6.894088980291502
+        }
+      }
+    },
+    "place_id": "ChIJKylG6maIXUgRoAsyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2383,
+    "area_name": "Rathangan",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Rathangan",
+        "short_name": "Rathangan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Rathangan Demesne",
+        "short_name": "Rathangan Demesne",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rathangan Demesne, Rathangan, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.2210179,
+        "lng": -6.9945422
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2223668802915,
+          "lng": -6.993193219708497
+        },
+        "southwest": {
+          "lat": 53.2196689197085,
+          "lng": -6.995891180291502
+        }
+      }
+    },
+    "place_id": "ChIJvToJ7-KCXUgRgIoxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1663,
+    "area_name": "Knocknacree",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Knocknacree",
+        "short_name": "Knocknacree",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Knocknacree, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.89081299999999,
+          "lng": -6.8028887
+        },
+        "southwest": {
+          "lat": 52.8799942,
+          "lng": -6.824003599999999
+        }
+      },
+      "location": {
+        "lat": 52.8855534,
+        "lng": -6.8146802
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.89081299999999,
+          "lng": -6.8028887
+        },
+        "southwest": {
+          "lat": 52.8799942,
+          "lng": -6.824003599999999
+        }
+      }
+    },
+    "place_id": "ChIJ1Zyh_NpgXUgRiktx-IAphV4",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2396,
+    "area_name": "Kilberry",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Kilberry",
+        "short_name": "Kilberry",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Newtownbert",
+        "short_name": "Newtownbert",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Newtownbert, Kilberry, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.0311398,
+        "lng": -7.016986999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.03248878029149,
+          "lng": -7.015638019708497
+        },
+        "southwest": {
+          "lat": 53.0297908197085,
+          "lng": -7.018335980291502
+        }
+      }
+    },
+    "place_id": "ChIJjZbGekNwXUgRQAgyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2397,
+    "area_name": "Lullymore",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Lullymore",
+        "short_name": "Lullymore",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lullymore East",
+        "short_name": "Lullymore East",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lullymore East, Lullymore, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.27805,
+        "lng": -6.94276
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2793989802915,
+          "lng": -6.941411019708497
+        },
+        "southwest": {
+          "lat": 53.2767010197085,
+          "lng": -6.944108980291502
+        }
+      }
+    },
+    "place_id": "ChIJZ19RNAaEXUgRRMEo6ZSFKak",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2781,
+    "area_name": "Moyvally",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Moyvally",
+        "short_name": "Moyvally",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "M0YVALLY",
+        "short_name": "M0YVALLY",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "M0YVALLY, Moyvally, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.42992,
+        "lng": -6.92087
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.4312689802915,
+          "lng": -6.919521019708498
+        },
+        "southwest": {
+          "lat": 53.4285710197085,
+          "lng": -6.922218980291502
+        }
+      }
+    },
+    "place_id": "ChIJRSPZ1XSJXUgR0s1Tu6fHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2408,
+    "area_name": "Clane",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Clane",
+        "short_name": "Clane",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Abbeyland",
+        "short_name": "Abbeyland",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Abbeyland, Clane, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.293785,
+        "lng": -6.6870404
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2951339802915,
+          "lng": -6.685691419708498
+        },
+        "southwest": {
+          "lat": 53.2924360197085,
+          "lng": -6.688389380291502
+        }
+      }
+    },
+    "place_id": "ChIJCae2q-N7Z0gRkO8xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3773,
+    "area_name": "Johnstownbridge",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Johnstown Bridge",
+        "short_name": "Johnstown Bridge",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Gorteen",
+        "short_name": "Gorteen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Gorteen, Johnstown Bridge, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.4019965,
+        "lng": -6.855203299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.4033454802915,
+          "lng": -6.853854319708497
+        },
+        "southwest": {
+          "lat": 53.4006475197085,
+          "lng": -6.856552280291502
+        }
+      }
+    },
+    "place_id": "ChIJHdUevyiIXUgREIkxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2411,
+    "area_name": "Naas",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Naas",
+        "short_name": "Naas",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Naas, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.2416,
+          "lng": -6.62979
+        },
+        "southwest": {
+          "lat": 53.19867,
+          "lng": -6.68849
+        }
+      },
+      "location": {
+        "lat": 53.2205654,
+        "lng": -6.6593079
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2416,
+          "lng": -6.62979
+        },
+        "southwest": {
+          "lat": 53.19867,
+          "lng": -6.68849
+        }
+      }
+    },
+    "place_id": "ChIJnxupcJZ4Z0gRsHIxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 207,
+    "area_name": "Confey",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Confey",
+        "short_name": "Confey",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Confey, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.3866327,
+          "lng": -6.4831978
+        },
+        "southwest": {
+          "lat": 53.3733917,
+          "lng": -6.5117902
+        }
+      },
+      "location": {
+        "lat": 53.3793095,
+        "lng": -6.4958578
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3866327,
+          "lng": -6.4831978
+        },
+        "southwest": {
+          "lat": 53.3733917,
+          "lng": -6.5117902
+        }
+      }
+    },
+    "place_id": "ChIJq_owQQRyZ0gRslfHGajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2393,
+    "area_name": "Lackagh",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Lackagh",
+        "short_name": "Lackagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Coolier",
+        "short_name": "Coolier",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Coolier, Lackagh, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.1657,
+        "lng": -7.003400000000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1670489802915,
+          "lng": -7.002051019708499
+        },
+        "southwest": {
+          "lat": 53.1643510197085,
+          "lng": -7.004748980291503
+        }
+      }
+    },
+    "place_id": "ChIJLSILA3F4XUgRwsQru6fHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3788,
+    "area_name": "Maddenstown",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Maddenstown",
+        "short_name": "Maddenstown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maddenstown North",
+        "short_name": "Maddenstown North",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Maddenstown North, Maddenstown, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.13653,
+        "lng": -6.86764
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1378789802915,
+          "lng": -6.866291019708497
+        },
+        "southwest": {
+          "lat": 53.1351810197085,
+          "lng": -6.868988980291502
+        }
+      }
+    },
+    "place_id": "ChIJG-62guZ-XUgRYKgxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4232,
+    "area_name": "Two Mile House",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Two Mile House",
+        "short_name": "Two Mile House",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Mylerstown",
+        "short_name": "Mylerstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Mylerstown, Two Mile House, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.1702248,
+        "lng": -6.700301899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1715737802915,
+          "lng": -6.698952919708497
+        },
+        "southwest": {
+          "lat": 53.1688758197085,
+          "lng": -6.701650880291502
+        }
+      }
+    },
+    "place_id": "ChIJT0NKLpiBZ0gRUJYxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2750,
+    "area_name": "Clogharinka",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Clogharinka",
+        "short_name": "Clogharinka",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Claremount",
+        "short_name": "Claremount",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Claremount, Clogharinka, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.39828,
+        "lng": -7.016159999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3996289802915,
+          "lng": -7.014811019708498
+        },
+        "southwest": {
+          "lat": 53.3969310197085,
+          "lng": -7.017508980291502
+        }
+      }
+    },
+    "place_id": "ChIJNQI6JwGPXUgRAPAxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2395,
+    "area_name": "Kildangan",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Kildangan",
+        "short_name": "Kildangan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilbeg",
+        "short_name": "Kilbeg",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilbeg, Kildangan, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.1052189,
+        "lng": -7.013760100000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.10656788029149,
+          "lng": -7.012411119708498
+        },
+        "southwest": {
+          "lat": 53.10386991970849,
+          "lng": -7.015109080291503
+        }
+      }
+    },
+    "place_id": "ChIJy-LAt1F3XUgRAJExl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2440,
+    "area_name": "Johnstown",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Johnstown",
+        "short_name": "Johnstown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Palmerstown",
+        "short_name": "Palmerstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Palmerstown, Johnstown, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.2370579,
+        "lng": -6.6217975
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.23840688029151,
+          "lng": -6.620448519708497
+        },
+        "southwest": {
+          "lat": 53.23570891970851,
+          "lng": -6.623146480291502
+        }
+      }
+    },
+    "place_id": "ChIJGTYuVkN4Z0gRoIgxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2783,
+    "area_name": "Cadamstown",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Cadamstown",
+        "short_name": "Cadamstown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Clonagh",
+        "short_name": "Clonagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Clonagh, Cadamstown, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.3999787,
+        "lng": -6.9202213
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.40132768029149,
+          "lng": -6.918872319708497
+        },
+        "southwest": {
+          "lat": 53.3986297197085,
+          "lng": -6.921570280291502
+        }
+      }
+    },
+    "place_id": "ChIJb0CZleSIXUgR2D6j8RxAmYw",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2419,
+    "area_name": "Fontstown",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Fontstown",
+        "short_name": "Fontstown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Fontstown Upper",
+        "short_name": "Fontstown Upper",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Fontstown Upper, Fontstown, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.05263,
+        "lng": -6.88932
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.0539789802915,
+          "lng": -6.887971019708497
+        },
+        "southwest": {
+          "lat": 53.0512810197085,
+          "lng": -6.890668980291502
+        }
+      }
+    },
+    "place_id": "ChIJsyaXxW97XUgRcg27GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2432,
+    "area_name": "Kilgowan",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Kilgowan",
+        "short_name": "Kilgowan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Whitehall",
+        "short_name": "Whitehall",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilgowan, Whitehall, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.08838189999999,
+          "lng": -6.7565681
+        },
+        "southwest": {
+          "lat": 53.0770122,
+          "lng": -6.782715899999999
+        }
+      },
+      "location": {
+        "lat": 53.0836283,
+        "lng": -6.7725453
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.08838189999999,
+          "lng": -6.7565681
+        },
+        "southwest": {
+          "lat": 53.0770122,
+          "lng": -6.782715899999999
+        }
+      }
+    },
+    "place_id": "ChIJdzeumIl9XUgR1m8duoOcqEA",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2428,
+    "area_name": "Old Kilcullen",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Old Kilcullen",
+        "short_name": "Old Kilcullen",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Oldkilcullen",
+        "short_name": "Oldkilcullen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Oldkilcullen, Old Kilcullen, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.10917999999999,
+        "lng": -6.766070000000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.11052898029149,
+          "lng": -6.764721019708499
+        },
+        "southwest": {
+          "lat": 53.10783101970849,
+          "lng": -6.767418980291503
+        }
+      }
+    },
+    "place_id": "ChIJk97MmFOHZ0gR6nEvD9nhi88",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3962,
+    "area_name": "Kilcloon",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Kilcloon",
+        "short_name": "Kilcloon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Harristown",
+        "short_name": "Harristown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Meath",
+        "short_name": "MH",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Harristown, Kilcloon, Co. Meath, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.42723,
+        "lng": -6.58392
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.4285789802915,
+          "lng": -6.582571019708498
+        },
+        "southwest": {
+          "lat": 53.42588101970851,
+          "lng": -6.585268980291502
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJW5_a_AdvZ0gRYh_HGajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2785,
+    "area_name": "Johnstown Bridge",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Johnstown Bridge",
+        "short_name": "Johnstown Bridge",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Gorteen",
+        "short_name": "Gorteen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Gorteen, Johnstown Bridge, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.4019965,
+        "lng": -6.855203299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.4033454802915,
+          "lng": -6.853854319708497
+        },
+        "southwest": {
+          "lat": 53.4006475197085,
+          "lng": -6.856552280291502
+        }
+      }
+    },
+    "place_id": "ChIJHdUevyiIXUgREIkxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3787,
+    "area_name": "The Curragh",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Curragh",
+        "short_name": "Curragh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Curragh, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.1552406,
+          "lng": -6.8098163
+        },
+        "southwest": {
+          "lat": 53.1334147,
+          "lng": -6.8492713
+        }
+      },
+      "location": {
+        "lat": 53.1420265,
+        "lng": -6.828595399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1552406,
+          "lng": -6.8098163
+        },
+        "southwest": {
+          "lat": 53.1334147,
+          "lng": -6.8492713
+        }
+      }
+    },
+    "place_id": "ChIJb0pvmLB_XUgRUg1Uu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 199,
+    "area_name": "Celbridge",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Celbridge",
+        "short_name": "Celbridge",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Celbridge, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.35711999999999,
+          "lng": -6.5239699
+        },
+        "southwest": {
+          "lat": 53.32322,
+          "lng": -6.56685
+        }
+      },
+      "location": {
+        "lat": 53.339897,
+        "lng": -6.538458899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.35711999999999,
+          "lng": -6.5239699
+        },
+        "southwest": {
+          "lat": 53.32322,
+          "lng": -6.56685
+        }
+      }
+    },
+    "place_id": "ChIJz_ON-A5xZ0gR0Owxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2424,
+    "area_name": "Corbally",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Kildare",
+        "short_name": "Kildare",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.1828601,
+          "lng": -6.8829899
+        },
+        "southwest": {
+          "lat": 53.15196,
+          "lng": -6.92259
+        }
+      },
+      "location": {
+        "lat": 53.1589342,
+        "lng": -6.9095683
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1828601,
+          "lng": -6.8829899
+        },
+        "southwest": {
+          "lat": 53.15196,
+          "lng": -6.92259
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJkxNuX8V4XUgRIHQxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2789,
+    "area_name": "Cloncurry",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Cloncurry",
+        "short_name": "Cloncurry",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cloncurry",
+        "short_name": "Cloncurry",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cloncurry, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.4153452,
+        "lng": -6.7919174
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.41669418029149,
+          "lng": -6.790568419708498
+        },
+        "southwest": {
+          "lat": 53.41399621970849,
+          "lng": -6.793266380291502
+        }
+      }
+    },
+    "place_id": "ChIJm6VQ66pjZ0gRdodI_i1pVNc",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1659,
+    "area_name": "Moone",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Moone",
+        "short_name": "Moone",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Simonstown West",
+        "short_name": "Simonstown West",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Simonstown West, Moone, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.9755328,
+        "lng": -6.815702
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9768817802915,
+          "lng": -6.814353019708498
+        },
+        "southwest": {
+          "lat": 52.9741838197085,
+          "lng": -6.817050980291502
+        }
+      }
+    },
+    "place_id": "ChIJpdf5S6ZjXUgRMBMyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2425,
+    "area_name": "Kilcullen",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Kilcullen",
+        "short_name": "Kilcullen",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilcullenbridge",
+        "short_name": "Kilcullenbridge",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilcullenbridge, Kilcullen, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.1302865,
+        "lng": -6.745279099999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.13163548029149,
+          "lng": -6.743930119708497
+        },
+        "southwest": {
+          "lat": 53.1289375197085,
+          "lng": -6.746628080291502
+        }
+      }
+    },
+    "place_id": "ChIJSSnB8sGAZ0gRcOwxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2403,
+    "area_name": "Staplestown",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Staplestown",
+        "short_name": "Staplestown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Staplestown",
+        "short_name": "Staplestown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Staplestown, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.3299313,
+        "lng": -6.768440699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.33128028029149,
+          "lng": -6.767091719708497
+        },
+        "southwest": {
+          "lat": 53.3285823197085,
+          "lng": -6.769789680291502
+        }
+      }
+    },
+    "place_id": "ChIJp81uC_98Z0gREIQxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2381,
+    "area_name": "Killinthomas",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Killinthomas",
+        "short_name": "Killinthomas",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Killinthomas, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.2638229,
+          "lng": -6.9925216
+        },
+        "southwest": {
+          "lat": 53.24172369999999,
+          "lng": -7.029650299999999
+        }
+      },
+      "location": {
+        "lat": 53.2521674,
+        "lng": -7.0102324
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2638229,
+          "lng": -6.9925216
+        },
+        "southwest": {
+          "lat": 53.24172369999999,
+          "lng": -7.029650299999999
+        }
+      }
+    },
+    "place_id": "ChIJNUKf9kCDXUgRMuq6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2400,
+    "area_name": "Kilmeage",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Kilmeage",
+        "short_name": "Kilmeage",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilmeage",
+        "short_name": "Kilmeage",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilmeage, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.2510535,
+        "lng": -6.8399263
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2524024802915,
+          "lng": -6.838577319708498
+        },
+        "southwest": {
+          "lat": 53.2497045197085,
+          "lng": -6.841275280291502
+        }
+      }
+    },
+    "place_id": "ChIJEQFdxu2AXUgR0IQxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2443,
+    "area_name": "Kilteel",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Kilteel",
+        "short_name": "Kilteel",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilteel Upper",
+        "short_name": "Kilteel Upper",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilteel Upper, Kilteel, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.2359545,
+        "lng": -6.521514199999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.23730348029149,
+          "lng": -6.520165219708497
+        },
+        "southwest": {
+          "lat": 53.2346055197085,
+          "lng": -6.522863180291502
+        }
+      }
+    },
+    "place_id": "ChIJYUbdokp2Z0gR8Igxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3869,
+    "area_name": "Derrinturn",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Derrinturn",
+        "short_name": "Derrinturn",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Derrinturn, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.3462603,
+          "lng": -6.9295589
+        },
+        "southwest": {
+          "lat": 53.330681,
+          "lng": -6.9515512
+        }
+      },
+      "location": {
+        "lat": 53.3395275,
+        "lng": -6.9399818
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3462603,
+          "lng": -6.9295589
+        },
+        "southwest": {
+          "lat": 53.330681,
+          "lng": -6.9515512
+        }
+      }
+    },
+    "place_id": "ChIJQUFFmXSGXUgRAPoxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2442,
+    "area_name": "Furnees",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Furness",
+        "short_name": "Furness",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Forenaghts Great",
+        "short_name": "Forenaghts Great",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Forenaghts Great, Furness, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.22399000000001,
+        "lng": -6.60572
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.22533898029151,
+          "lng": -6.604371019708497
+        },
+        "southwest": {
+          "lat": 53.22264101970851,
+          "lng": -6.607068980291502
+        }
+      }
+    },
+    "place_id": "ChIJ2d9bVWt4Z0gRuZKMyRn1K1U",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2751,
+    "area_name": "Duffy",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Duffy's",
+        "short_name": "Duffy's",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Nurney",
+        "short_name": "Nurney",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Nurney, Duffy's, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.38811,
+        "lng": -6.997669999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3894589802915,
+          "lng": -6.996321019708497
+        },
+        "southwest": {
+          "lat": 53.3867610197085,
+          "lng": -6.999018980291502
+        }
+      }
+    },
+    "place_id": "ChIJF5dQqRGPXUgRPp_9jBmonLk",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2797,
+    "area_name": "Kilcock",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Kilcock",
+        "short_name": "Kilcock",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Commons East",
+        "short_name": "Commons East",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Commons East, Kilcock, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.3994266,
+        "lng": -6.6681233
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.4007755802915,
+          "lng": -6.666774319708497
+        },
+        "southwest": {
+          "lat": 53.3980776197085,
+          "lng": -6.669472280291502
+        }
+      }
+    },
+    "place_id": "ChIJYwcDYh9lZ0gRoH8xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3857,
+    "area_name": "Coolearagh",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Coolearagh",
+        "short_name": "Coolearagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Coolearagh East",
+        "short_name": "Coolearagh East",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Coolearagh East, Coolearagh, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.29879,
+        "lng": -6.82292
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3001389802915,
+          "lng": -6.821571019708498
+        },
+        "southwest": {
+          "lat": 53.2974410197085,
+          "lng": -6.824268980291502
+        }
+      }
+    },
+    "place_id": "ChIJ_xdaTl-HXUgRRAdUj-4dXUw",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4055,
+    "area_name": "Kilmead",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Kilmead",
+        "short_name": "Kilmead",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilmead",
+        "short_name": "Kilmead",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilmead, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.0347993,
+        "lng": -6.9022241
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.03614828029149,
+          "lng": -6.900875119708497
+        },
+        "southwest": {
+          "lat": 53.0334503197085,
+          "lng": -6.903573080291502
+        }
+      }
+    },
+    "place_id": "ChIJhTaF9jh7XUgRoAoyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2790,
+    "area_name": "Donadea",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Donadea",
+        "short_name": "Donadea",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Donadea, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.3581565,
+          "lng": -6.7278208
+        },
+        "southwest": {
+          "lat": 53.3406871,
+          "lng": -6.7484069
+        }
+      },
+      "location": {
+        "lat": 53.35037699999999,
+        "lng": -6.734437900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3581565,
+          "lng": -6.7278208
+        },
+        "southwest": {
+          "lat": 53.3406871,
+          "lng": -6.7484069
+        }
+      }
+    },
+    "place_id": "ChIJM9kPBZR8Z0gRouW6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2791,
+    "area_name": "Laragh",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Laragh",
+        "short_name": "Laragh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Laragh, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.3830168,
+          "lng": -6.6530676
+        },
+        "southwest": {
+          "lat": 53.36976259999999,
+          "lng": -6.673449199999999
+        }
+      },
+      "location": {
+        "lat": 53.3772803,
+        "lng": -6.6643968
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3830168,
+          "lng": -6.6530676
+        },
+        "southwest": {
+          "lat": 53.36976259999999,
+          "lng": -6.673449199999999
+        }
+      }
+    },
+    "place_id": "ChIJP48QkdR6Z0gRbVkVbB8Oztc",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1644,
+    "area_name": "Kilkea",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Kilkea",
+        "short_name": "Kilkea",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilkea Demesne",
+        "short_name": "Kilkea Demesne",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilkea Demesne, Kilkea, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.947565,
+        "lng": -6.8927117
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.94891398029149,
+          "lng": -6.891362719708497
+        },
+        "southwest": {
+          "lat": 52.9462160197085,
+          "lng": -6.894060680291502
+        }
+      }
+    },
+    "place_id": "ChIJ23uyGDFkXUgREAkyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2404,
+    "area_name": "Timahoe",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Timahoe",
+        "short_name": "Timahoe",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Timahoe East",
+        "short_name": "Timahoe East",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Timahoe East, Timahoe, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.33161,
+        "lng": -6.835809999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.33295898029151,
+          "lng": -6.834461019708497
+        },
+        "southwest": {
+          "lat": 53.33026101970851,
+          "lng": -6.837158980291502
+        }
+      }
+    },
+    "place_id": "ChIJo2BocpCHXUgR0va6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2406,
+    "area_name": "Carragh",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Caragh",
+        "short_name": "Caragh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Gingerstown",
+        "short_name": "Gingerstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Gingerstown, Caragh, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.2371324,
+        "lng": -6.7289787
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2384813802915,
+          "lng": -6.727629719708498
+        },
+        "southwest": {
+          "lat": 53.2357834197085,
+          "lng": -6.730327680291502
+        }
+      }
+    },
+    "place_id": "ChIJT_YeLxp_Z0gRQIYxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2749,
+    "area_name": "Grange",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Grange",
+        "short_name": "Grange",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Grange East",
+        "short_name": "Grange East",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Grange East, Grange, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.37755,
+        "lng": -7.069129999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3788989802915,
+          "lng": -7.067781019708497
+        },
+        "southwest": {
+          "lat": 53.3762010197085,
+          "lng": -7.070478980291502
+        }
+      }
+    },
+    "place_id": "ChIJvblj4d-PXUgRQlRTu6fHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4219,
+    "area_name": "Rathcoffey",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Rathcoffey",
+        "short_name": "Rathcoffey",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Rathcoffey North",
+        "short_name": "Rathcoffey North",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rathcoffey North, Rathcoffey, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.3342027,
+        "lng": -6.678636200000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3355516802915,
+          "lng": -6.677287219708499
+        },
+        "southwest": {
+          "lat": 53.3328537197085,
+          "lng": -6.679985180291503
+        }
+      }
+    },
+    "place_id": "ChIJQQnwXmN8Z0gRHa1VnoTMvM4",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2438,
+    "area_name": "Straffan",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Straffan",
+        "short_name": "Straffan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lodgepark",
+        "short_name": "Lodgepark",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lodgepark, Straffan, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.3118851,
+        "lng": -6.608824800000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3132340802915,
+          "lng": -6.607475819708499
+        },
+        "southwest": {
+          "lat": 53.3105361197085,
+          "lng": -6.610173780291503
+        }
+      }
+    },
+    "place_id": "ChIJZ6pcYA16Z0gRsIoxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2409,
+    "area_name": "Mainham",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Mainham",
+        "short_name": "Mainham",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Mainham, Co. Kildare, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.32016489999999,
+          "lng": -6.6909342
+        },
+        "southwest": {
+          "lat": 53.3049256,
+          "lng": -6.709334699999999
+        }
+      },
+      "location": {
+        "lat": 53.31312639999999,
+        "lng": -6.7021861
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.32016489999999,
+          "lng": -6.6909342
+        },
+        "southwest": {
+          "lat": 53.3049256,
+          "lng": -6.709334699999999
+        }
+      }
+    },
+    "place_id": "ChIJj9J1Tox7Z0gR-DNB24bbEg8",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1646,
+    "area_name": "Maganey",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Maganey",
+        "short_name": "Maganey",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maganey Lower",
+        "short_name": "Maganey Lower",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Maganey Lower, Maganey, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.90880749999999,
+        "lng": -6.930904699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9101564802915,
+          "lng": -6.929555719708497
+        },
+        "southwest": {
+          "lat": 52.9074585197085,
+          "lng": -6.932253680291502
+        }
+      }
+    },
+    "place_id": "ChIJX8fTHz5mXUgRkhK7GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2402,
+    "area_name": "Milltown",
+    "county_name": "Kildare",
+    "county_id": 3,
+    "address_components": [
+      {
+        "long_name": "Milltown",
+        "short_name": "Milltown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Milltown",
+        "short_name": "Milltown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kildare",
+        "short_name": "County Kildare",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Milltown, Co. Kildare, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.2051083,
+        "lng": -6.861192699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2064572802915,
+          "lng": -6.859843719708497
+        },
+        "southwest": {
+          "lat": 53.2037593197085,
+          "lng": -6.862541680291502
+        }
+      }
+    },
+    "place_id": "ChIJuYdils2BXUgR8Ikxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  }
+]

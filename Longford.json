@@ -1,0 +1,3045 @@
+[
+  {
+    "area_id": 3076,
+    "area_name": "Abbeylara",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Abbeylara",
+        "short_name": "Abbeylara",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cloonaghmore",
+        "short_name": "Cloonaghmore",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cloonaghmore, Abbeylara, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.7652808,
+        "lng": -7.448866099999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7666297802915,
+          "lng": -7.447517119708498
+        },
+        "southwest": {
+          "lat": 53.7639318197085,
+          "lng": -7.450215080291501
+        }
+      }
+    },
+    "place_id": "ChIJ40qtsNfdXUgRAMYxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3938,
+    "area_name": "Aghasashel",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Longford",
+        "short_name": "Longford",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Longford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.7423701,
+          "lng": -7.7682599
+        },
+        "southwest": {
+          "lat": 53.7107499,
+          "lng": -7.8201999
+        }
+      },
+      "location": {
+        "lat": 53.7276296,
+        "lng": -7.7932573
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7423701,
+          "lng": -7.7682599
+        },
+        "southwest": {
+          "lat": 53.7107499,
+          "lng": -7.8201999
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJh8PCuZvTXUgRcHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2670,
+    "area_name": "Ardagh",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Ardagh Village",
+        "short_name": "Ardagh Village",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lyanmore",
+        "short_name": "Lyanmore",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lyanmore, Ardagh Village, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.66715,
+        "lng": -7.694090000000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.6684989802915,
+          "lng": -7.692741019708499
+        },
+        "southwest": {
+          "lat": 53.6658010197085,
+          "lng": -7.695438980291503
+        }
+      }
+    },
+    "place_id": "ChIJqwE_ON7RXUgRqTCLWkDv6-g",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3063,
+    "area_name": "Aughnacliffe",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Aughnacliffe",
+        "short_name": "Aughnacliffe",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Dunbeggan",
+        "short_name": "Dunbeggan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Dunbeggan, Aughnacliffe, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.84885,
+        "lng": -7.60445
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.85019898029149,
+          "lng": -7.603101019708498
+        },
+        "southwest": {
+          "lat": 53.8475010197085,
+          "lng": -7.605798980291502
+        }
+      }
+    },
+    "place_id": "ChIJb62lis53XkgR8DHfN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2672,
+    "area_name": "Barry",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Longford",
+        "short_name": "Longford",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Longford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.7423701,
+          "lng": -7.7682599
+        },
+        "southwest": {
+          "lat": 53.7107499,
+          "lng": -7.8201999
+        }
+      },
+      "location": {
+        "lat": 53.7276296,
+        "lng": -7.7932573
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7423701,
+          "lng": -7.7682599
+        },
+        "southwest": {
+          "lat": 53.7107499,
+          "lng": -7.8201999
+        }
+      }
+    },
+    "place_id": "ChIJh8PCuZvTXUgRcHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2671,
+    "area_name": "Ballymahon",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Ballymahon",
+        "short_name": "Ballymahon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballymahon",
+        "short_name": "Ballymahon",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballymahon, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.5643632,
+        "lng": -7.764596399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.5657121802915,
+          "lng": -7.763247419708497
+        },
+        "southwest": {
+          "lat": 53.5630142197085,
+          "lng": -7.765945380291501
+        }
+      }
+    },
+    "place_id": "ChIJM0TXLWXLXUgREHYxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3069,
+    "area_name": "Bunlahy",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Bunlahy",
+        "short_name": "Bunlahy",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Aughagreagh",
+        "short_name": "Aughagreagh",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Bunlahy, Aughagreagh, Co. Longford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.7999313,
+          "lng": -7.576706499999999
+        },
+        "southwest": {
+          "lat": 53.7892349,
+          "lng": -7.5956392
+        }
+      },
+      "location": {
+        "lat": 53.793916,
+        "lng": -7.5879121
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7999313,
+          "lng": -7.576706499999999
+        },
+        "southwest": {
+          "lat": 53.7892349,
+          "lng": -7.5956392
+        }
+      }
+    },
+    "place_id": "ChIJyXftvq7ZXUgRwZm6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3043,
+    "area_name": "Ballinamuck",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Ballinamuck",
+        "short_name": "Ballinamuck",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Shanmullagh",
+        "short_name": "Shanmullagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Shanmullagh, Ballinamuck, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.8648897,
+        "lng": -7.7172342
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8662386802915,
+          "lng": -7.715885219708498
+        },
+        "southwest": {
+          "lat": 53.8635407197085,
+          "lng": -7.718583180291502
+        }
+      }
+    },
+    "place_id": "ChIJ4223TVl4XkgRoOQxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2695,
+    "area_name": "Abbeyshrule",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Abbeyshrule",
+        "short_name": "Abbeyshrule",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Drumanure",
+        "short_name": "Drumanure",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Drumanure, Abbeyshrule, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.5825139,
+        "lng": -7.657553499999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.58386288029149,
+          "lng": -7.656204519708497
+        },
+        "southwest": {
+          "lat": 53.58116491970849,
+          "lng": -7.658902480291501
+        }
+      }
+    },
+    "place_id": "ChIJ3QfrdNTOXUgROT1NyDTtbHQ",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3071,
+    "area_name": "Ballinalee",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Ballinalee",
+        "short_name": "Ballinalee",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "School Land",
+        "short_name": "School Land",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "School Land, Ballinalee, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.7750724,
+        "lng": -7.6550915
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7764213802915,
+          "lng": -7.653742519708498
+        },
+        "southwest": {
+          "lat": 53.7737234197085,
+          "lng": -7.656440480291502
+        }
+      }
+    },
+    "place_id": "ChIJoW3WQELXXUgR0HUxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2669,
+    "area_name": "Carrickboy",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Carrickboy",
+        "short_name": "Carrickboy",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Carrickboy",
+        "short_name": "Carrickboy",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carrickboy, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.6323765,
+        "lng": -7.6862179
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.6337254802915,
+          "lng": -7.684868919708498
+        },
+        "southwest": {
+          "lat": 53.6310275197085,
+          "lng": -7.687566880291502
+        }
+      }
+    },
+    "place_id": "ChIJuYkYMGjOXUgRcMkxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3048,
+    "area_name": "Clondra",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Cloondara",
+        "short_name": "Cloondara",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Glebe",
+        "short_name": "Glebe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Glebe, Cloondara, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.73110339999999,
+        "lng": -7.904391899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.73245238029149,
+          "lng": -7.903042919708497
+        },
+        "southwest": {
+          "lat": 53.72975441970849,
+          "lng": -7.905740880291502
+        }
+      }
+    },
+    "place_id": "ChIJ3VowrYQsXEgRoHUxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3956,
+    "area_name": "Bornacoola",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Bornacoola",
+        "short_name": "Bornacoola",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ahanagh",
+        "short_name": "Ahanagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ahanagh, Bornacoola, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.80891039999999,
+        "lng": -7.8796154
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.81025938029149,
+          "lng": -7.878266419708498
+        },
+        "southwest": {
+          "lat": 53.80756141970849,
+          "lng": -7.880964380291503
+        }
+      }
+    },
+    "place_id": "ChIJbZcwGjbVXUgRsLnqN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3070,
+    "area_name": "Dring",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Dring",
+        "short_name": "Dring",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Dring",
+        "short_name": "Dring",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Dring, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.8182626,
+        "lng": -7.5430196
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.81961158029149,
+          "lng": -7.541670619708499
+        },
+        "southwest": {
+          "lat": 53.81691361970849,
+          "lng": -7.544368580291502
+        }
+      }
+    },
+    "place_id": "ChIJ182QjM7YXUgR2NKcxeyzhtM",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2666,
+    "area_name": "Corlea",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Corlea",
+        "short_name": "Corlea",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Corlea, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.7853883,
+        "lng": -7.7535462
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7867372802915,
+          "lng": -7.752197219708497
+        },
+        "southwest": {
+          "lat": 53.7840393197085,
+          "lng": -7.754895180291502
+        }
+      }
+    },
+    "place_id": "ChIJaxqqhYHWXUgRwCzpN6nHABg",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  },
+  {
+    "area_id": 2674,
+    "area_name": "Colehill",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Colehill",
+        "short_name": "Colehill",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Streamstown",
+        "short_name": "Streamstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Streamstown, Colehill, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.5980557,
+        "lng": -7.6796154
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.5994046802915,
+          "lng": -7.678266419708498
+        },
+        "southwest": {
+          "lat": 53.5967067197085,
+          "lng": -7.680964380291502
+        }
+      }
+    },
+    "place_id": "ChIJi7_7b8DOXUgRkPMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3074,
+    "area_name": "Clooneen",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Clooneen",
+        "short_name": "Clooneen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Aughnagarnon",
+        "short_name": "Aughnagarnon",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Clooneen, Aughnagarnon, Co. Longford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.8238553,
+          "lng": -7.4808463
+        },
+        "southwest": {
+          "lat": 53.8078146,
+          "lng": -7.508794899999999
+        }
+      },
+      "location": {
+        "lat": 53.8167553,
+        "lng": -7.496440799999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8238553,
+          "lng": -7.4808463
+        },
+        "southwest": {
+          "lat": 53.8078146,
+          "lng": -7.508794899999999
+        }
+      }
+    },
+    "place_id": "ChIJkVJahRvfXUgRspm6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3950,
+    "area_name": "Cullyfad",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Cullyfad",
+        "short_name": "Cullyfad",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Killyfad",
+        "short_name": "Killyfad",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Killyfad, Cullyfad, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.74435,
+        "lng": -7.71722
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.74569898029149,
+          "lng": -7.715871019708498
+        },
+        "southwest": {
+          "lat": 53.74300101970849,
+          "lng": -7.718568980291503
+        }
+      }
+    },
+    "place_id": "ChIJ8Xj9-zXRXUgR7O8rW9qV--4",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2664,
+    "area_name": "Carrowrory",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Carrowrory",
+        "short_name": "Carrowrory",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Elfeet",
+        "short_name": "Elfeet",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carrowrory, Elfeet, Co. Longford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.573555,
+          "lng": -7.9406909
+        },
+        "southwest": {
+          "lat": 53.5658051,
+          "lng": -7.9586568
+        }
+      },
+      "location": {
+        "lat": 53.5707215,
+        "lng": -7.9500228
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.573555,
+          "lng": -7.9406909
+        },
+        "southwest": {
+          "lat": 53.5658051,
+          "lng": -7.9586568
+        }
+      }
+    },
+    "place_id": "ChIJVRJToU8xXEgRYgi7GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3051,
+    "area_name": "Danesfort",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Danesfort",
+        "short_name": "Danesfort",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Craane",
+        "short_name": "Craane",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Craane, Danesfort, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.68611,
+        "lng": -7.824059999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.6874589802915,
+          "lng": -7.822711019708497
+        },
+        "southwest": {
+          "lat": 53.6847610197085,
+          "lng": -7.825408980291502
+        }
+      }
+    },
+    "place_id": "ChIJI9Z4RsPSXUgRIrG6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3882,
+    "area_name": "Ennybegs",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Enybegs",
+        "short_name": "Enybegs",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Enybegs, Co. Longford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.7849953,
+          "lng": -7.731517299999999
+        },
+        "southwest": {
+          "lat": 53.7708478,
+          "lng": -7.752038499999998
+        }
+      },
+      "location": {
+        "lat": 53.7770117,
+        "lng": -7.7441123
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7849953,
+          "lng": -7.731517299999999
+        },
+        "southwest": {
+          "lat": 53.7708478,
+          "lng": -7.752038499999998
+        }
+      }
+    },
+    "place_id": "ChIJdU8KXpPWXUgRAAEyl6nHAAo",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3054,
+    "area_name": "Drumlish",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Drumlish",
+        "short_name": "Drumlish",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Drumlish",
+        "short_name": "Drumlish",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Drumlish, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.82059030000001,
+        "lng": -7.768414
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.82193928029151,
+          "lng": -7.767065019708498
+        },
+        "southwest": {
+          "lat": 53.81924131970851,
+          "lng": -7.769762980291501
+        }
+      }
+    },
+    "place_id": "ChIJp-Y_auLVXUgRwHUxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2662,
+    "area_name": "Formoyle",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Formoyle",
+        "short_name": "Formoyle",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Formoyle (Farrell)",
+        "short_name": "Formoyle (Farrell)",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Formoyle (Farrell), Formoyle, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.61926,
+        "lng": -7.994190000000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.6206089802915,
+          "lng": -7.992841019708498
+        },
+        "southwest": {
+          "lat": 53.6179110197085,
+          "lng": -7.995538980291503
+        }
+      }
+    },
+    "place_id": "ChIJ15cxirYxXEgRsB8s9PUbnN4",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3073,
+    "area_name": "Crossea",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Crossea",
+        "short_name": "Crossea",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ardboghil",
+        "short_name": "Ardboghil",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ardboghil, Crossea, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.66849999999999,
+        "lng": -7.637860000000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.66984898029149,
+          "lng": -7.636511019708498
+        },
+        "southwest": {
+          "lat": 53.66715101970849,
+          "lng": -7.639208980291503
+        }
+      }
+    },
+    "place_id": "ChIJvRVx9R_QXUgRzhw5Vk3P-VU",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3055,
+    "area_name": "Esker South",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Esker South",
+        "short_name": "Esker South",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Esker South, Co. Longford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.79506689999999,
+          "lng": -7.6931119
+        },
+        "southwest": {
+          "lat": 53.7773502,
+          "lng": -7.717807799999999
+        }
+      },
+      "location": {
+        "lat": 53.7876214,
+        "lng": -7.708378499999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.79506689999999,
+          "lng": -7.6931119
+        },
+        "southwest": {
+          "lat": 53.7773502,
+          "lng": -7.717807799999999
+        }
+      }
+    },
+    "place_id": "ChIJc3C3NvzWXUgR0pm6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3056,
+    "area_name": "Corbay Upper",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Corbay Upper",
+        "short_name": "Corbay Upper",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballynagoshen",
+        "short_name": "Ballynagoshen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballynagoshen, Corbay Upper, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.71165000000001,
+        "lng": -7.672
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.71299898029151,
+          "lng": -7.670651019708497
+        },
+        "southwest": {
+          "lat": 53.71030101970851,
+          "lng": -7.673348980291502
+        }
+      }
+    },
+    "place_id": "ChIJ1UDF1P7QXUgRKqyKqWhDq5w",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3752,
+    "area_name": "Edgeworthstown",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Edgeworthstown",
+        "short_name": "Edgeworthstown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Edgeworthstown",
+        "short_name": "Edgeworthstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Edgeworthstown, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.6956862,
+        "lng": -7.608492999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.6970351802915,
+          "lng": -7.607144019708497
+        },
+        "southwest": {
+          "lat": 53.6943372197085,
+          "lng": -7.609841980291502
+        }
+      }
+    },
+    "place_id": "ChIJmXt2WZ3aXUgRMHYxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3075,
+    "area_name": "Granard",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Granard",
+        "short_name": "Granard",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Rathcronan",
+        "short_name": "Rathcronan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rathcronan, Granard, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.7792706,
+        "lng": -7.491778
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.78061958029149,
+          "lng": -7.490429019708498
+        },
+        "southwest": {
+          "lat": 53.77792161970849,
+          "lng": -7.493126980291501
+        }
+      }
+    },
+    "place_id": "ChIJfci7dr3eXUgRYAUyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2665,
+    "area_name": "Forthill",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Forthill",
+        "short_name": "Forthill",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Forthill, Co. Longford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.5870292,
+          "lng": -7.883542400000001
+        },
+        "southwest": {
+          "lat": 53.5710969,
+          "lng": -7.910951999999999
+        }
+      },
+      "location": {
+        "lat": 53.5802048,
+        "lng": -7.900174599999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.5870292,
+          "lng": -7.883542400000001
+        },
+        "southwest": {
+          "lat": 53.5710969,
+          "lng": -7.910951999999999
+        }
+      }
+    },
+    "place_id": "ChIJrVZcw5YzXEgRQgi7GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3884,
+    "area_name": "Killoe",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Killoe",
+        "short_name": "Killoe",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Rhine",
+        "short_name": "Rhine",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rhine, Killoe, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.75699030000001,
+        "lng": -7.6961894
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.75833928029151,
+          "lng": -7.694840419708497
+        },
+        "southwest": {
+          "lat": 53.75564131970851,
+          "lng": -7.697538380291502
+        }
+      }
+    },
+    "place_id": "ChIJMZjBN8rWXUgRYE7fN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2668,
+    "area_name": "Keenagh",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Keenagh",
+        "short_name": "Keenagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Keenagh",
+        "short_name": "Keenagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Keenagh, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.622007,
+        "lng": -7.8147206
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.62335598029149,
+          "lng": -7.813371619708498
+        },
+        "southwest": {
+          "lat": 53.62065801970849,
+          "lng": -7.816069580291503
+        }
+      }
+    },
+    "place_id": "ChIJEaS9wzrNXUgR8Ocxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3077,
+    "area_name": "Lisryan",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Lisryan",
+        "short_name": "Lisryan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Teemore Industrial Estate",
+        "short_name": "Teemore Industrial Estate",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lisryan, Teemore Industrial Estate, Co. Longford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.73676769999999,
+          "lng": -7.4918499
+        },
+        "southwest": {
+          "lat": 53.725463,
+          "lng": -7.508105100000001
+        }
+      },
+      "location": {
+        "lat": 53.73023560000001,
+        "lng": -7.502202899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.73676769999999,
+          "lng": -7.4918499
+        },
+        "southwest": {
+          "lat": 53.725463,
+          "lng": -7.508105100000001
+        }
+      }
+    },
+    "place_id": "ChIJWTQ284DbXUgRQiFSu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3053,
+    "area_name": "Johnstownbridge",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Longford",
+        "short_name": "Longford",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Longford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.7423701,
+          "lng": -7.7682599
+        },
+        "southwest": {
+          "lat": 53.7107499,
+          "lng": -7.8201999
+        }
+      },
+      "location": {
+        "lat": 53.7276296,
+        "lng": -7.7932573
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7423701,
+          "lng": -7.7682599
+        },
+        "southwest": {
+          "lat": 53.7107499,
+          "lng": -7.8201999
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJh8PCuZvTXUgRcHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2663,
+    "area_name": "Newtowncashel",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Newtowncashel",
+        "short_name": "Newtowncashel",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballyrevagh",
+        "short_name": "Ballyrevagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyrevagh, Newtowncashel, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.587517,
+        "lng": -7.9379529
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.58886598029149,
+          "lng": -7.936603919708498
+        },
+        "southwest": {
+          "lat": 53.5861680197085,
+          "lng": -7.939301880291502
+        }
+      }
+    },
+    "place_id": "ChIJ88bpMGExXEgR8Zq6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2661,
+    "area_name": "Turreen",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Turreen",
+        "short_name": "Turreen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Turreen, Co. Longford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.6446756,
+          "lng": -7.943330699999999
+        },
+        "southwest": {
+          "lat": 53.633098,
+          "lng": -7.9623043
+        }
+      },
+      "location": {
+        "lat": 53.6384491,
+        "lng": -7.954281099999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.6446756,
+          "lng": -7.943330699999999
+        },
+        "southwest": {
+          "lat": 53.633098,
+          "lng": -7.9623043
+        }
+      }
+    },
+    "place_id": "ChIJH7KeFfkxXEgR4pu6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2694,
+    "area_name": "Legan",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Legan",
+        "short_name": "Legan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Smithfield",
+        "short_name": "Smithfield",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Smithfield, Legan, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.6212481,
+        "lng": -7.6308386
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.62259708029149,
+          "lng": -7.629489619708497
+        },
+        "southwest": {
+          "lat": 53.61989911970849,
+          "lng": -7.632187580291502
+        }
+      }
+    },
+    "place_id": "ChIJ76K5qwvPXUgRAHYxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2667,
+    "area_name": "Moydow",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Moydow",
+        "short_name": "Moydow",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Bunalough",
+        "short_name": "Bunalough",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Bunalough, Moydow, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.6645008,
+        "lng": -7.785912399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.6658497802915,
+          "lng": -7.784563419708498
+        },
+        "southwest": {
+          "lat": 53.6631518197085,
+          "lng": -7.787261380291501
+        }
+      }
+    },
+    "place_id": "ChIJn7nWw4bSXUgRwpq6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3057,
+    "area_name": "Longford Town",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Longford",
+        "short_name": "Longford",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Longford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.7423701,
+          "lng": -7.7682599
+        },
+        "southwest": {
+          "lat": 53.7107499,
+          "lng": -7.8201999
+        }
+      },
+      "location": {
+        "lat": 53.7276296,
+        "lng": -7.7932573
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7423701,
+          "lng": -7.7682599
+        },
+        "southwest": {
+          "lat": 53.7107499,
+          "lng": -7.8201999
+        }
+      }
+    },
+    "place_id": "ChIJh8PCuZvTXUgRcHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3052,
+    "area_name": "Newtownforbes",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Newtown Forbes",
+        "short_name": "Newtown Forbes",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Townparks",
+        "short_name": "Townparks",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Townparks, Newtown Forbes, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.7654838,
+        "lng": -7.835621
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.76683278029149,
+          "lng": -7.834272019708497
+        },
+        "southwest": {
+          "lat": 53.7641348197085,
+          "lng": -7.836969980291501
+        }
+      }
+    },
+    "place_id": "ChIJazNIB-vUXUgR0Bgyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3072,
+    "area_name": "Mostrim",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Edgeworthstown",
+        "short_name": "Edgeworthstown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Edgeworthstown",
+        "short_name": "Edgeworthstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Edgeworthstown, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.6956862,
+        "lng": -7.608492999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.6970351802915,
+          "lng": -7.607144019708497
+        },
+        "southwest": {
+          "lat": 53.6943372197085,
+          "lng": -7.609841980291502
+        }
+      }
+    },
+    "place_id": "ChIJmXt2WZ3aXUgRMHYxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2673,
+    "area_name": "Taghshinny",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Taghshinny",
+        "short_name": "Taghshinny",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballintober",
+        "short_name": "Ballintober",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Taghshinny, Ballintober, Co. Longford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.5990607,
+          "lng": -7.6987636
+        },
+        "southwest": {
+          "lat": 53.5865553,
+          "lng": -7.7192472
+        }
+      },
+      "location": {
+        "lat": 53.59306429999999,
+        "lng": -7.709328900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.5990607,
+          "lng": -7.6987636
+        },
+        "southwest": {
+          "lat": 53.5865553,
+          "lng": -7.7192472
+        }
+      }
+    },
+    "place_id": "ChIJi8T1-qDOXUgRMCQyl6nHAAo",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3977,
+    "area_name": "Tarmonbarry",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Longford",
+        "short_name": "Longford",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Longford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.7423701,
+          "lng": -7.7682599
+        },
+        "southwest": {
+          "lat": 53.7107499,
+          "lng": -7.8201999
+        }
+      },
+      "location": {
+        "lat": 53.7276296,
+        "lng": -7.7932573
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7423701,
+          "lng": -7.7682599
+        },
+        "southwest": {
+          "lat": 53.7107499,
+          "lng": -7.8201999
+        }
+      }
+    },
+    "place_id": "ChIJh8PCuZvTXUgRcHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3061,
+    "area_name": "Leggah",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Leggagh",
+        "short_name": "Leggagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Leggagh, Co. Longford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.9084552,
+          "lng": -7.6337394
+        },
+        "southwest": {
+          "lat": 53.8916516,
+          "lng": -7.6674795
+        }
+      },
+      "location": {
+        "lat": 53.8989549,
+        "lng": -7.6513023
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9084552,
+          "lng": -7.6337394
+        },
+        "southwest": {
+          "lat": 53.8916516,
+          "lng": -7.6674795
+        }
+      }
+    },
+    "place_id": "ChIJE6chn253XkgRcpm6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3049,
+    "area_name": "Lanesborough",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Lanesborough",
+        "short_name": "Lanesborough",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lanesborough",
+        "short_name": "Lanesborough",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lanesborough, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.67245459999999,
+        "lng": -7.9863962
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.6738035802915,
+          "lng": -7.985047219708497
+        },
+        "southwest": {
+          "lat": 53.6711056197085,
+          "lng": -7.987745180291502
+        }
+      }
+    },
+    "place_id": "ChIJ8UtxWE8uXEgRMOUxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4038,
+    "area_name": "Ratharney",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Ratharney",
+        "short_name": "Ratharney",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballintober",
+        "short_name": "Ballintober",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ratharney, Ballintober, Co. Longford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.6051945,
+          "lng": -7.651805899999999
+        },
+        "southwest": {
+          "lat": 53.5928131,
+          "lng": -7.669369300000001
+        }
+      },
+      "location": {
+        "lat": 53.6000481,
+        "lng": -7.659344900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.6051945,
+          "lng": -7.651805899999999
+        },
+        "southwest": {
+          "lat": 53.5928131,
+          "lng": -7.669369300000001
+        }
+      }
+    },
+    "place_id": "ChIJkRlkUN7OXUgRQrFRu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3050,
+    "area_name": "Killashee",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Killashee",
+        "short_name": "Killashee",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Aghnaskea",
+        "short_name": "Aghnaskea",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Aghnaskea, Killashee, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.6812889,
+        "lng": -7.879322800000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.68263788029149,
+          "lng": -7.877973819708498
+        },
+        "southwest": {
+          "lat": 53.6799399197085,
+          "lng": -7.880671780291503
+        }
+      }
+    },
+    "place_id": "ChIJa05bwRYtXEgREO8xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3062,
+    "area_name": "Moyne",
+    "county_name": "Longford",
+    "county_id": 5,
+    "address_components": [
+      {
+        "long_name": "Moyne",
+        "short_name": "Moyne",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Moyne",
+        "short_name": "Moyne",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Moyne, Co. Longford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.9152198,
+        "lng": -7.628506700000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.91656878029149,
+          "lng": -7.627157719708499
+        },
+        "southwest": {
+          "lat": 53.9138708197085,
+          "lng": -7.629855680291503
+        }
+      }
+    },
+    "place_id": "ChIJUYf1iCN3XkgRMM4xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  }
+]

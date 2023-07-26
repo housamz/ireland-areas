@@ -1,0 +1,7828 @@
+[
+  {
+    "area_id": 2640,
+    "area_name": "Ballagh",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "The Ballagh",
+        "short_name": "The Ballagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballymacoonoge",
+        "short_name": "Ballymacoonoge",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Wexford",
+        "short_name": "WX",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballymacoonoge, The Ballagh, Co. Wexford, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.47257,
+        "lng": -6.43323
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.47391898029149,
+          "lng": -6.431881019708498
+        },
+        "southwest": {
+          "lat": 52.47122101970849,
+          "lng": -6.434578980291502
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJkSYm-yUGaEgRQJ_fN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3019,
+    "area_name": "Four Mile House",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Four Mile House",
+        "short_name": "Four Mile House",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Carrownalassan",
+        "short_name": "Carrownalassan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carrownalassan, Four Mile House, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.7105503,
+        "lng": -8.207472899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7118992802915,
+          "lng": -8.206123919708496
+        },
+        "southwest": {
+          "lat": 53.70920131970851,
+          "lng": -8.2088218802915
+        }
+      }
+    },
+    "place_id": "ChIJx_gWNfYjXEgRoCQyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3336,
+    "area_name": "Altagowlan",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Altagowlan",
+        "short_name": "Altagowlan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cois Struttain",
+        "short_name": "Cois Struttain",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Altagowlan, Cois Struttain, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.125239,
+          "lng": -8.1404178
+        },
+        "southwest": {
+          "lat": 54.10646200000001,
+          "lng": -8.1635096
+        }
+      },
+      "location": {
+        "lat": 54.1132368,
+        "lng": -8.1543982
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.125239,
+          "lng": -8.1404178
+        },
+        "southwest": {
+          "lat": 54.10646200000001,
+          "lng": -8.1635096
+        }
+      }
+    },
+    "place_id": "ChIJmVra5KyNXkgRggFQu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3028,
+    "area_name": "Ballyclare",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Ballyclare",
+        "short_name": "Ballyclare",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyclare, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.6827291,
+          "lng": -7.995569099999999
+        },
+        "southwest": {
+          "lat": 53.6618667,
+          "lng": -8.0208877
+        }
+      },
+      "location": {
+        "lat": 53.67356909999999,
+        "lng": -8.0103934
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.6827291,
+          "lng": -7.995569099999999
+        },
+        "southwest": {
+          "lat": 53.6618667,
+          "lng": -8.0208877
+        }
+      }
+    },
+    "place_id": "ChIJnefB1E8uXEgR962NSWPk-Vo",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3845,
+    "area_name": "Creggs",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Roscommon",
+        "short_name": "Roscommon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      },
+      "location": {
+        "lat": 53.63401649999999,
+        "lng": -8.181945899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJA5EQTE0jXEgRXlA0Mlu6cl8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2977,
+    "area_name": "Frenchpark",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Frenchpark",
+        "short_name": "Frenchpark",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Corskeagh",
+        "short_name": "Corskeagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Corskeagh, Frenchpark, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.8695107,
+        "lng": -8.4074282
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8708596802915,
+          "lng": -8.406079219708499
+        },
+        "southwest": {
+          "lat": 53.8681617197085,
+          "lng": -8.408777180291503
+        }
+      }
+    },
+    "place_id": "ChIJEbQMs42hXkgR8LYxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2982,
+    "area_name": "Ballinlough",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Ballinlough",
+        "short_name": "Ballinlough",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballinlough",
+        "short_name": "Ballinlough",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballinlough, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.7418858,
+        "lng": -8.6335579
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.74323478029149,
+          "lng": -8.632208919708498
+        },
+        "southwest": {
+          "lat": 53.7405368197085,
+          "lng": -8.634906880291503
+        }
+      }
+    },
+    "place_id": "ChIJXdqBjVgCXEgR0Nwxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2660,
+    "area_name": "Ballydangan",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Ballydangan",
+        "short_name": "Ballydangan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballydangan",
+        "short_name": "Ballydangan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballydangan, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.3443574,
+        "lng": -8.095581
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3457063802915,
+          "lng": -8.094232019708498
+        },
+        "southwest": {
+          "lat": 53.3430084197085,
+          "lng": -8.096929980291502
+        }
+      }
+    },
+    "place_id": "ChIJY87FyXlEXEgRcK7fN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3805,
+    "area_name": "Athlone",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Roscommon",
+        "short_name": "Roscommon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      },
+      "location": {
+        "lat": 53.63401649999999,
+        "lng": -8.181945899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJA5EQTE0jXEgRXlA0Mlu6cl8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3027,
+    "area_name": "Aghamuck",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Aghamuck",
+        "short_name": "Aghamuck",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Aghamuck, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.7124322,
+          "lng": -8.0971584
+        },
+        "southwest": {
+          "lat": 53.7028851,
+          "lng": -8.1119367
+        }
+      },
+      "location": {
+        "lat": 53.70651530000001,
+        "lng": -8.1043767
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7124322,
+          "lng": -8.0971584
+        },
+        "southwest": {
+          "lat": 53.7028851,
+          "lng": -8.1119367
+        }
+      }
+    },
+    "place_id": "ChIJ_Qajc-4lXEgRaEFfZlr0MOo",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2644,
+    "area_name": "Ballyforan",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Ballyforan",
+        "short_name": "Ballyforan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballyforan",
+        "short_name": "Ballyforan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyforan, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.4700864,
+        "lng": -8.270057999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.4714353802915,
+          "lng": -8.268709019708497
+        },
+        "southwest": {
+          "lat": 53.4687374197085,
+          "lng": -8.271406980291502
+        }
+      }
+    },
+    "place_id": "ChIJ1eiBjEIVXEgRgLgxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4066,
+    "area_name": "Ballinaheglish",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Runnamoat",
+        "short_name": "Runnamoat",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Runnamoat, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.6876293,
+        "lng": -8.3128383
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": 53.68889078029151,
+          "lng": -8.311441919708498
+        },
+        "southwest": {
+          "lat": 53.68619281970851,
+          "lng": -8.314139880291501
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJmaTA1HQiXEgRzgWhSQ78RL8",
+    "plus_code": {
+      "compound_code": "MMQP+3V Clooncoundra, County Roscommon, Ireland",
+      "global_code": "9C5HMMQP+3V"
+    },
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ]
+  },
+  {
+    "area_id": 2987,
+    "area_name": "Fairymount",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Fairymount",
+        "short_name": "Fairymount",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Mullaghnashee",
+        "short_name": "Mullaghnashee",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Mullaghnashee, Fairymount, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.8364718,
+        "lng": -8.4834965
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8378207802915,
+          "lng": -8.482147519708498
+        },
+        "southwest": {
+          "lat": 53.8351228197085,
+          "lng": -8.484845480291503
+        }
+      }
+    },
+    "place_id": "ChIJa0y4HtOmXkgRtWbPk1-cvJo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2645,
+    "area_name": "Feevagh",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Feevagh",
+        "short_name": "Feevagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballinasloe",
+        "short_name": "Ballinasloe",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Feevagh, Ballinasloe, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.4357061,
+          "lng": -8.213076899999999
+        },
+        "southwest": {
+          "lat": 53.42362499999999,
+          "lng": -8.2384273
+        }
+      },
+      "location": {
+        "lat": 53.431103,
+        "lng": -8.2257303
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.4357061,
+          "lng": -8.213076899999999
+        },
+        "southwest": {
+          "lat": 53.42362499999999,
+          "lng": -8.2384273
+        }
+      }
+    },
+    "place_id": "ChIJaaSZGCNAXEgRKfBexKKaU5k",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3813,
+    "area_name": "Gallowstown",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Lisnacroghy",
+        "short_name": "Lisnacroghy",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lisnacroghy, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.6469692,
+          "lng": -8.191127
+        },
+        "southwest": {
+          "lat": 53.6381527,
+          "lng": -8.214489799999999
+        }
+      },
+      "location": {
+        "lat": 53.64211479999999,
+        "lng": -8.2024958
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.6469692,
+          "lng": -8.191127
+        },
+        "southwest": {
+          "lat": 53.6381527,
+          "lng": -8.214489799999999
+        }
+      }
+    },
+    "place_id": "ChIJ2aUW_VojXEgRojbBGajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3001,
+    "area_name": "Ballinameen",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Ballinameen",
+        "short_name": "Ballinameen",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Acres",
+        "short_name": "Acres",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Acres, Ballinameen, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.8972258,
+        "lng": -8.301216
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8985747802915,
+          "lng": -8.299867019708497
+        },
+        "southwest": {
+          "lat": 53.8958768197085,
+          "lng": -8.302564980291502
+        }
+      }
+    },
+    "place_id": "ChIJSz5YAzqZXkgRQNwxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3337,
+    "area_name": "Arigna",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Arigna",
+        "short_name": "Arigna",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Derrinisky",
+        "short_name": "Derrinisky",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Derrinisky, Arigna, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.0763414,
+        "lng": -8.1125249
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.07769038029149,
+          "lng": -8.111175919708499
+        },
+        "southwest": {
+          "lat": 54.0749924197085,
+          "lng": -8.113873880291502
+        }
+      }
+    },
+    "place_id": "ChIJW0hHWRiMXkgRALoxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2992,
+    "area_name": "Ballintubber",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Ballintober",
+        "short_name": "Ballintober",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballintober",
+        "short_name": "Ballintober",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballintober, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.7180878,
+        "lng": -8.4100998
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7194367802915,
+          "lng": -8.408750819708496
+        },
+        "southwest": {
+          "lat": 53.7167388197085,
+          "lng": -8.4114487802915
+        }
+      }
+    },
+    "place_id": "ChIJJWZ43sYeXEgREN0xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3004,
+    "area_name": "Elphin",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Elphin",
+        "short_name": "Elphin",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Elphin, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.8529052,
+          "lng": -8.1962776
+        },
+        "southwest": {
+          "lat": 53.85106760000001,
+          "lng": -8.1992706
+        }
+      },
+      "location": {
+        "lat": 53.8522697,
+        "lng": -8.1978488
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8533353802915,
+          "lng": -8.1962776
+        },
+        "southwest": {
+          "lat": 53.85063741970851,
+          "lng": -8.1992706
+        }
+      }
+    },
+    "place_id": "ChIJF5-_6BOeXkgRkCnfN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3701,
+    "area_name": "Ballinagare",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Bellanagare",
+        "short_name": "Bellanagare",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Bellanagare, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.8443386,
+          "lng": -8.3702296
+        },
+        "southwest": {
+          "lat": 53.8317472,
+          "lng": -8.3900705
+        }
+      },
+      "location": {
+        "lat": 53.83752870000001,
+        "lng": -8.3793506
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8443386,
+          "lng": -8.3702296
+        },
+        "southwest": {
+          "lat": 53.8317472,
+          "lng": -8.3900705
+        }
+      }
+    },
+    "place_id": "ChIJgXRaisifXkgRkMDfN6nHABg",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2964,
+    "area_name": "Ballaghadereen",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Ballaghaderreen",
+        "short_name": "Ballaghaderreen",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilcolman",
+        "short_name": "Kilcolman",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilcolman, Ballaghaderreen, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.9016968,
+        "lng": -8.5792106
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.90304578029149,
+          "lng": -8.577861619708498
+        },
+        "southwest": {
+          "lat": 53.9003478197085,
+          "lng": -8.580559580291503
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJmXZkWqSlXkgRcNsxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2631,
+    "area_name": "Athleague",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Athleague",
+        "short_name": "Athleague",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Athleague",
+        "short_name": "Athleague",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Athleague, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.5676272,
+        "lng": -8.2567472
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.56897618029149,
+          "lng": -8.255398219708498
+        },
+        "southwest": {
+          "lat": 53.5662782197085,
+          "lng": -8.258096180291503
+        }
+      }
+    },
+    "place_id": "ChIJ7c4w1ZU9XEgRoNMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3046,
+    "area_name": "Erra",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Roscommon",
+        "short_name": "Roscommon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      },
+      "location": {
+        "lat": 53.63401649999999,
+        "lng": -8.181945899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJA5EQTE0jXEgRXlA0Mlu6cl8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3328,
+    "area_name": "Ballyfarnon",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Ballyfarnon",
+        "short_name": "Ballyfarnon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Alderford",
+        "short_name": "Alderford",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Alderford, Ballyfarnon, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.0723661,
+        "lng": -8.2047173
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0737150802915,
+          "lng": -8.203368319708499
+        },
+        "southwest": {
+          "lat": 54.0710171197085,
+          "lng": -8.206066280291504
+        }
+      }
+    },
+    "place_id": "ChIJD1SERgGSXkgRYIMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4030,
+    "area_name": "Ballyleague",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Ballyleague",
+        "short_name": "Ballyleague",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyleague, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.686504,
+          "lng": -7.9829026
+        },
+        "southwest": {
+          "lat": 53.6717372,
+          "lng": -8.0112642
+        }
+      },
+      "location": {
+        "lat": 53.6807211,
+        "lng": -7.996184800000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.686504,
+          "lng": -7.9829026
+        },
+        "southwest": {
+          "lat": 53.6717372,
+          "lng": -8.0112642
+        }
+      }
+    },
+    "place_id": "ChIJsW4y5VwuXEgR4nHHGajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3006,
+    "area_name": "Killukin",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Killukin",
+        "short_name": "Killukin",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Killukin, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.9352765,
+          "lng": -8.0996235
+        },
+        "southwest": {
+          "lat": 53.9266551,
+          "lng": -8.122183099999999
+        }
+      },
+      "location": {
+        "lat": 53.9302078,
+        "lng": -8.112345900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9352765,
+          "lng": -8.0996235
+        },
+        "southwest": {
+          "lat": 53.9266551,
+          "lng": -8.122183099999999
+        }
+      }
+    },
+    "place_id": "ChIJg0H-t--EXkgRssK6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4116,
+    "area_name": "Portrunny",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Portrunny",
+        "short_name": "Portrunny",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cullentra",
+        "short_name": "Cullentra",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Portrunny, Cullentra, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.59851949999999,
+          "lng": -8.0558132
+        },
+        "southwest": {
+          "lat": 53.5867299,
+          "lng": -8.071935999999999
+        }
+      },
+      "location": {
+        "lat": 53.59026429999999,
+        "lng": -8.066685699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.59851949999999,
+          "lng": -8.0558132
+        },
+        "southwest": {
+          "lat": 53.5867299,
+          "lng": -8.071935999999999
+        }
+      }
+    },
+    "place_id": "ChIJs6QHa3w6XEgRQlVQu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2658,
+    "area_name": "Drum",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Drum",
+        "short_name": "Drum",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Drum, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.4033329,
+          "lng": -8.0314513
+        },
+        "southwest": {
+          "lat": 53.3957784,
+          "lng": -8.046568800000001
+        }
+      },
+      "location": {
+        "lat": 53.3998983,
+        "lng": -8.0385923
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.4033329,
+          "lng": -8.0314513
+        },
+        "southwest": {
+          "lat": 53.3957784,
+          "lng": -8.046568800000001
+        }
+      }
+    },
+    "place_id": "ChIJMe_DoGVGXEgRoNDqN6nHABg",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2993,
+    "area_name": "Castleplunkett",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Castleplunket",
+        "short_name": "Castleplunket",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Castleplunket",
+        "short_name": "Castleplunket",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Castleplunket, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.7502258,
+        "lng": -8.3442002
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7515747802915,
+          "lng": -8.342851219708498
+        },
+        "southwest": {
+          "lat": 53.7488768197085,
+          "lng": -8.345549180291503
+        }
+      }
+    },
+    "place_id": "ChIJs0z0oHgfXEgRAOoxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2637,
+    "area_name": "Bracknagh",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Bracknagh",
+        "short_name": "Bracknagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Fearagh",
+        "short_name": "Fearagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Fearagh, Bracknagh, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.59657,
+        "lng": -8.070739999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.5979189802915,
+          "lng": -8.069391019708496
+        },
+        "southwest": {
+          "lat": 53.5952210197085,
+          "lng": -8.0720889802915
+        }
+      }
+    },
+    "place_id": "ChIJ9_NQa4g6XEgRalpfGrLUNmY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3967,
+    "area_name": "Dysart",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Dysart",
+        "short_name": "Dysart",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Carrownadurly",
+        "short_name": "Carrownadurly",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carrownadurly, Dysart, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.4645838,
+        "lng": -8.2192075
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.4659327802915,
+          "lng": -8.217858519708498
+        },
+        "southwest": {
+          "lat": 53.4632348197085,
+          "lng": -8.220556480291503
+        }
+      }
+    },
+    "place_id": "ChIJGRcmOY0_XEgRsg3HGajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3330,
+    "area_name": "Corrigeenroe",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Corrigeenroe",
+        "short_name": "Corrigeenroe",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Aghacarra",
+        "short_name": "Aghacarra",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Aghacarra, Corrigeenroe, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.03163,
+        "lng": -8.27796
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0329789802915,
+          "lng": -8.276611019708497
+        },
+        "southwest": {
+          "lat": 54.0302810197085,
+          "lng": -8.279308980291502
+        }
+      }
+    },
+    "place_id": "ChIJV1bdg0-RXkgRwKzqN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4112,
+    "area_name": "Ballygar",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Roscommon",
+        "short_name": "Roscommon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      },
+      "location": {
+        "lat": 53.63401649999999,
+        "lng": -8.181945899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJA5EQTE0jXEgRXlA0Mlu6cl8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2628,
+    "area_name": "Donamon",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Donamon",
+        "short_name": "Donamon",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Toberkeagh",
+        "short_name": "Toberkeagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Donamon, Toberkeagh, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.65052559999999,
+        "lng": -8.328090999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.6518745802915,
+          "lng": -8.326742019708497
+        },
+        "southwest": {
+          "lat": 53.6491766197085,
+          "lng": -8.329439980291502
+        }
+      }
+    },
+    "place_id": "ChIJeZB4LmkYXEgRkK-nh3SFRTA",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  },
+  {
+    "area_id": 2978,
+    "area_name": "Mullen",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Roscommon",
+        "short_name": "Roscommon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      },
+      "location": {
+        "lat": 53.63401649999999,
+        "lng": -8.181945899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJA5EQTE0jXEgRXlA0Mlu6cl8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3842,
+    "area_name": "Cloverhill",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Cloverhill",
+        "short_name": "Cloverhill",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Lissalway",
+        "short_name": "Lissalway",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cloverhill, Lissalway, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.7511459,
+        "lng": -8.3838983
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7524948802915,
+          "lng": -8.382549319708497
+        },
+        "southwest": {
+          "lat": 53.7497969197085,
+          "lng": -8.385247280291502
+        }
+      }
+    },
+    "place_id": "ChIJKeRI-agfXEgRSU4r5pVJTGU",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  },
+  {
+    "area_id": 2984,
+    "area_name": "Cloonkeen",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Cloonkeen",
+        "short_name": "Cloonkeen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Bellfield",
+        "short_name": "Bellfield",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cloonkeen, Bellfield, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.4171865,
+          "lng": -8.1924511
+        },
+        "southwest": {
+          "lat": 53.4034385,
+          "lng": -8.221967000000001
+        }
+      },
+      "location": {
+        "lat": 53.4106231,
+        "lng": -8.207757599999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.4171865,
+          "lng": -8.1924511
+        },
+        "southwest": {
+          "lat": 53.4034385,
+          "lng": -8.221967000000001
+        }
+      }
+    },
+    "place_id": "ChIJ5wMa4cpBXEgRVnjxjJD9WtU",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2657,
+    "area_name": "Bellanamult",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Roscommon",
+        "short_name": "Roscommon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      },
+      "location": {
+        "lat": 53.63401649999999,
+        "lng": -8.181945899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJA5EQTE0jXEgRXlA0Mlu6cl8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2975,
+    "area_name": "Lurgan",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Roscommon",
+        "short_name": "Roscommon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      },
+      "location": {
+        "lat": 53.63401649999999,
+        "lng": -8.181945899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJA5EQTE0jXEgRXlA0Mlu6cl8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3010,
+    "area_name": "Kilmore",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Kilmore",
+        "short_name": "Kilmore",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilmore",
+        "short_name": "Kilmore",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilmore, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.8882766,
+        "lng": -8.0106272
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.88962558029149,
+          "lng": -8.009278219708497
+        },
+        "southwest": {
+          "lat": 53.88692761970849,
+          "lng": -8.011976180291501
+        }
+      }
+    },
+    "place_id": "ChIJtVSzo1uBXkgRAO4xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2981,
+    "area_name": "Cloonfower",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Cloonfower",
+        "short_name": "Cloonfower",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cloonfower, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.8067578,
+          "lng": -8.5966796
+        },
+        "southwest": {
+          "lat": 53.7923983,
+          "lng": -8.6278778
+        }
+      },
+      "location": {
+        "lat": 53.7986821,
+        "lng": -8.6082495
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8067578,
+          "lng": -8.5966796
+        },
+        "southwest": {
+          "lat": 53.7923983,
+          "lng": -8.6278778
+        }
+      }
+    },
+    "place_id": "ChIJtdGmzEioXkgRiZW-QTuVU_U",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2688,
+    "area_name": "Drumlosh",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Drumlosh",
+        "short_name": "Drumlosh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Drumlosh, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.3594763,
+          "lng": -7.982350999999999
+        },
+        "southwest": {
+          "lat": 53.3389691,
+          "lng": -8.0210628
+        }
+      },
+      "location": {
+        "lat": 53.3501009,
+        "lng": -8.000632099999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3594763,
+          "lng": -7.982350999999999
+        },
+        "southwest": {
+          "lat": 53.3389691,
+          "lng": -8.0210628
+        }
+      }
+    },
+    "place_id": "ChIJvY92iJBFXEgRqpvpikFjl08",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2652,
+    "area_name": "Curraghboy",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Curraghboy",
+        "short_name": "Curraghboy",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Liscam",
+        "short_name": "Liscam",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Liscam, Curraghboy, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.4846873,
+        "lng": -8.1119678
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.48603628029149,
+          "lng": -8.110618819708499
+        },
+        "southwest": {
+          "lat": 53.48333831970849,
+          "lng": -8.113316780291504
+        }
+      }
+    },
+    "place_id": "ChIJ44u28784XEgRcPgxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2655,
+    "area_name": "Bellameeny",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Roscommon",
+        "short_name": "Roscommon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      },
+      "location": {
+        "lat": 53.63401649999999,
+        "lng": -8.181945899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJA5EQTE0jXEgRXlA0Mlu6cl8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3025,
+    "area_name": "Curraghroe",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Curraghroe",
+        "short_name": "Curraghroe",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Curraghroe",
+        "short_name": "Curraghroe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Curraghroe, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.7246341,
+        "lng": -8.027524099999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7259830802915,
+          "lng": -8.026175119708496
+        },
+        "southwest": {
+          "lat": 53.7232851197085,
+          "lng": -8.0288730802915
+        }
+      }
+    },
+    "place_id": "ChIJpb95b9QuXEgRMM8xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2648,
+    "area_name": "Newtown",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Roscommon",
+        "short_name": "Roscommon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      },
+      "location": {
+        "lat": 53.63401649999999,
+        "lng": -8.181945899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJA5EQTE0jXEgRXlA0Mlu6cl8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3009,
+    "area_name": "Drummullin",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Drummullin",
+        "short_name": "Drummullin",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Drummullin",
+        "short_name": "Drummullin",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Drummullin, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.8501324,
+        "lng": -8.1210817
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8514813802915,
+          "lng": -8.119732719708498
+        },
+        "southwest": {
+          "lat": 53.8487834197085,
+          "lng": -8.122430680291501
+        }
+      }
+    },
+    "place_id": "ChIJfwAtk9aCXkgRKu6I7n4zFLI",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2651,
+    "area_name": "Coolagarry",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Coolagarry",
+        "short_name": "Coolagarry",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Coolagarry, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.4909396,
+          "lng": -8.1388927
+        },
+        "southwest": {
+          "lat": 53.4733646,
+          "lng": -8.167834599999999
+        }
+      },
+      "location": {
+        "lat": 53.48324700000001,
+        "lng": -8.1547883
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.4909396,
+          "lng": -8.1388927
+        },
+        "southwest": {
+          "lat": 53.4733646,
+          "lng": -8.167834599999999
+        }
+      }
+    },
+    "place_id": "ChIJub10fzE_XEgREgVQu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2989,
+    "area_name": "Brackloon",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Brackloon",
+        "short_name": "Brackloon",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Brackloon, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.813011,
+          "lng": -8.422450999999999
+        },
+        "southwest": {
+          "lat": 53.7925193,
+          "lng": -8.4577873
+        }
+      },
+      "location": {
+        "lat": 53.80022409999999,
+        "lng": -8.4403578
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.813011,
+          "lng": -8.422450999999999
+        },
+        "southwest": {
+          "lat": 53.7925193,
+          "lng": -8.4577873
+        }
+      }
+    },
+    "place_id": "ChIJF9T0apigXkgRUgBPu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3020,
+    "area_name": "Ballymacurley",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Ballymacurly",
+        "short_name": "Ballymacurly",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballymacurly South",
+        "short_name": "Ballymacurly South",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballymacurly South, Ballymacurly, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.69668170000001,
+        "lng": -8.2958026
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.69803068029151,
+          "lng": -8.294453619708499
+        },
+        "southwest": {
+          "lat": 53.69533271970851,
+          "lng": -8.297151580291503
+        }
+      }
+    },
+    "place_id": "ChIJq_ka3hYiXEgR8kJaLI0mE_0",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2991,
+    "area_name": "Lissalway",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Lissalway",
+        "short_name": "Lissalway",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lissalway",
+        "short_name": "Lissalway",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lissalway, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.7645712,
+        "lng": -8.397405299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7659201802915,
+          "lng": -8.396056319708496
+        },
+        "southwest": {
+          "lat": 53.7632222197085,
+          "lng": -8.3987542802915
+        }
+      }
+    },
+    "place_id": "ChIJHx-llrQfXEgRa42euW2XOBY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2638,
+    "area_name": "Knockcroghery",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Knockcroghery",
+        "short_name": "Knockcroghery",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Mote",
+        "short_name": "Mote",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Knockcroghery, Mote, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.5735812,
+          "lng": -8.085142
+        },
+        "southwest": {
+          "lat": 53.56295129999999,
+          "lng": -8.1037075
+        }
+      },
+      "location": {
+        "lat": 53.5697783,
+        "lng": -8.094924299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.5735812,
+          "lng": -8.085142
+        },
+        "southwest": {
+          "lat": 53.56295129999999,
+          "lng": -8.1037075
+        }
+      }
+    },
+    "place_id": "ChIJuySjhS06XEgRMFzfN6nHABg",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2643,
+    "area_name": "Thomas Street",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Thomas Street",
+        "short_name": "Thomas Street",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Carrownadurly",
+        "short_name": "Carrownadurly",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carrownadurly, Thomas Street, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.46601,
+        "lng": -8.21832
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.4673589802915,
+          "lng": -8.216971019708499
+        },
+        "southwest": {
+          "lat": 53.4646610197085,
+          "lng": -8.219668980291504
+        }
+      }
+    },
+    "place_id": "ChIJhTj7l5I_XEgRp-kdo3jSOs0",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3016,
+    "area_name": "Cloonyquin",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Cloonyquin",
+        "short_name": "Cloonyquin",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Killynagh More",
+        "short_name": "Killynagh More",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Killynagh More, Cloonyquin, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.80490510000001,
+        "lng": -8.2316003
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.80625408029151,
+          "lng": -8.230251319708499
+        },
+        "southwest": {
+          "lat": 53.80355611970851,
+          "lng": -8.232949280291503
+        }
+      }
+    },
+    "place_id": "ChIJP1wWrP-dXkgREUVkIZEgzrM",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2635,
+    "area_name": "Emmoo",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Emmoo",
+        "short_name": "Emmoo",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ardsallagh",
+        "short_name": "Ardsallagh",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Emmoo, Ardsallagh, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.6502237,
+          "lng": -8.1309872
+        },
+        "southwest": {
+          "lat": 53.63545999999999,
+          "lng": -8.151166
+        }
+      },
+      "location": {
+        "lat": 53.645561,
+        "lng": -8.142694200000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.6502237,
+          "lng": -8.1309872
+        },
+        "southwest": {
+          "lat": 53.63545999999999,
+          "lng": -8.151166
+        }
+      }
+    },
+    "place_id": "ChIJKysrf9okXEgRYr-6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2647,
+    "area_name": "Carrowreagh",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Carrowreagh",
+        "short_name": "Carrowreagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Keenagh",
+        "short_name": "Keenagh",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carrowreagh, Keenagh, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.5735991,
+          "lng": -8.2157784
+        },
+        "southwest": {
+          "lat": 53.5586127,
+          "lng": -8.2445288
+        }
+      },
+      "location": {
+        "lat": 53.5664322,
+        "lng": -8.230237299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.5735991,
+          "lng": -8.2157784
+        },
+        "southwest": {
+          "lat": 53.5586127,
+          "lng": -8.2445288
+        }
+      }
+    },
+    "place_id": "ChIJERjOkLY9XEgR-t0pDTt4EoY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3002,
+    "area_name": "Mantua",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Mantua",
+        "short_name": "Mantua",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Clogher Beg",
+        "short_name": "Clogher Beg",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Clogher Beg, Mantua, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.8364132,
+        "lng": -8.285787899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.83776218029149,
+          "lng": -8.284438919708498
+        },
+        "southwest": {
+          "lat": 53.8350642197085,
+          "lng": -8.287136880291502
+        }
+      }
+    },
+    "place_id": "ChIJAw2XL1qeXkgR0WnM8DHLIQg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2639,
+    "area_name": "Rahara",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Rahara",
+        "short_name": "Rahara",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Carrowkeel",
+        "short_name": "Carrowkeel",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carrowkeel, Rahara, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.5239808,
+        "lng": -8.1428291
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.5253297802915,
+          "lng": -8.141480119708499
+        },
+        "southwest": {
+          "lat": 53.5226318197085,
+          "lng": -8.144178080291503
+        }
+      }
+    },
+    "place_id": "ChIJpfQEvccnXEgRAIXfN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2630,
+    "area_name": "Passage",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Passage",
+        "short_name": "Passage",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lisnatea",
+        "short_name": "Lisnatea",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lisnatea, Passage, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.58902,
+        "lng": -8.29055
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.5903689802915,
+          "lng": -8.289201019708498
+        },
+        "southwest": {
+          "lat": 53.5876710197085,
+          "lng": -8.291898980291503
+        }
+      }
+    },
+    "place_id": "ChIJ3yw-CNcXXEgRqsc4jdTWlkQ",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3023,
+    "area_name": "Strokestown",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Strokestown",
+        "short_name": "Strokestown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Farnbeg",
+        "short_name": "Farnbeg",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Farnbeg, Strokestown, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.7758666,
+        "lng": -8.1035319
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7772155802915,
+          "lng": -8.102182919708499
+        },
+        "southwest": {
+          "lat": 53.7745176197085,
+          "lng": -8.104880880291503
+        }
+      }
+    },
+    "place_id": "ChIJ0SiMAHgoXEgRwOYxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3017,
+    "area_name": "Tulsk",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Tulsk",
+        "short_name": "Tulsk",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Tulsk, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.7799868,
+        "lng": -8.2560526
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7813357802915,
+          "lng": -8.254703619708499
+        },
+        "southwest": {
+          "lat": 53.7786378197085,
+          "lng": -8.257401580291504
+        }
+      }
+    },
+    "place_id": "ChIJI2wJ58AgXEgR4Ccyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2659,
+    "area_name": "Cornafulla",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Cornafulla",
+        "short_name": "Cornafulla",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cornafulla",
+        "short_name": "Cornafulla",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cornafulla, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.37583369999999,
+        "lng": -8.0053351
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3771826802915,
+          "lng": -8.003986119708498
+        },
+        "southwest": {
+          "lat": 53.3744847197085,
+          "lng": -8.006684080291503
+        }
+      }
+    },
+    "place_id": "ChIJWTaaa-JFXEgRYm-_GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4115,
+    "area_name": "Correal",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Roscommon",
+        "short_name": "Roscommon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      },
+      "location": {
+        "lat": 53.63401649999999,
+        "lng": -8.181945899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJA5EQTE0jXEgRXlA0Mlu6cl8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2656,
+    "area_name": "Corraree",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Corraree",
+        "short_name": "Corraree",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Corraree, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.41906299999999,
+          "lng": -8.1072726
+        },
+        "southwest": {
+          "lat": 53.3998661,
+          "lng": -8.1356225
+        }
+      },
+      "location": {
+        "lat": 53.4085595,
+        "lng": -8.1203845
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.41906299999999,
+          "lng": -8.1072726
+        },
+        "southwest": {
+          "lat": 53.3998661,
+          "lng": -8.1356225
+        }
+      }
+    },
+    "place_id": "ChIJkZcIpy1BXEgRx-hcBA5wSis",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3779,
+    "area_name": "Taghmaconnell",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Taghmaconnell",
+        "short_name": "Taghmaconnell",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Dundonnell",
+        "short_name": "Dundonnell",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Dundonnell, Taghmaconnell, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.3940037,
+        "lng": -8.1720671
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3953526802915,
+          "lng": -8.170718119708496
+        },
+        "southwest": {
+          "lat": 53.3926547197085,
+          "lng": -8.173416080291501
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJV8scRqBBXEgRihpW3Jj7RYw",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3005,
+    "area_name": "Cootehall",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Cootehall",
+        "short_name": "Cootehall",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cootehall",
+        "short_name": "Cootehall",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cootehall, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.9841688,
+        "lng": -8.1580069
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9855177802915,
+          "lng": -8.156657919708497
+        },
+        "southwest": {
+          "lat": 53.9828198197085,
+          "lng": -8.159355880291502
+        }
+      }
+    },
+    "place_id": "ChIJ0YeKAviPXkgR4Lkxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3798,
+    "area_name": "Lanesborough",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Lanesborough Street",
+        "short_name": "Lanesborough St",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Roscommon",
+        "short_name": "Roscommon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lanesborough St, Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.6345767,
+          "lng": -8.1819964
+        },
+        "southwest": {
+          "lat": 53.6316534,
+          "lng": -8.1908783
+        }
+      },
+      "location": {
+        "lat": 53.63298,
+        "lng": -8.1862
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": 53.6345767,
+          "lng": -8.1819964
+        },
+        "southwest": {
+          "lat": 53.6316534,
+          "lng": -8.1908783
+        }
+      }
+    },
+    "place_id": "ChIJh2B7k1QjXEgRCuiE1FJ4-MU",
+    "types": [
+      "route"
+    ]
+  },
+  {
+    "area_id": 3022,
+    "area_name": "Coolteige",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Coolteige",
+        "short_name": "Coolteige",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Coolteige, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.6848099,
+          "lng": -8.156574899999999
+        },
+        "southwest": {
+          "lat": 53.6714932,
+          "lng": -8.201724
+        }
+      },
+      "location": {
+        "lat": 53.6780151,
+        "lng": -8.1751114
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.6848099,
+          "lng": -8.156574899999999
+        },
+        "southwest": {
+          "lat": 53.6714932,
+          "lng": -8.201724
+        }
+      }
+    },
+    "place_id": "ChIJo8xEbngkXEgRwijIGajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2976,
+    "area_name": "Churchsreet",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Churchstreet",
+        "short_name": "Churchstreet",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Portaghard",
+        "short_name": "Portaghard",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Portaghard, Churchstreet, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.8818918,
+        "lng": -8.4500191
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8832407802915,
+          "lng": -8.448670119708499
+        },
+        "southwest": {
+          "lat": 53.8805428197085,
+          "lng": -8.451368080291504
+        }
+      }
+    },
+    "place_id": "ChIJ01UAmtCjXkgR2OSRdjRfSnY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3994,
+    "area_name": "Castlecoote",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Castlecoote",
+        "short_name": "Castlecoote",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cooly",
+        "short_name": "Cooly",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cooly, Castlecoote, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.613264,
+        "lng": -8.2905059
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.6146129802915,
+          "lng": -8.289156919708498
+        },
+        "southwest": {
+          "lat": 53.6119150197085,
+          "lng": -8.291854880291503
+        }
+      }
+    },
+    "place_id": "ChIJw8vs6lc9XEgRsNYxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3739,
+    "area_name": "Kilglass",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Kilglass",
+        "short_name": "Kilglass",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lecarrow",
+        "short_name": "Lecarrow",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lecarrow, Kilglass, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.8174804,
+        "lng": -8.0159238
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8188293802915,
+          "lng": -8.014574819708496
+        },
+        "southwest": {
+          "lat": 53.8161314197085,
+          "lng": -8.017272780291501
+        }
+      }
+    },
+    "place_id": "ChIJWeOttu47XEgRgrPAGajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2642,
+    "area_name": "Four Roads",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Four Roads",
+        "short_name": "Four Roads",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Carrowntemple",
+        "short_name": "Carrowntemple",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carrowntemple, Four Roads, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.5155579,
+        "lng": -8.2222287
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.5169068802915,
+          "lng": -8.220879719708499
+        },
+        "southwest": {
+          "lat": 53.5142089197085,
+          "lng": -8.223577680291504
+        }
+      }
+    },
+    "place_id": "ChIJKwCGXo4-XEgR8DDfN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3844,
+    "area_name": "Carrick-on-Shannon",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Carrick-On-Shannon",
+        "short_name": "Carrick-On-Shannon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carrick-On-Shannon, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.94651709999999,
+          "lng": -8.092916599999999
+        },
+        "southwest": {
+          "lat": 53.9320041,
+          "lng": -8.126962599999999
+        }
+      },
+      "location": {
+        "lat": 53.94146019999999,
+        "lng": -8.0994264
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.94651709999999,
+          "lng": -8.092916599999999
+        },
+        "southwest": {
+          "lat": 53.9320041,
+          "lng": -8.126962599999999
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ02No0f2EXkgRH3YQcJRd2f4",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3047,
+    "area_name": "Tarmonbarry",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Termonbarry",
+        "short_name": "Termonbarry",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballytoohey",
+        "short_name": "Ballytoohey",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballytoohey, Termonbarry, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.7422919,
+        "lng": -7.920643500000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.74364088029149,
+          "lng": -7.919294519708498
+        },
+        "southwest": {
+          "lat": 53.74094291970849,
+          "lng": -7.921992480291503
+        }
+      }
+    },
+    "place_id": "ChIJh78RnIIrXEgRICUyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2653,
+    "area_name": "Kiltoom",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Kiltoom",
+        "short_name": "Kiltoom",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cornaseer",
+        "short_name": "Cornaseer",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cornaseer, Kiltoom, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.4726084,
+        "lng": -8.0194268
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.4739573802915,
+          "lng": -8.018077819708498
+        },
+        "southwest": {
+          "lat": 53.4712594197085,
+          "lng": -8.020775780291503
+        }
+      }
+    },
+    "place_id": "ChIJkzBGLPY3XEgRMFffN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2150,
+    "area_name": "Old Town",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Old Town",
+        "short_name": "Old Town",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cloonfad",
+        "short_name": "Cloonfad",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cloonfad, Old Town, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.29873,
+        "lng": -8.11962
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3000789802915,
+          "lng": -8.118271019708498
+        },
+        "southwest": {
+          "lat": 53.2973810197085,
+          "lng": -8.1209689802915
+        }
+      }
+    },
+    "place_id": "ChIJeyCQBDpDXEgRWd9ueR89clA",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2152,
+    "area_name": "Cloonfad",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Cloonfad",
+        "short_name": "Cloonfad",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Fiddaun",
+        "short_name": "Fiddaun",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Fiddaun, Cloonfad, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.6867556,
+        "lng": -8.75182
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.6881045802915,
+          "lng": -8.750471019708497
+        },
+        "southwest": {
+          "lat": 53.6854066197085,
+          "lng": -8.753168980291502
+        }
+      }
+    },
+    "place_id": "ChIJEdqyLM8AXEgRUPExl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2983,
+    "area_name": "Garranlahan",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Garranlahan",
+        "short_name": "Garranlahan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Stonepark North",
+        "short_name": "Stonepark North",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Stonepark North, Garranlahan, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.7128702,
+        "lng": -8.6674867
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7142191802915,
+          "lng": -8.666137719708498
+        },
+        "southwest": {
+          "lat": 53.7115212197085,
+          "lng": -8.668835680291501
+        }
+      }
+    },
+    "place_id": "ChIJUaX958EDXEgRFsU3vu3V5jQ",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2967,
+    "area_name": "Lisacul",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Lisacul",
+        "short_name": "Lisacul",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Corracoggil North",
+        "short_name": "Corracoggil North",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Corracoggil North, Lisacul, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.8592062,
+        "lng": -8.6367412
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.86055518029149,
+          "lng": -8.635392219708496
+        },
+        "southwest": {
+          "lat": 53.85785721970849,
+          "lng": -8.6380901802915
+        }
+      }
+    },
+    "place_id": "ChIJ7TGILrSoXkgRQA8yl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4023,
+    "area_name": "Cloonbard",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Cloonbard",
+        "short_name": "Cloonbard",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cloonbard, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.8036887,
+          "lng": -8.4453398
+        },
+        "southwest": {
+          "lat": 53.7879146,
+          "lng": -8.4750671
+        }
+      },
+      "location": {
+        "lat": 53.79284000000001,
+        "lng": -8.459263
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8036887,
+          "lng": -8.4453398
+        },
+        "southwest": {
+          "lat": 53.7879146,
+          "lng": -8.4750671
+        }
+      }
+    },
+    "place_id": "ChIJ_QECfa6gXkgRBSveYucSLvM",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2986,
+    "area_name": "Trien",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Trien",
+        "short_name": "Trien",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Trien",
+        "short_name": "Trien",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Trien, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.7320949,
+        "lng": -8.5532106
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7334438802915,
+          "lng": -8.551861619708497
+        },
+        "southwest": {
+          "lat": 53.7307459197085,
+          "lng": -8.554559580291501
+        }
+      }
+    },
+    "place_id": "ChIJGYoLaNccXEgR7h0kWdAECUM",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3008,
+    "area_name": "Rodeen",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Rodeen",
+        "short_name": "Rodeen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rodeen, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.8769268,
+          "lng": -8.1010975
+        },
+        "southwest": {
+          "lat": 53.8700236,
+          "lng": -8.12121
+        }
+      },
+      "location": {
+        "lat": 53.8735013,
+        "lng": -8.110734899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8769268,
+          "lng": -8.1010975
+        },
+        "southwest": {
+          "lat": 53.8700236,
+          "lng": -8.12121
+        }
+      }
+    },
+    "place_id": "ChIJOQYqzD-DXkgRYsW6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3044,
+    "area_name": "Rooskey",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Roosky",
+        "short_name": "Roosky",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Roosky",
+        "short_name": "Roosky",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Roosky, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.8327737,
+        "lng": -7.921534899999998
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8341226802915,
+          "lng": -7.920185919708496
+        },
+        "southwest": {
+          "lat": 53.8314247197085,
+          "lng": -7.922883880291501
+        }
+      }
+    },
+    "place_id": "ChIJv_I_whiAXkgRAB4yl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2985,
+    "area_name": "Castlerea",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Castlerea",
+        "short_name": "Castlerea",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Demesne",
+        "short_name": "Demesne",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Demesne, Castlerea, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.7686571,
+        "lng": -8.4924537
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7700060802915,
+          "lng": -8.491104719708499
+        },
+        "southwest": {
+          "lat": 53.7673081197085,
+          "lng": -8.493802680291504
+        }
+      }
+    },
+    "place_id": "ChIJ6ymgp-wdXEgREMkxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3026,
+    "area_name": "Scramoge",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Scramoge",
+        "short_name": "Scramoge",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Gortlustia",
+        "short_name": "Gortlustia",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Gortlustia, Scramoge, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.7675268,
+        "lng": -8.0512541
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.76887578029149,
+          "lng": -8.049905119708498
+        },
+        "southwest": {
+          "lat": 53.7661778197085,
+          "lng": -8.052603080291501
+        }
+      }
+    },
+    "place_id": "ChIJ-akMsv8oXEgRoCEyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2636,
+    "area_name": "Ballymurray",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Ballymurray",
+        "short_name": "Ballymurray",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballymurray",
+        "short_name": "Ballymurray",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballymurray, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.6005098,
+        "lng": -8.1291146
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.60185878029149,
+          "lng": -8.127765619708498
+        },
+        "southwest": {
+          "lat": 53.5991608197085,
+          "lng": -8.130463580291503
+        }
+      }
+    },
+    "place_id": "ChIJE6ZW-Vk6XEgR4LbfN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2973,
+    "area_name": "Callow",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Callow",
+        "short_name": "Callow",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Carrownurlar",
+        "short_name": "Carrownurlar",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carrownurlar, Callow, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.9040877,
+        "lng": -8.436518999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9054366802915,
+          "lng": -8.435170019708496
+        },
+        "southwest": {
+          "lat": 53.9027387197085,
+          "lng": -8.4378679802915
+        }
+      }
+    },
+    "place_id": "ChIJQ2BXF0yiXkgRzybCpU2OWrk",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2641,
+    "area_name": "Lecarrow",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Lecarrow",
+        "short_name": "Lecarrow",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Knockanyconor",
+        "short_name": "Knockanyconor",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Knockanyconor, Lecarrow, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.5435261,
+        "lng": -8.047726899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.5448750802915,
+          "lng": -8.046377919708496
+        },
+        "southwest": {
+          "lat": 53.5421771197085,
+          "lng": -8.0490758802915
+        }
+      }
+    },
+    "place_id": "ChIJlWRMEPo5XEgR8g3HGajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2654,
+    "area_name": "Brideswell",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Brideswell",
+        "short_name": "Brideswell",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Brideswell",
+        "short_name": "Brideswell",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Brideswell, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.451713,
+        "lng": -8.0906431
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.4530619802915,
+          "lng": -8.089294119708498
+        },
+        "southwest": {
+          "lat": 53.4503640197085,
+          "lng": -8.091992080291503
+        }
+      }
+    },
+    "place_id": "ChIJSU7A1Jo6XEgR0MffN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3946,
+    "area_name": "Kilrooskey",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Kilrooskey",
+        "short_name": "Kilrooskey",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilroosky",
+        "short_name": "Kilroosky",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilroosky, Kilrooskey, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.67608000000001,
+        "lng": -8.11826
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.67742898029151,
+          "lng": -8.116911019708498
+        },
+        "southwest": {
+          "lat": 53.67473101970851,
+          "lng": -8.119608980291503
+        }
+      }
+    },
+    "place_id": "ChIJ99NNAJ8lXEgRcFXfN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3338,
+    "area_name": "Keadue",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Keadew",
+        "short_name": "Keadew",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Keadew West",
+        "short_name": "Keadew West",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Keadew West, Keadew, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.0511423,
+        "lng": -8.1377557
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.05249128029149,
+          "lng": -8.136406719708498
+        },
+        "southwest": {
+          "lat": 54.0497933197085,
+          "lng": -8.139104680291503
+        }
+      }
+    },
+    "place_id": "ChIJCbaQx2COXkgRYHO5CF0zgxI",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2687,
+    "area_name": "Oldtown",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Oldtown",
+        "short_name": "Oldtown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cloonown",
+        "short_name": "Cloonown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cloonown, Oldtown, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.36826,
+        "lng": -7.941190000000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3696089802915,
+          "lng": -7.939841019708498
+        },
+        "southwest": {
+          "lat": 53.3669110197085,
+          "lng": -7.942538980291503
+        }
+      }
+    },
+    "place_id": "ChIJvx3ibPJEXEgRkMnqN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2965,
+    "area_name": "Tibohine",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Tibohine",
+        "short_name": "Tibohine",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Teevnacreeva",
+        "short_name": "Teevnacreeva",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Teevnacreeva, Tibohine, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.88702559999999,
+        "lng": -8.501249099999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.88837458029149,
+          "lng": -8.499900119708498
+        },
+        "southwest": {
+          "lat": 53.88567661970849,
+          "lng": -8.502598080291502
+        }
+      }
+    },
+    "place_id": "ChIJLQFU1_OjXkgRMtZOu6fHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2634,
+    "area_name": "Roscommon Town",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Roscommon",
+        "short_name": "Roscommon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      },
+      "location": {
+        "lat": 53.63401649999999,
+        "lng": -8.181945899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      }
+    },
+    "place_id": "ChIJA5EQTE0jXEgRXlA0Mlu6cl8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3007,
+    "area_name": "Hill Street",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Hillstreet",
+        "short_name": "Hillstreet",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Killinaddan",
+        "short_name": "Killinaddan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Killinaddan, Hillstreet, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.8825256,
+        "lng": -8.0832506
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8838745802915,
+          "lng": -8.081901619708496
+        },
+        "southwest": {
+          "lat": 53.8811766197085,
+          "lng": -8.084599580291501
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJZRVXv3WDXkgRIcK6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3011,
+    "area_name": "Clogher",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Roscommon",
+        "short_name": "Roscommon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      },
+      "location": {
+        "lat": 53.63401649999999,
+        "lng": -8.181945899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJA5EQTE0jXEgRXlA0Mlu6cl8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2966,
+    "area_name": "Moyne",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Moyne",
+        "short_name": "Moyne",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Moyne",
+        "short_name": "Moyne",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Moyne, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.8486954,
+        "lng": -8.5413142
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8500443802915,
+          "lng": -8.539965219708499
+        },
+        "southwest": {
+          "lat": 53.8473464197085,
+          "lng": -8.542663180291504
+        }
+      }
+    },
+    "place_id": "ChIJ6ylpVIqmXkgRKKIUFcb_3T0",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3021,
+    "area_name": "Runnabackan",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Runnabackan",
+        "short_name": "Runnabackan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Runnabackan, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.6828703,
+          "lng": -8.3084353
+        },
+        "southwest": {
+          "lat": 53.6670145,
+          "lng": -8.3286784
+        }
+      },
+      "location": {
+        "lat": 53.6769438,
+        "lng": -8.3198759
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.6828703,
+          "lng": -8.3084353
+        },
+        "southwest": {
+          "lat": 53.6670145,
+          "lng": -8.3286784
+        }
+      }
+    },
+    "place_id": "ChIJ3eN5PIMYXEgRQqcP387X6fk",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3018,
+    "area_name": "Rathcroghan",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Rathcroghan",
+        "short_name": "Rathcroghan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Toberrory",
+        "short_name": "Toberrory",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Toberrory, Rathcroghan, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.81209,
+        "lng": -8.30487
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8134389802915,
+          "lng": -8.303521019708498
+        },
+        "southwest": {
+          "lat": 53.8107410197085,
+          "lng": -8.306218980291503
+        }
+      }
+    },
+    "place_id": "ChIJr-ILlM6fXkgRA7k0BrGrJtk",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3738,
+    "area_name": "Kilteevan",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Kilteevan",
+        "short_name": "Kilteevan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilteevan, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.6387241,
+          "lng": -8.0867703
+        },
+        "southwest": {
+          "lat": 53.6255702,
+          "lng": -8.1036906
+        }
+      },
+      "location": {
+        "lat": 53.63167300000001,
+        "lng": -8.0952894
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.6387241,
+          "lng": -8.0867703
+        },
+        "southwest": {
+          "lat": 53.6255702,
+          "lng": -8.1036906
+        }
+      }
+    },
+    "place_id": "ChIJaXiKoi47XEgRYHTqN6nHABg",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2633,
+    "area_name": "Scardaun",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Scardaun",
+        "short_name": "Scardaun",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Scardaun, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.5862766,
+          "lng": -8.1874943
+        },
+        "southwest": {
+          "lat": 53.57605659999999,
+          "lng": -8.2155346
+        }
+      },
+      "location": {
+        "lat": 53.58084359999999,
+        "lng": -8.2002407
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.5862766,
+          "lng": -8.1874943
+        },
+        "southwest": {
+          "lat": 53.57605659999999,
+          "lng": -8.2155346
+        }
+      }
+    },
+    "place_id": "ChIJM7tHTl48XEgRotVPu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3029,
+    "area_name": "Coolshaghtena",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Coolshaghtena",
+        "short_name": "Coolshaghtena",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Coolshaghtena, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.6669738,
+          "lng": -8.0623692
+        },
+        "southwest": {
+          "lat": 53.6544223,
+          "lng": -8.0876207
+        }
+      },
+      "location": {
+        "lat": 53.659755,
+        "lng": -8.0749929
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.6669738,
+          "lng": -8.0623692
+        },
+        "southwest": {
+          "lat": 53.6544223,
+          "lng": -8.0876207
+        }
+      }
+    },
+    "place_id": "ChIJeZ-kIWAlXEgRwrq6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3799,
+    "area_name": "Shankill",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Shankill",
+        "short_name": "Shankill",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Shankill, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.8455239,
+          "lng": -8.2143027
+        },
+        "southwest": {
+          "lat": 53.83440909999999,
+          "lng": -8.2329497
+        }
+      },
+      "location": {
+        "lat": 53.8398927,
+        "lng": -8.220597399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8455239,
+          "lng": -8.2143027
+        },
+        "southwest": {
+          "lat": 53.83440909999999,
+          "lng": -8.2329497
+        }
+      }
+    },
+    "place_id": "ChIJJ6gfx86dXkgRbHhKcsYU6Cs",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2988,
+    "area_name": "Bellanagare",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Bellanagare",
+        "short_name": "Bellanagare",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Bellanagare",
+        "short_name": "Bellanagare",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Bellanagare, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.8369829,
+        "lng": -8.3815026
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8383318802915,
+          "lng": -8.380153619708498
+        },
+        "southwest": {
+          "lat": 53.8356339197085,
+          "lng": -8.382851580291502
+        }
+      }
+    },
+    "place_id": "ChIJudvplMyhXkgRcOExl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3024,
+    "area_name": "Tully",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Roscommon",
+        "short_name": "Roscommon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      },
+      "location": {
+        "lat": 53.63401649999999,
+        "lng": -8.181945899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJA5EQTE0jXEgRXlA0Mlu6cl8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3329,
+    "area_name": "Crossna",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Crossna",
+        "short_name": "Crossna",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Crossna, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.024138,
+          "lng": -8.1816245
+        },
+        "southwest": {
+          "lat": 54.0098613,
+          "lng": -8.196614
+        }
+      },
+      "location": {
+        "lat": 54.0168815,
+        "lng": -8.1880002
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.024138,
+          "lng": -8.1816245
+        },
+        "southwest": {
+          "lat": 54.0098613,
+          "lng": -8.196614
+        }
+      }
+    },
+    "place_id": "ChIJN9EvGiyQXkgRcPcxl6nHAAo",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4253,
+    "area_name": "Creagh",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Roscommon",
+        "short_name": "Roscommon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      },
+      "location": {
+        "lat": 53.63401649999999,
+        "lng": -8.181945899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJA5EQTE0jXEgRXlA0Mlu6cl8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2646,
+    "area_name": "Killeglan",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Killeglan",
+        "short_name": "Killeglan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Churchpark",
+        "short_name": "Churchpark",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Killeglan, Churchpark, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.4251576,
+          "lng": -8.177719399999999
+        },
+        "southwest": {
+          "lat": 53.40933219999999,
+          "lng": -8.201545399999999
+        }
+      },
+      "location": {
+        "lat": 53.4183629,
+        "lng": -8.1892057
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.4251576,
+          "lng": -8.177719399999999
+        },
+        "southwest": {
+          "lat": 53.40933219999999,
+          "lng": -8.201545399999999
+        }
+      }
+    },
+    "place_id": "ChIJy7gCEVJAXEgRTY0qhIFm-BE",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2998,
+    "area_name": "Boyle",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Boyle",
+        "short_name": "Boyle",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Knocknashee",
+        "short_name": "Knocknashee",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Knocknashee, Boyle, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.9722082,
+        "lng": -8.2972756
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9735571802915,
+          "lng": -8.2959266197085
+        },
+        "southwest": {
+          "lat": 53.9708592197085,
+          "lng": -8.298624580291504
+        }
+      }
+    },
+    "place_id": "ChIJyQDO5f2ZXkgRsBIyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2979,
+    "area_name": "Carrowbehy",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Carrowbehy",
+        "short_name": "Carrowbehy",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Carrowbehy",
+        "short_name": "Carrowbehy",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carrowbehy, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.8123341,
+        "lng": -8.6665906
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8136830802915,
+          "lng": -8.665241619708496
+        },
+        "southwest": {
+          "lat": 53.8109851197085,
+          "lng": -8.6679395802915
+        }
+      }
+    },
+    "place_id": "ChIJkVssOU2oXkgRYNTfN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2990,
+    "area_name": "Gortnasillagh",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Gortnasillagh",
+        "short_name": "Gortnasillagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cloverhill",
+        "short_name": "Cloverhill",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Gortnasillagh, Cloverhill, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.7867316,
+          "lng": -8.3494624
+        },
+        "southwest": {
+          "lat": 53.7761392,
+          "lng": -8.3765264
+        }
+      },
+      "location": {
+        "lat": 53.7791919,
+        "lng": -8.3623665
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7867316,
+          "lng": -8.3494624
+        },
+        "southwest": {
+          "lat": 53.7761392,
+          "lng": -8.3765264
+        }
+      }
+    },
+    "place_id": "ChIJDVER2-8fXEgRZLRaSVQPwfY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3045,
+    "area_name": "Whitehall",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Whitehall",
+        "short_name": "Whitehall",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballygate",
+        "short_name": "Ballygate",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballygate, Whitehall, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.76247100000001,
+        "lng": -7.920863
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.76381998029151,
+          "lng": -7.919514019708497
+        },
+        "southwest": {
+          "lat": 53.76112201970851,
+          "lng": -7.922211980291502
+        }
+      }
+    },
+    "place_id": "ChIJycqIPgkrXEgRIMgxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2650,
+    "area_name": "Lismoyle",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Lismoyle",
+        "short_name": "Lismoyle",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lismoyle, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.5066066,
+          "lng": -8.1537541
+        },
+        "southwest": {
+          "lat": 53.4975901,
+          "lng": -8.1755396
+        }
+      },
+      "location": {
+        "lat": 53.5011898,
+        "lng": -8.1614238
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.5066066,
+          "lng": -8.1537541
+        },
+        "southwest": {
+          "lat": 53.4975901,
+          "lng": -8.1755396
+        }
+      }
+    },
+    "place_id": "ChIJqVpzqdg-XEgRX0Bu5-vTAV4",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2999,
+    "area_name": "Knockvicar",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Knockvicar",
+        "short_name": "Knockvicar",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilteasheen",
+        "short_name": "Kilteasheen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilteasheen, Knockvicar, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.00072850000001,
+        "lng": -8.193478299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.00207748029151,
+          "lng": -8.192129319708496
+        },
+        "southwest": {
+          "lat": 53.99937951970851,
+          "lng": -8.1948272802915
+        }
+      }
+    },
+    "place_id": "ChIJh9jUqBeQXkgRMPMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2980,
+    "area_name": "Loughglynn",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Loughglinn",
+        "short_name": "Loughglinn",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Loughglinn",
+        "short_name": "Loughglinn",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Loughglinn, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.8225476,
+        "lng": -8.561582999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8238965802915,
+          "lng": -8.560234019708496
+        },
+        "southwest": {
+          "lat": 53.8211986197085,
+          "lng": -8.5629319802915
+        }
+      }
+    },
+    "place_id": "ChIJtXpB1LSnXkgRUBAyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3003,
+    "area_name": "Ballyroddy",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Ballyroddy",
+        "short_name": "Ballyroddy",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyroddy, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.8492446,
+          "lng": -8.2289695
+        },
+        "southwest": {
+          "lat": 53.8398145,
+          "lng": -8.2519683
+        }
+      },
+      "location": {
+        "lat": 53.8450182,
+        "lng": -8.2416206
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8492446,
+          "lng": -8.2289695
+        },
+        "southwest": {
+          "lat": 53.8398145,
+          "lng": -8.2519683
+        }
+      }
+    },
+    "place_id": "ChIJp_b87YCeXkgRIrO6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2629,
+    "area_name": "Fuerty",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Fuerty",
+        "short_name": "Fuerty",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Fuerty, Co. Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.6187261,
+          "lng": -8.2497974
+        },
+        "southwest": {
+          "lat": 53.6095868,
+          "lng": -8.2696848
+        }
+      },
+      "location": {
+        "lat": 53.6131024,
+        "lng": -8.2591228
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.6187261,
+          "lng": -8.2497974
+        },
+        "southwest": {
+          "lat": 53.6095868,
+          "lng": -8.2696848
+        }
+      }
+    },
+    "place_id": "ChIJE1juUkY9XEgRsAIyl6nHAAo",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4114,
+    "area_name": "Briarfield",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Briarfield",
+        "short_name": "Briarfield",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Silverfield",
+        "short_name": "Silverfield",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Briarfield, Silverfield, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.8663774,
+        "lng": -8.6854265
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8677263802915,
+          "lng": -8.684077519708497
+        },
+        "southwest": {
+          "lat": 53.8650284197085,
+          "lng": -8.686775480291502
+        }
+      }
+    },
+    "place_id": "ChIJ_0JQ286uXkgRUG3oN6nHABg",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  },
+  {
+    "area_id": 2974,
+    "area_name": "Kingsland",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Roscommon",
+        "short_name": "Roscommon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Roscommon, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      },
+      "location": {
+        "lat": 53.63401649999999,
+        "lng": -8.181945899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.63941999999999,
+          "lng": -8.16418
+        },
+        "southwest": {
+          "lat": 53.6117699,
+          "lng": -8.20713
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJA5EQTE0jXEgRXlA0Mlu6cl8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3000,
+    "area_name": "Croghan",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Croghan",
+        "short_name": "Croghan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Killappoge",
+        "short_name": "Killappoge",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Killappoge, Croghan, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.9115865,
+        "lng": -8.2207157
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9129354802915,
+          "lng": -8.219366719708498
+        },
+        "southwest": {
+          "lat": 53.9102375197085,
+          "lng": -8.222064680291503
+        }
+      }
+    },
+    "place_id": "ChIJez9T-JibXkgRoPcxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2632,
+    "area_name": "Mount Talbot",
+    "county_name": "Roscommon",
+    "county_id": 21,
+    "address_components": [
+      {
+        "long_name": "Mount Talbot",
+        "short_name": "Mount Talbot",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Mount Talbot",
+        "short_name": "Mount Talbot",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Roscommon",
+        "short_name": "RN",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Mount Talbot, Co. Roscommon, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.5301835,
+        "lng": -8.2826241
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.5315324802915,
+          "lng": -8.281275119708498
+        },
+        "southwest": {
+          "lat": 53.5288345197085,
+          "lng": -8.283973080291503
+        }
+      }
+    },
+    "place_id": "ChIJRSv3N_sVXEgRwgMavy7oGc8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  }
+]

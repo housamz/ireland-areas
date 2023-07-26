@@ -1,0 +1,7772 @@
+[
+  {
+    "area_id": 661,
+    "area_name": "Kilmacow",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Kilmacow",
+        "short_name": "Kilmacow",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilmacow, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.325626,
+          "lng": -7.167436299999999
+        },
+        "southwest": {
+          "lat": 52.3081808,
+          "lng": -7.1888109
+        }
+      },
+      "location": {
+        "lat": 52.31208050000001,
+        "lng": -7.1765298
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.325626,
+          "lng": -7.167436299999999
+        },
+        "southwest": {
+          "lat": 52.3081808,
+          "lng": -7.1888109
+        }
+      }
+    },
+    "place_id": "ChIJR3PBwH3PQkgRIIkxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1020,
+    "area_name": "Killinaspick",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Killinaspick",
+        "short_name": "Killinaspick",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Killinaspick, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.3429222,
+          "lng": -7.254382
+        },
+        "southwest": {
+          "lat": 52.3329715,
+          "lng": -7.270675700000001
+        }
+      },
+      "location": {
+        "lat": 52.3395288,
+        "lng": -7.2618849
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.3429222,
+          "lng": -7.254382
+        },
+        "southwest": {
+          "lat": 52.3329715,
+          "lng": -7.270675700000001
+        }
+      }
+    },
+    "place_id": "ChIJpxxHLDvQQkgR5Ng8yv9QFYQ",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1023,
+    "area_name": "Baunskeha",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Baunskeha",
+        "short_name": "Baunskeha",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballyduff Cross",
+        "short_name": "Ballyduff Cross",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Baunskeha, Ballyduff Cross, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.48987049999999,
+          "lng": -7.134673299999999
+        },
+        "southwest": {
+          "lat": 52.4685974,
+          "lng": -7.1592485
+        }
+      },
+      "location": {
+        "lat": 52.47861289999999,
+        "lng": -7.145537699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.48987049999999,
+          "lng": -7.134673299999999
+        },
+        "southwest": {
+          "lat": 52.4685974,
+          "lng": -7.1592485
+        }
+      }
+    },
+    "place_id": "ChIJRZ3cyknLQkgRJgmJYAdKPpE",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1021,
+    "area_name": "Lukeswell",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Lukeswell",
+        "short_name": "Lukeswell",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Smithstown",
+        "short_name": "Smithstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Smithstown, Lukeswell, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.39705,
+        "lng": -7.18426
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.3983989802915,
+          "lng": -7.182911019708498
+        },
+        "southwest": {
+          "lat": 52.3957010197085,
+          "lng": -7.185608980291502
+        }
+      }
+    },
+    "place_id": "ChIJUy32S57OQkgRkui6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3796,
+    "area_name": "Ballykeoghan",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Ballykeoghan",
+        "short_name": "Ballykeoghan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Upper Dangan",
+        "short_name": "Upper Dangan",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballykeoghan, Upper Dangan, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.3343869,
+          "lng": -7.14928
+        },
+        "southwest": {
+          "lat": 52.3207436,
+          "lng": -7.170880599999999
+        }
+      },
+      "location": {
+        "lat": 52.3262237,
+        "lng": -7.159024
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.3343869,
+          "lng": -7.14928
+        },
+        "southwest": {
+          "lat": 52.3207436,
+          "lng": -7.170880599999999
+        }
+      }
+    },
+    "place_id": "ChIJT0VB8ELPQkgRTJ82Y8_BsxE",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 994,
+    "area_name": "Ballymack",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Ballymack",
+        "short_name": "Ballymack",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Booly",
+        "short_name": "Booly",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Booly, Ballymack, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.57518,
+        "lng": -7.330649999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.5765289802915,
+          "lng": -7.329301019708497
+        },
+        "southwest": {
+          "lat": 52.5738310197085,
+          "lng": -7.331998980291502
+        }
+      }
+    },
+    "place_id": "ChIJ26_1KRIuXUgRUptSu6fHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 658,
+    "area_name": "Clogga",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Clogga",
+        "short_name": "Clogga",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Clogga, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.34173819999999,
+          "lng": -7.226951499999999
+        },
+        "southwest": {
+          "lat": 52.3206967,
+          "lng": -7.250298600000001
+        }
+      },
+      "location": {
+        "lat": 52.3311113,
+        "lng": -7.238305299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.34173819999999,
+          "lng": -7.226951499999999
+        },
+        "southwest": {
+          "lat": 52.3206967,
+          "lng": -7.250298600000001
+        }
+      }
+    },
+    "place_id": "ChIJk3-7DufPQkgRoum6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4039,
+    "area_name": "Ballinakill",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Ballinakill",
+        "short_name": "Ballinakill",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Clodiagh",
+        "short_name": "Clodiagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballinakill, Clodiagh, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.470354,
+        "lng": -7.016771
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.4717029802915,
+          "lng": -7.015422019708499
+        },
+        "southwest": {
+          "lat": 52.4690050197085,
+          "lng": -7.018119980291503
+        }
+      }
+    },
+    "place_id": "ChIJpb8BsRm1QkgReJDdxLgxKLI",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  },
+  {
+    "area_id": 1013,
+    "area_name": "Knocktopher",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Knocktopher",
+        "short_name": "Knocktopher",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Knocktopher, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.4878587,
+          "lng": -7.2141515
+        },
+        "southwest": {
+          "lat": 52.4850373,
+          "lng": -7.220547499999999
+        }
+      },
+      "location": {
+        "lat": 52.4856956,
+        "lng": -7.217107599999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.4878587,
+          "lng": -7.2141515
+        },
+        "southwest": {
+          "lat": 52.4850373,
+          "lng": -7.220547499999999
+        }
+      }
+    },
+    "place_id": "ChIJaYVWhDIzXUgRcPMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1560,
+    "area_name": "Ballyragget",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Ballyragget",
+        "short_name": "Ballyragget",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyragget, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.7965896,
+          "lng": -7.327977199999999
+        },
+        "southwest": {
+          "lat": 52.7749258,
+          "lng": -7.343964
+        }
+      },
+      "location": {
+        "lat": 52.7888894,
+        "lng": -7.3328641
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7965896,
+          "lng": -7.327977199999999
+        },
+        "southwest": {
+          "lat": 52.7749258,
+          "lng": -7.343964
+        }
+      }
+    },
+    "place_id": "ChIJt9vtPRE9XUgRUOUxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 670,
+    "area_name": "Ballincrea",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Ballincrea",
+        "short_name": "Ballincrea",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Coolnaleen",
+        "short_name": "Coolnaleen",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballincrea, Coolnaleen, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.3301972,
+          "lng": -7.086160100000001
+        },
+        "southwest": {
+          "lat": 52.3161674,
+          "lng": -7.1074787
+        }
+      },
+      "location": {
+        "lat": 52.3229683,
+        "lng": -7.099026899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.3301972,
+          "lng": -7.086160100000001
+        },
+        "southwest": {
+          "lat": 52.3161674,
+          "lng": -7.1074787
+        }
+      }
+    },
+    "place_id": "ChIJNxxUHJ3IQkgRkvS6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1546,
+    "area_name": "Balleen",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Balleen",
+        "short_name": "Balleen",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Balleen Little",
+        "short_name": "Balleen Little",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Balleen Little, Balleen, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.75306,
+        "lng": -7.441520000000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.75440898029151,
+          "lng": -7.440171019708498
+        },
+        "southwest": {
+          "lat": 52.75171101970851,
+          "lng": -7.442868980291503
+        }
+      }
+    },
+    "place_id": "ChIJbaW2T78jXUgRd_zVhoqYidM",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1541,
+    "area_name": "Lisdowney",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Lisdowney",
+        "short_name": "Lisdowney",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lisdowney, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.7943194,
+          "lng": -7.396354199999999
+        },
+        "southwest": {
+          "lat": 52.77743479999999,
+          "lng": -7.4312202
+        }
+      },
+      "location": {
+        "lat": 52.7843743,
+        "lng": -7.413433599999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7943194,
+          "lng": -7.396354199999999
+        },
+        "southwest": {
+          "lat": 52.77743479999999,
+          "lng": -7.4312202
+        }
+      }
+    },
+    "place_id": "ChIJ292mbMEiXUgRAgK7GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1607,
+    "area_name": "Ballyfoyle",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Ballyfoyle",
+        "short_name": "Ballyfoyle",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ruthstown",
+        "short_name": "Ruthstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ruthstown, Ballyfoyle, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.7217131,
+        "lng": -7.2322693
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.72306208029149,
+          "lng": -7.230920319708497
+        },
+        "southwest": {
+          "lat": 52.72036411970849,
+          "lng": -7.233618280291502
+        }
+      }
+    },
+    "place_id": "ChIJv-Wz2145XUgRkXe7GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1558,
+    "area_name": "Ballinamara",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Ballinamara",
+        "short_name": "Ballinamara",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballycannon",
+        "short_name": "Ballycannon",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballycannon, Ballinamara, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.68466,
+        "lng": -7.38179
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6860089802915,
+          "lng": -7.380441019708497
+        },
+        "southwest": {
+          "lat": 52.6833110197085,
+          "lng": -7.383138980291502
+        }
+      }
+    },
+    "place_id": "ChIJ5e5p1RwlXUgRItsT9mcxtQI",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1014,
+    "area_name": "Ballyhale",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Ballyhale",
+        "short_name": "Ballyhale",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyhale, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.4711621,
+          "lng": -7.197053500000001
+        },
+        "southwest": {
+          "lat": 52.4628264,
+          "lng": -7.203819999999999
+        }
+      },
+      "location": {
+        "lat": 52.4669813,
+        "lng": -7.2002655
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.4711621,
+          "lng": -7.197053500000001
+        },
+        "southwest": {
+          "lat": 52.4628264,
+          "lng": -7.203819999999999
+        }
+      }
+    },
+    "place_id": "ChIJt5lMyMDMQkgR0NUxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1557,
+    "area_name": "Killahy",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Killahy",
+        "short_name": "Killahy",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Killahy, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.6929565,
+          "lng": -7.4704545
+        },
+        "southwest": {
+          "lat": 52.67951309999999,
+          "lng": -7.492175
+        }
+      },
+      "location": {
+        "lat": 52.6856709,
+        "lng": -7.4806651
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6929565,
+          "lng": -7.4704545
+        },
+        "southwest": {
+          "lat": 52.67951309999999,
+          "lng": -7.492175
+        }
+      }
+    },
+    "place_id": "ChIJjx0Sb40mXUgRMjdSu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 995,
+    "area_name": "Burnchurch",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Burnchurch",
+        "short_name": "Burnchurch",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Burnchurch, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.58759509999999,
+          "lng": -7.287004899999999
+        },
+        "southwest": {
+          "lat": 52.5734984,
+          "lng": -7.302712899999999
+        }
+      },
+      "location": {
+        "lat": 52.5794453,
+        "lng": -7.2947979
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.58759509999999,
+          "lng": -7.287004899999999
+        },
+        "southwest": {
+          "lat": 52.5734984,
+          "lng": -7.302712899999999
+        }
+      }
+    },
+    "place_id": "ChIJQVXqju8xXUgRUs66GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1041,
+    "area_name": "Ballinvarry",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Ballinvarry",
+        "short_name": "Ballinvarry",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballinvarry, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.4946144,
+          "lng": -6.939558799999999
+        },
+        "southwest": {
+          "lat": 52.4861571,
+          "lng": -6.9627027
+        }
+      },
+      "location": {
+        "lat": 52.4909215,
+        "lng": -6.9508617
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.4946144,
+          "lng": -6.939558799999999
+        },
+        "southwest": {
+          "lat": 52.4861571,
+          "lng": -6.9627027
+        }
+      }
+    },
+    "place_id": "ChIJHa2N_lCzQkgRQju7GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4212,
+    "area_name": "New Ross",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Kilkenny",
+        "short_name": "KK",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.677211,
+          "lng": -7.216920900000001
+        },
+        "southwest": {
+          "lat": 52.6313876,
+          "lng": -7.27535
+        }
+      },
+      "location": {
+        "lat": 52.6549027,
+        "lng": -7.246402900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.677211,
+          "lng": -7.216920900000001
+        },
+        "southwest": {
+          "lat": 52.6313876,
+          "lng": -7.27535
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJq8UjNKEwXUgRwHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3936,
+    "area_name": "Carrigeen",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Carrigeen",
+        "short_name": "Carrigeen",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Corluddy",
+        "short_name": "Corluddy",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Corluddy, Carrigeen, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.27088999999999,
+        "lng": -7.215990000000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.27223898029149,
+          "lng": -7.214641019708498
+        },
+        "southwest": {
+          "lat": 52.2695410197085,
+          "lng": -7.217338980291503
+        }
+      }
+    },
+    "place_id": "ChIJnZkL2ifFQkgRajX23RgA5Cg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1016,
+    "area_name": "Boobyglass",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Kilkenny",
+        "short_name": "KK",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.677211,
+          "lng": -7.216920900000001
+        },
+        "southwest": {
+          "lat": 52.6313876,
+          "lng": -7.27535
+        }
+      },
+      "location": {
+        "lat": 52.6549027,
+        "lng": -7.246402900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.677211,
+          "lng": -7.216920900000001
+        },
+        "southwest": {
+          "lat": 52.6313876,
+          "lng": -7.27535
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJq8UjNKEwXUgRwHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1618,
+    "area_name": "Castlewarren",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Castlewarren",
+        "short_name": "Castlewarren",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Castlewarren",
+        "short_name": "Castlewarren",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Castlewarren, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.6923045,
+        "lng": -7.105859199999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6936534802915,
+          "lng": -7.104510219708497
+        },
+        "southwest": {
+          "lat": 52.6909555197085,
+          "lng": -7.107208180291502
+        }
+      }
+    },
+    "place_id": "ChIJoy0j2nVHXUgR0NnfN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1028,
+    "area_name": "Ballyfasy",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Ballyfasy",
+        "short_name": "Ballyfasy",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballyfasy Lower",
+        "short_name": "Ballyfasy Lower",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyfasy Lower, Ballyfasy, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.37383999999999,
+        "lng": -7.079269999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.37518898029149,
+          "lng": -7.077921019708497
+        },
+        "southwest": {
+          "lat": 52.37249101970849,
+          "lng": -7.080618980291502
+        }
+      }
+    },
+    "place_id": "ChIJpWFAZ6XJQkgRq9zZcevMcHs",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1000,
+    "area_name": "Bennettsbridge",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Bennettsbridge",
+        "short_name": "Bennettsbridge",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Bennettsbridge, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.59799940000001,
+          "lng": -7.173698
+        },
+        "southwest": {
+          "lat": 52.5832531,
+          "lng": -7.1955494
+        }
+      },
+      "location": {
+        "lat": 52.5923475,
+        "lng": -7.1843272
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.59799940000001,
+          "lng": -7.173698
+        },
+        "southwest": {
+          "lat": 52.5832531,
+          "lng": -7.1955494
+        }
+      }
+    },
+    "place_id": "ChIJrfgh0742XUgREPsxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 972,
+    "area_name": "Kilmanagh",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Kilmanagh",
+        "short_name": "Kilmanagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Knockeenbaun",
+        "short_name": "Knockeenbaun",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Knockeenbaun, Kilmanagh, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.6208642,
+        "lng": -7.420924
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6222131802915,
+          "lng": -7.419575019708498
+        },
+        "southwest": {
+          "lat": 52.6195152197085,
+          "lng": -7.422272980291503
+        }
+      }
+    },
+    "place_id": "ChIJtfQI2zcvXUgRYO0xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 973,
+    "area_name": "Ballycallan",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Ballycallan",
+        "short_name": "Ballycallan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Gorteen",
+        "short_name": "Gorteen",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballycallan, Gorteen, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.6254743,
+          "lng": -7.3542462
+        },
+        "southwest": {
+          "lat": 52.61563220000001,
+          "lng": -7.374847699999999
+        }
+      },
+      "location": {
+        "lat": 52.62042210000001,
+        "lng": -7.366179799999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6254743,
+          "lng": -7.3542462
+        },
+        "southwest": {
+          "lat": 52.61563220000001,
+          "lng": -7.374847699999999
+        }
+      }
+    },
+    "place_id": "ChIJz-SfUr0vXUgRor-6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1602,
+    "area_name": "Barrack Village",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Barrack Street",
+        "short_name": "Barrack St",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Kilkenny",
+        "short_name": "KK",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Barrack St, Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.6572659,
+          "lng": -7.245985600000001
+        },
+        "southwest": {
+          "lat": 52.6554189,
+          "lng": -7.247421500000001
+        }
+      },
+      "location": {
+        "lat": 52.6563843,
+        "lng": -7.2468949
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6576913802915,
+          "lng": -7.245354569708499
+        },
+        "southwest": {
+          "lat": 52.6549934197085,
+          "lng": -7.248052530291503
+        }
+      }
+    },
+    "place_id": "ChIJo27IPQs6XUgR2iBPNoehr-4",
+    "types": [
+      "route"
+    ]
+  },
+  {
+    "area_id": 1594,
+    "area_name": "Castlecomer",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Castlecomer",
+        "short_name": "Castlecomer",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Castlecomer, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8126216,
+          "lng": -7.2037327
+        },
+        "southwest": {
+          "lat": 52.7878128,
+          "lng": -7.222326400000001
+        }
+      },
+      "location": {
+        "lat": 52.8052843,
+        "lng": -7.210312699999998
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8126216,
+          "lng": -7.2037327
+        },
+        "southwest": {
+          "lat": 52.7878128,
+          "lng": -7.222326400000001
+        }
+      }
+    },
+    "place_id": "ChIJ12h0zUg-XUgRYOcxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1043,
+    "area_name": "Mount Garret",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Kilkenny",
+        "short_name": "KK",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.677211,
+          "lng": -7.216920900000001
+        },
+        "southwest": {
+          "lat": 52.6313876,
+          "lng": -7.27535
+        }
+      },
+      "location": {
+        "lat": 52.6549027,
+        "lng": -7.246402900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.677211,
+          "lng": -7.216920900000001
+        },
+        "southwest": {
+          "lat": 52.6313876,
+          "lng": -7.27535
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJq8UjNKEwXUgRwHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1575,
+    "area_name": "Longhill",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Kilkenny",
+        "short_name": "KK",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.677211,
+          "lng": -7.216920900000001
+        },
+        "southwest": {
+          "lat": 52.6313876,
+          "lng": -7.27535
+        }
+      },
+      "location": {
+        "lat": 52.6549027,
+        "lng": -7.246402900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.677211,
+          "lng": -7.216920900000001
+        },
+        "southwest": {
+          "lat": 52.6313876,
+          "lng": -7.27535
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJq8UjNKEwXUgRwHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 976,
+    "area_name": "Callan",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Callan",
+        "short_name": "Callan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Callan, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.5609721,
+          "lng": -7.374335
+        },
+        "southwest": {
+          "lat": 52.5359825,
+          "lng": -7.4023137
+        }
+      },
+      "location": {
+        "lat": 52.544567,
+        "lng": -7.390170899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.5609721,
+          "lng": -7.374335
+        },
+        "southwest": {
+          "lat": 52.5359825,
+          "lng": -7.4023137
+        }
+      }
+    },
+    "place_id": "ChIJabyHhSIsXUgRsOcxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4239,
+    "area_name": "Castletown",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Castletown",
+        "short_name": "Castletown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Castletown, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.39172569999999,
+          "lng": -7.3663214
+        },
+        "southwest": {
+          "lat": 52.3759329,
+          "lng": -7.3931958
+        }
+      },
+      "location": {
+        "lat": 52.3829968,
+        "lng": -7.380660600000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.39172569999999,
+          "lng": -7.3663214
+        },
+        "southwest": {
+          "lat": 52.3759329,
+          "lng": -7.3931958
+        }
+      }
+    },
+    "place_id": "ChIJz-zFEAHUQkgR0gS_GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 974,
+    "area_name": "Ballykeefe",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Ballykeefe",
+        "short_name": "Ballykeefe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Gorteen",
+        "short_name": "Gorteen",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballykeefe, Gorteen, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.6138035,
+          "lng": -7.399932299999999
+        },
+        "southwest": {
+          "lat": 52.6056749,
+          "lng": -7.411854
+        }
+      },
+      "location": {
+        "lat": 52.60828189999999,
+        "lng": -7.406092600000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6138035,
+          "lng": -7.399932299999999
+        },
+        "southwest": {
+          "lat": 52.6056749,
+          "lng": -7.411854
+        }
+      }
+    },
+    "place_id": "ChIJr6FYwSIvXUgRfe2lf5-gUQI",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1027,
+    "area_name": "Listerlin",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Listerlin",
+        "short_name": "Listerlin",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Listerlin, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.4239127,
+          "lng": -7.0385636
+        },
+        "southwest": {
+          "lat": 52.4066629,
+          "lng": -7.065986800000001
+        }
+      },
+      "location": {
+        "lat": 52.4153343,
+        "lng": -7.049702600000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.4239127,
+          "lng": -7.0385636
+        },
+        "southwest": {
+          "lat": 52.4066629,
+          "lng": -7.065986800000001
+        }
+      }
+    },
+    "place_id": "ChIJWV5MfAbKQkgRPikqobLbOYQ",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 986,
+    "area_name": "Killamery",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Killamery",
+        "short_name": "Killamery",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Springmount",
+        "short_name": "Springmount",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Killamery, Springmount, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.4778765,
+          "lng": -7.442727199999999
+        },
+        "southwest": {
+          "lat": 52.46573180000001,
+          "lng": -7.467889800000001
+        }
+      },
+      "location": {
+        "lat": 52.4712296,
+        "lng": -7.452277899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.4778765,
+          "lng": -7.442727199999999
+        },
+        "southwest": {
+          "lat": 52.46573180000001,
+          "lng": -7.467889800000001
+        }
+      }
+    },
+    "place_id": "ChIJaWrj5CgrXUgR8su6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1609,
+    "area_name": "Kilkiernan",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Kilkiernan",
+        "short_name": "Kilkiernan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Knockglass",
+        "short_name": "Knockglass",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Knockglass, Kilkiernan, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.39695,
+        "lng": -7.381760000000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.3982989802915,
+          "lng": -7.380411019708498
+        },
+        "southwest": {
+          "lat": 52.3956010197085,
+          "lng": -7.383108980291503
+        }
+      }
+    },
+    "place_id": "ChIJ7Z4h4wXUQkgRtsL4HUTVduA",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1010,
+    "area_name": "Kilmoganny",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Kilmoganny",
+        "short_name": "Kilmoganny",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilmoganny, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.4651666,
+          "lng": -7.322130899999999
+        },
+        "southwest": {
+          "lat": 52.4588022,
+          "lng": -7.3361091
+        }
+      },
+      "location": {
+        "lat": 52.46147269999999,
+        "lng": -7.3282056
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.4651666,
+          "lng": -7.322130899999999
+        },
+        "southwest": {
+          "lat": 52.4588022,
+          "lng": -7.3361091
+        }
+      }
+    },
+    "place_id": "ChIJ91o13tvSQkgRR4SkUyc-nA0",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 663,
+    "area_name": "Licketstown",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Licketstown",
+        "short_name": "Licketstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Licketstown, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.2642221,
+          "lng": -7.208262599999999
+        },
+        "southwest": {
+          "lat": 52.2535587,
+          "lng": -7.229816700000001
+        }
+      },
+      "location": {
+        "lat": 52.2574713,
+        "lng": -7.2160049
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.2642221,
+          "lng": -7.208262599999999
+        },
+        "southwest": {
+          "lat": 52.2535587,
+          "lng": -7.229816700000001
+        }
+      }
+    },
+    "place_id": "ChIJVYtEw9HEQkgRsu2oN91yWVM",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4028,
+    "area_name": "Clara",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Clara",
+        "short_name": "Clara",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Kilbaylet Upper",
+        "short_name": "Kilbaylet Upper",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Clara, Kilbaylet Upper, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.6615183,
+        "lng": -7.1420245
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.66286728029149,
+          "lng": -7.140675519708497
+        },
+        "southwest": {
+          "lat": 52.6601693197085,
+          "lng": -7.143373480291502
+        }
+      }
+    },
+    "place_id": "ChIJJ4OE_CA4XUgRdd3ytX9wKY0",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  },
+  {
+    "area_id": 975,
+    "area_name": "Ballyline",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Ballyline",
+        "short_name": "Ballyline",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyline, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.57937080000001,
+          "lng": -7.4274549
+        },
+        "southwest": {
+          "lat": 52.5676625,
+          "lng": -7.445676199999999
+        }
+      },
+      "location": {
+        "lat": 52.5733384,
+        "lng": -7.436315
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.57937080000001,
+          "lng": -7.4274549
+        },
+        "southwest": {
+          "lat": 52.5676625,
+          "lng": -7.445676199999999
+        }
+      }
+    },
+    "place_id": "ChIJW0amkE8pXUgR8sS6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 987,
+    "area_name": "Windgap",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Windgap",
+        "short_name": "Windgap",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Meallaghmore Upper",
+        "short_name": "Meallaghmore Upper",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Meallaghmore Upper, Windgap, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.461296,
+        "lng": -7.396201199999998
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.46264498029149,
+          "lng": -7.394852219708496
+        },
+        "southwest": {
+          "lat": 52.4599470197085,
+          "lng": -7.397550180291501
+        }
+      }
+    },
+    "place_id": "ChIJES0wpKjUQkgRMOExl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 999,
+    "area_name": "Maddockstown",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Maddoxtown",
+        "short_name": "Maddoxtown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Maddockstown",
+        "short_name": "Maddockstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Maddockstown, Maddoxtown, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.63141,
+        "lng": -7.18817
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6327589802915,
+          "lng": -7.186821019708497
+        },
+        "southwest": {
+          "lat": 52.6300610197085,
+          "lng": -7.189518980291502
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJNfp8vwA3XUgRYGvfN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1525,
+    "area_name": "Urlingford",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Urlingford",
+        "short_name": "Urlingford",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Urlingford, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.725871,
+          "lng": -7.572830600000001
+        },
+        "southwest": {
+          "lat": 52.7118546,
+          "lng": -7.588772499999998
+        }
+      },
+      "location": {
+        "lat": 52.7205983,
+        "lng": -7.5821799
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.725871,
+          "lng": -7.572830600000001
+        },
+        "southwest": {
+          "lat": 52.7118546,
+          "lng": -7.588772499999998
+        }
+      }
+    },
+    "place_id": "ChIJJX6ucVPfXEgRcNMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1026,
+    "area_name": "Tullagher",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Tullogher",
+        "short_name": "Tullogher",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cooleen",
+        "short_name": "Cooleen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cooleen, Tullogher, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.42963,
+        "lng": -7.05542
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.43097898029149,
+          "lng": -7.054071019708497
+        },
+        "southwest": {
+          "lat": 52.4282810197085,
+          "lng": -7.056768980291502
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJAROtNXPKQkgRUltTu6fHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1604,
+    "area_name": "Mohil",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Kilkenny",
+        "short_name": "KK",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.677211,
+          "lng": -7.216920900000001
+        },
+        "southwest": {
+          "lat": 52.6313876,
+          "lng": -7.27535
+        }
+      },
+      "location": {
+        "lat": 52.6549027,
+        "lng": -7.246402900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.677211,
+          "lng": -7.216920900000001
+        },
+        "southwest": {
+          "lat": 52.6313876,
+          "lng": -7.27535
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJq8UjNKEwXUgRwHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 996,
+    "area_name": "Danesfort",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Danesfort",
+        "short_name": "Danesfort",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Danesfort, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.5813891,
+          "lng": -7.227874
+        },
+        "southwest": {
+          "lat": 52.56303519999999,
+          "lng": -7.246948999999999
+        }
+      },
+      "location": {
+        "lat": 52.5740472,
+        "lng": -7.233551299999998
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.5813891,
+          "lng": -7.227874
+        },
+        "southwest": {
+          "lat": 52.56303519999999,
+          "lng": -7.246948999999999
+        }
+      }
+    },
+    "place_id": "ChIJ99HjZKIxXUgR8shSu6fHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1042,
+    "area_name": "The Rower",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "The Rower",
+        "short_name": "The Rower",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Carranroe Upper",
+        "short_name": "Carranroe Upper",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carranroe Upper, The Rower, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.4545042,
+        "lng": -6.9586416
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.45585318029149,
+          "lng": -6.957292619708498
+        },
+        "southwest": {
+          "lat": 52.45315521970849,
+          "lng": -6.959990580291502
+        }
+      }
+    },
+    "place_id": "ChIJLXBd3Hy0QkgRAvi6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1600,
+    "area_name": "Damerstown",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Damerstown",
+        "short_name": "Damerstown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Damerstown West",
+        "short_name": "Damerstown West",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Damerstown West, Damerstown, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.7666,
+        "lng": -7.22174
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.76794898029149,
+          "lng": -7.220391019708497
+        },
+        "southwest": {
+          "lat": 52.7652510197085,
+          "lng": -7.223088980291502
+        }
+      }
+    },
+    "place_id": "ChIJpWYJrpQ-XUgRpMWt45A4TE4",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1007,
+    "area_name": "Tullaherin",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Tullaherin",
+        "short_name": "Tullaherin",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Tullaherin, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.5832979,
+          "lng": -7.1112937
+        },
+        "southwest": {
+          "lat": 52.5707957,
+          "lng": -7.137277000000001
+        }
+      },
+      "location": {
+        "lat": 52.5768984,
+        "lng": -7.1222235
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.5832979,
+          "lng": -7.1112937
+        },
+        "southwest": {
+          "lat": 52.5707957,
+          "lng": -7.137277000000001
+        }
+      }
+    },
+    "place_id": "ChIJry-3OXc2XUgR8ua6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 659,
+    "area_name": "Fiddown",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Fiddown",
+        "short_name": "Fiddown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Fiddown, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.334914,
+          "lng": -7.3056632
+        },
+        "southwest": {
+          "lat": 52.32734749999999,
+          "lng": -7.319830399999999
+        }
+      },
+      "location": {
+        "lat": 52.331516,
+        "lng": -7.313796000000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.334914,
+          "lng": -7.3056632
+        },
+        "southwest": {
+          "lat": 52.32734749999999,
+          "lng": -7.319830399999999
+        }
+      }
+    },
+    "place_id": "ChIJHQiEcfLQQkgRIIQxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1620,
+    "area_name": "Coorleagh",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Coorleagh",
+        "short_name": "Coorleagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Coorleagh, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.7154416,
+          "lng": -7.038521599999999
+        },
+        "southwest": {
+          "lat": 52.6950554,
+          "lng": -7.073752
+        }
+      },
+      "location": {
+        "lat": 52.70309779999999,
+        "lng": -7.064053899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7154416,
+          "lng": -7.038521599999999
+        },
+        "southwest": {
+          "lat": 52.6950554,
+          "lng": -7.073752
+        }
+      }
+    },
+    "place_id": "ChIJ29oC4VZGXUgRwiu7GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 990,
+    "area_name": "The Sweep",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "The Sweep",
+        "short_name": "The Sweep",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Brenar",
+        "short_name": "Brenar",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Brenar, The Sweep, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.37001,
+        "lng": -7.33466
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.3713589802915,
+          "lng": -7.333311019708497
+        },
+        "southwest": {
+          "lat": 52.3686610197085,
+          "lng": -7.336008980291502
+        }
+      }
+    },
+    "place_id": "ChIJV3qyFWvRQkgRvq2Hp1FJudo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1577,
+    "area_name": "Clogh",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Clogh",
+        "short_name": "Clogh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Clogh, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8764705,
+          "lng": -7.156365699999999
+        },
+        "southwest": {
+          "lat": 52.8567715,
+          "lng": -7.172126599999999
+        }
+      },
+      "location": {
+        "lat": 52.8710161,
+        "lng": -7.1642467
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8764705,
+          "lng": -7.156365699999999
+        },
+        "southwest": {
+          "lat": 52.8567715,
+          "lng": -7.172126599999999
+        }
+      }
+    },
+    "place_id": "ChIJJ0P9uCwVXUgR8O8xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1612,
+    "area_name": "Railyard",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Railyard",
+        "short_name": "Railyard",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cloneen",
+        "short_name": "Cloneen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cloneen, Railyard, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.83765,
+        "lng": -7.146739999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8389989802915,
+          "lng": -7.145391019708497
+        },
+        "southwest": {
+          "lat": 52.8363010197085,
+          "lng": -7.148088980291502
+        }
+      }
+    },
+    "place_id": "ChIJZ8A7wK5qXUgR8KLDAOfeiUg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1039,
+    "area_name": "Goresbridge",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Goresbridge",
+        "short_name": "Goresbridge",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Goresbridge, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.6338643,
+          "lng": -6.9879301
+        },
+        "southwest": {
+          "lat": 52.6271652,
+          "lng": -7.002008099999999
+        }
+      },
+      "location": {
+        "lat": 52.6297084,
+        "lng": -6.9940878
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6338643,
+          "lng": -6.9879301
+        },
+        "southwest": {
+          "lat": 52.6271652,
+          "lng": -7.002008099999999
+        }
+      }
+    },
+    "place_id": "ChIJB5vr9tNIXUgRIMwxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1613,
+    "area_name": "Coan",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Coan",
+        "short_name": "Coan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Coan West",
+        "short_name": "Coan West",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Coan West, Coan, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.7863018,
+        "lng": -7.1192731
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7876507802915,
+          "lng": -7.117924119708498
+        },
+        "southwest": {
+          "lat": 52.7849528197085,
+          "lng": -7.120622080291502
+        }
+      }
+    },
+    "place_id": "ChIJs8YLt4tAXUgRV-HzSerjoho",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1030,
+    "area_name": "Glenmore",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Glenmore",
+        "short_name": "Glenmore",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Graiguenakill",
+        "short_name": "Graiguenakill",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Graiguenakill, Glenmore, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.352761,
+        "lng": -7.025626399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.3541099802915,
+          "lng": -7.024277419708498
+        },
+        "southwest": {
+          "lat": 52.3514120197085,
+          "lng": -7.026975380291502
+        }
+      }
+    },
+    "place_id": "ChIJgeejdiTIQkgRwOLqN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1004,
+    "area_name": "Gowran",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Gowran",
+        "short_name": "Gowran",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Gowran, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.6339382,
+          "lng": -7.0581372
+        },
+        "southwest": {
+          "lat": 52.6257999,
+          "lng": -7.0791024
+        }
+      },
+      "location": {
+        "lat": 52.6290523,
+        "lng": -7.0665112
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6339382,
+          "lng": -7.0581372
+        },
+        "southwest": {
+          "lat": 52.6257999,
+          "lng": -7.0791024
+        }
+      }
+    },
+    "place_id": "ChIJNwUZf0lIXUgRgIkxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1543,
+    "area_name": "Gattabaun",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Gathabawn",
+        "short_name": "Gathabawn",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Coolcashin",
+        "short_name": "Coolcashin",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Coolcashin, Gathabawn, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.7668556,
+        "lng": -7.471610099999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7682045802915,
+          "lng": -7.470261119708497
+        },
+        "southwest": {
+          "lat": 52.7655066197085,
+          "lng": -7.472959080291502
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ8dHKUCoiXUgRIDTfN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1009,
+    "area_name": "Thomastown",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Thomastown",
+        "short_name": "Thomastown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Thomastown, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.5377393,
+          "lng": -7.1214135
+        },
+        "southwest": {
+          "lat": 52.514708,
+          "lng": -7.170303
+        }
+      },
+      "location": {
+        "lat": 52.5264574,
+        "lng": -7.1383205
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.5377393,
+          "lng": -7.1214135
+        },
+        "southwest": {
+          "lat": 52.514708,
+          "lng": -7.170303
+        }
+      }
+    },
+    "place_id": "ChIJaTlUlfk0XUgRgNYxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1019,
+    "area_name": "Dowling",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Kilkenny",
+        "short_name": "KK",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.677211,
+          "lng": -7.216920900000001
+        },
+        "southwest": {
+          "lat": 52.6313876,
+          "lng": -7.27535
+        }
+      },
+      "location": {
+        "lat": 52.6549027,
+        "lng": -7.246402900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.677211,
+          "lng": -7.216920900000001
+        },
+        "southwest": {
+          "lat": 52.6313876,
+          "lng": -7.27535
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJq8UjNKEwXUgRwHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1576,
+    "area_name": "Crutt",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Crutt",
+        "short_name": "Crutt",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Crutt, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8784796,
+          "lng": -7.1989988
+        },
+        "southwest": {
+          "lat": 52.85468909999999,
+          "lng": -7.2473594
+        }
+      },
+      "location": {
+        "lat": 52.8652874,
+        "lng": -7.219149
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8784796,
+          "lng": -7.1989988
+        },
+        "southwest": {
+          "lat": 52.85468909999999,
+          "lng": -7.2473594
+        }
+      }
+    },
+    "place_id": "ChIJnzRibksUXUgRItpSu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1017,
+    "area_name": "Mullenbeg",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Mullenbeg",
+        "short_name": "Mullenbeg",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "The Glebe",
+        "short_name": "The Glebe",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Mullenbeg, The Glebe, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.416095,
+          "lng": -7.287977
+        },
+        "southwest": {
+          "lat": 52.3958126,
+          "lng": -7.310576499999999
+        }
+      },
+      "location": {
+        "lat": 52.40712569999999,
+        "lng": -7.300151499999998
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.416095,
+          "lng": -7.287977
+        },
+        "southwest": {
+          "lat": 52.3958126,
+          "lng": -7.310576499999999
+        }
+      }
+    },
+    "place_id": "ChIJmazJQzzSQkgREwAUePfr-qE",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 991,
+    "area_name": "Piltown",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Piltown",
+        "short_name": "Piltown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Piltown, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.3601464,
+          "lng": -7.3148367
+        },
+        "southwest": {
+          "lat": 52.34153209999999,
+          "lng": -7.341387600000001
+        }
+      },
+      "location": {
+        "lat": 52.3511631,
+        "lng": -7.331338099999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.3601464,
+          "lng": -7.3148367
+        },
+        "southwest": {
+          "lat": 52.34153209999999,
+          "lng": -7.341387600000001
+        }
+      }
+    },
+    "place_id": "ChIJs0hUuB7RQkgRwNkxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1526,
+    "area_name": "Tubbrid",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Tubbrid",
+        "short_name": "Tubbrid",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Tubbrid Lower",
+        "short_name": "Tubbrid Lower",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Tubbrid Lower, Tubbrid, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.7094,
+        "lng": -7.494129999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7107489802915,
+          "lng": -7.492781019708497
+        },
+        "southwest": {
+          "lat": 52.7080510197085,
+          "lng": -7.495478980291502
+        }
+      }
+    },
+    "place_id": "ChIJHXxLKMQmXUgR0ZR442mFAWE",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3916,
+    "area_name": "Rathmoyle",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Rathmoyle",
+        "short_name": "Rathmoyle",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rathmoyle, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.6913802,
+          "lng": -7.3550715
+        },
+        "southwest": {
+          "lat": 52.67933859999999,
+          "lng": -7.374313900000001
+        }
+      },
+      "location": {
+        "lat": 52.6851491,
+        "lng": -7.362743399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6913802,
+          "lng": -7.3550715
+        },
+        "southwest": {
+          "lat": 52.67933859999999,
+          "lng": -7.374313900000001
+        }
+      }
+    },
+    "place_id": "ChIJRZiEAiUlXUgRUInfN6nHABg",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1596,
+    "area_name": "Skehana",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Skehana",
+        "short_name": "Skehana",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Deerpark",
+        "short_name": "Deerpark",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Skehana, Deerpark, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8521855,
+          "lng": -7.231338800000001
+        },
+        "southwest": {
+          "lat": 52.8314807,
+          "lng": -7.267771599999999
+        }
+      },
+      "location": {
+        "lat": 52.84397149999999,
+        "lng": -7.2467653
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8521855,
+          "lng": -7.231338800000001
+        },
+        "southwest": {
+          "lat": 52.8314807,
+          "lng": -7.267771599999999
+        }
+      }
+    },
+    "place_id": "ChIJL_D5wesVXUgRdgdFeoxZSiY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 998,
+    "area_name": "Stoneyford",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Stoneyford",
+        "short_name": "Stoneyford",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Stoneyford, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.5388244,
+          "lng": -7.220773599999999
+        },
+        "southwest": {
+          "lat": 52.5329892,
+          "lng": -7.2361137
+        }
+      },
+      "location": {
+        "lat": 52.5370387,
+        "lng": -7.229316900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.5388244,
+          "lng": -7.220773599999999
+        },
+        "southwest": {
+          "lat": 52.5329892,
+          "lng": -7.2361137
+        }
+      }
+    },
+    "place_id": "ChIJDzr5srozXUgR0NIxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 672,
+    "area_name": "Rochestown",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Rochestown",
+        "short_name": "Rochestown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rochestown, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.3654776,
+          "lng": -7.2026475
+        },
+        "southwest": {
+          "lat": 52.34472479999999,
+          "lng": -7.224555999999999
+        }
+      },
+      "location": {
+        "lat": 52.3573363,
+        "lng": -7.213885599999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.3654776,
+          "lng": -7.2026475
+        },
+        "southwest": {
+          "lat": 52.34472479999999,
+          "lng": -7.224555999999999
+        }
+      }
+    },
+    "place_id": "ChIJa885U1POQkgRAum6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1001,
+    "area_name": "Dunnamaggan",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Dunnamaggan",
+        "short_name": "Dunnamaggan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Dunnamaggan East",
+        "short_name": "Dunnamaggan East",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Dunnamaggan East, Dunnamaggan, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.5029811,
+        "lng": -7.2995129
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.5043300802915,
+          "lng": -7.298163919708498
+        },
+        "southwest": {
+          "lat": 52.5016321197085,
+          "lng": -7.300861880291502
+        }
+      }
+    },
+    "place_id": "ChIJ5f8FymYtXUgRcP8xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1523,
+    "area_name": "Johnstown",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Johnstown",
+        "short_name": "Johnstown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Glebe",
+        "short_name": "Glebe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Glebe, Johnstown, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.748611,
+        "lng": -7.556944
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7499599802915,
+          "lng": -7.555595019708497
+        },
+        "southwest": {
+          "lat": 52.7472620197085,
+          "lng": -7.558292980291502
+        }
+      }
+    },
+    "place_id": "ChIJiSd5BJMgXUgRsc6M7u4cC5U",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1003,
+    "area_name": "Dunben",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Kilkenny",
+        "short_name": "KK",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.677211,
+          "lng": -7.216920900000001
+        },
+        "southwest": {
+          "lat": 52.6313876,
+          "lng": -7.27535
+        }
+      },
+      "location": {
+        "lat": 52.6549027,
+        "lng": -7.246402900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.677211,
+          "lng": -7.216920900000001
+        },
+        "southwest": {
+          "lat": 52.6313876,
+          "lng": -7.27535
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJq8UjNKEwXUgRwHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1008,
+    "area_name": "Kiljames",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Kiljames",
+        "short_name": "Kiljames",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kiljames Lower",
+        "short_name": "Kiljames Lower",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kiljames Lower, Kiljames, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.53658,
+        "lng": -7.105519999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.5379289802915,
+          "lng": -7.104171019708497
+        },
+        "southwest": {
+          "lat": 52.5352310197085,
+          "lng": -7.106868980291502
+        }
+      }
+    },
+    "place_id": "ChIJbSQE4KE1XUgRG3-HmSJnAZk",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1005,
+    "area_name": "Flagmount",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Flagmount",
+        "short_name": "Flagmount",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Flagmount North",
+        "short_name": "Flagmount North",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Flagmount North, Flagmount, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.66592,
+        "lng": -7.09653
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6672689802915,
+          "lng": -7.095181019708497
+        },
+        "southwest": {
+          "lat": 52.6645710197085,
+          "lng": -7.097878980291502
+        }
+      }
+    },
+    "place_id": "ChIJKbsKT-NHXUgRgey6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1559,
+    "area_name": "Inchbeg",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Inchbeg",
+        "short_name": "Inchbeg",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Tulla Road",
+        "short_name": "Tulla Road",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Inchbeg, Tulla Road, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.7520205,
+          "lng": -7.3487163
+        },
+        "southwest": {
+          "lat": 52.7393604,
+          "lng": -7.3697607
+        }
+      },
+      "location": {
+        "lat": 52.7456957,
+        "lng": -7.3574176
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7520205,
+          "lng": -7.3487163
+        },
+        "southwest": {
+          "lat": 52.7393604,
+          "lng": -7.3697607
+        }
+      }
+    },
+    "place_id": "ChIJK2Nh3UwjXUgRlkeGNE8_vZ4",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1616,
+    "area_name": "Reenvanagh",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Kilkenny",
+        "short_name": "KK",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.677211,
+          "lng": -7.216920900000001
+        },
+        "southwest": {
+          "lat": 52.6313876,
+          "lng": -7.27535
+        }
+      },
+      "location": {
+        "lat": 52.6549027,
+        "lng": -7.246402900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.677211,
+          "lng": -7.216920900000001
+        },
+        "southwest": {
+          "lat": 52.6313876,
+          "lng": -7.27535
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJq8UjNKEwXUgRwHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4178,
+    "area_name": "Glendine",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Glendine",
+        "short_name": "Glendine",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Glendine, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.6775493,
+          "lng": -7.244808799999999
+        },
+        "southwest": {
+          "lat": 52.6687666,
+          "lng": -7.255564
+        }
+      },
+      "location": {
+        "lat": 52.67219189999999,
+        "lng": -7.250788899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6775493,
+          "lng": -7.244808799999999
+        },
+        "southwest": {
+          "lat": 52.6687666,
+          "lng": -7.255564
+        }
+      }
+    },
+    "place_id": "ChIJH6vIoxU6XUgR4lPHGajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1555,
+    "area_name": "Clonmantagh",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Clomantagh",
+        "short_name": "Clomantagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Clomantagh Lower",
+        "short_name": "Clomantagh Lower",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Clomantagh Lower, Clomantagh, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.72459,
+        "lng": -7.47811
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7259389802915,
+          "lng": -7.476761019708498
+        },
+        "southwest": {
+          "lat": 52.7232410197085,
+          "lng": -7.479458980291502
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJr9cz6jUhXUgRsP_eN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4221,
+    "area_name": "Jenkinstown",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Jenkinstown",
+        "short_name": "Jenkinstown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Foulksrath",
+        "short_name": "Foulksrath",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Foulksrath, Jenkinstown, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.7443303,
+        "lng": -7.322018699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7456792802915,
+          "lng": -7.320669719708497
+        },
+        "southwest": {
+          "lat": 52.74298131970851,
+          "lng": -7.323367680291502
+        }
+      }
+    },
+    "place_id": "ChIJ-dNoLoA8XUgR4OLqN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1011,
+    "area_name": "Newmarket",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Kilkenny",
+        "short_name": "KK",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.677211,
+          "lng": -7.216920900000001
+        },
+        "southwest": {
+          "lat": 52.6313876,
+          "lng": -7.27535
+        }
+      },
+      "location": {
+        "lat": 52.6549027,
+        "lng": -7.246402900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.677211,
+          "lng": -7.216920900000001
+        },
+        "southwest": {
+          "lat": 52.6313876,
+          "lng": -7.27535
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJq8UjNKEwXUgRwHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1521,
+    "area_name": "Galmoy",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Galmoy",
+        "short_name": "Galmoy",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Moneynamuck (Stopford)",
+        "short_name": "Moneynamuck (Stopford)",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Moneynamuck (Stopford), Galmoy, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.7925692,
+        "lng": -7.568244200000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.79391818029149,
+          "lng": -7.566895219708498
+        },
+        "southwest": {
+          "lat": 52.79122021970849,
+          "lng": -7.569593180291503
+        }
+      }
+    },
+    "place_id": "ChIJOXvndT0gXUgRovm6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4230,
+    "area_name": "Coon",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Coan",
+        "short_name": "Coan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Coan West",
+        "short_name": "Coan West",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Coan West, Coan, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.7863018,
+        "lng": -7.1192731
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7876507802915,
+          "lng": -7.117924119708498
+        },
+        "southwest": {
+          "lat": 52.7849528197085,
+          "lng": -7.120622080291502
+        }
+      }
+    },
+    "place_id": "ChIJs8YLt4tAXUgRV-HzSerjoho",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1598,
+    "area_name": "Coolbaun",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Coolbaun",
+        "short_name": "Coolbaun",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Coolbaun",
+        "short_name": "Coolbaun",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Coolbaun, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.8188028,
+        "lng": -7.177887600000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8201517802915,
+          "lng": -7.176538619708499
+        },
+        "southwest": {
+          "lat": 52.8174538197085,
+          "lng": -7.179236580291503
+        }
+      }
+    },
+    "place_id": "ChIJuzva5Oc_XUgRSxlZyHzCEYg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1012,
+    "area_name": "Hugginstown",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Hugginstown",
+        "short_name": "Hugginstown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kyleva",
+        "short_name": "Kyleva",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kyleva, Hugginstown, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.4519025,
+        "lng": -7.251225199999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.4532514802915,
+          "lng": -7.249876219708497
+        },
+        "southwest": {
+          "lat": 52.4505535197085,
+          "lng": -7.252574180291502
+        }
+      }
+    },
+    "place_id": "ChIJwYIkWWvNQkgR8AYyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1520,
+    "area_name": "Crosspatrick",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Crosspatrick",
+        "short_name": "Crosspatrick",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Toornamongan",
+        "short_name": "Toornamongan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Toornamongan, Crosspatrick, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.7721952,
+        "lng": -7.600731300000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.77354418029149,
+          "lng": -7.599382319708498
+        },
+        "southwest": {
+          "lat": 52.7708462197085,
+          "lng": -7.602080280291503
+        }
+      }
+    },
+    "place_id": "ChIJKzSls4_fXEgRwvq6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 971,
+    "area_name": "Corstown",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Corstown",
+        "short_name": "Corstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Corstown, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.6574391,
+          "lng": -7.372443099999999
+        },
+        "southwest": {
+          "lat": 52.6442355,
+          "lng": -7.389862699999999
+        }
+      },
+      "location": {
+        "lat": 52.64923659999999,
+        "lng": -7.382370199999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6574391,
+          "lng": -7.372443099999999
+        },
+        "southwest": {
+          "lat": 52.6442355,
+          "lng": -7.389862699999999
+        }
+      }
+    },
+    "place_id": "ChIJVS-vWnklXUgR0Z4R5SCWJZM",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 989,
+    "area_name": "Owning",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Owning",
+        "short_name": "Owning",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Fanningstown",
+        "short_name": "Fanningstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Fanningstown, Owning, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.3871482,
+        "lng": -7.343957299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.3884971802915,
+          "lng": -7.342608319708496
+        },
+        "southwest": {
+          "lat": 52.3857992197085,
+          "lng": -7.345306280291501
+        }
+      }
+    },
+    "place_id": "ChIJQWdSi2DRQkgRABoyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 664,
+    "area_name": "Dunkitt",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Dunkitt",
+        "short_name": "Dunkitt",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Dunkitt, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.2998361,
+          "lng": -7.1410046
+        },
+        "southwest": {
+          "lat": 52.2807128,
+          "lng": -7.1615841
+        }
+      },
+      "location": {
+        "lat": 52.29260499999999,
+        "lng": -7.1478775
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.2998361,
+          "lng": -7.1410046
+        },
+        "southwest": {
+          "lat": 52.2807128,
+          "lng": -7.1615841
+        }
+      }
+    },
+    "place_id": "ChIJ_37XIsLFQkgRAeq6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1599,
+    "area_name": "Smithstown",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Smithstown",
+        "short_name": "Smithstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Smithstown, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.80437209999999,
+          "lng": -7.162373499999999
+        },
+        "southwest": {
+          "lat": 52.7854313,
+          "lng": -7.1974279
+        }
+      },
+      "location": {
+        "lat": 52.7961717,
+        "lng": -7.1824804
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.80437209999999,
+          "lng": -7.162373499999999
+        },
+        "southwest": {
+          "lat": 52.7854313,
+          "lng": -7.1974279
+        }
+      }
+    },
+    "place_id": "ChIJi7yYS6U_XUgR4gq7GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1018,
+    "area_name": "Harristown",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Harristown",
+        "short_name": "Harristown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Harristown, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.4136673,
+          "lng": -7.241350799999999
+        },
+        "southwest": {
+          "lat": 52.391763,
+          "lng": -7.2675882
+        }
+      },
+      "location": {
+        "lat": 52.4029464,
+        "lng": -7.253098
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.4136673,
+          "lng": -7.241350799999999
+        },
+        "southwest": {
+          "lat": 52.391763,
+          "lng": -7.2675882
+        }
+      }
+    },
+    "place_id": "ChIJF94PXOTNQkgRgtdSu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3827,
+    "area_name": "Paulstown",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Paulstown",
+        "short_name": "Paulstown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Paulstown, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.6844803,
+          "lng": -7.0167937
+        },
+        "southwest": {
+          "lat": 52.6739159,
+          "lng": -7.0371703
+        }
+      },
+      "location": {
+        "lat": 52.6793223,
+        "lng": -7.021358999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6844803,
+          "lng": -7.0167937
+        },
+        "southwest": {
+          "lat": 52.6739159,
+          "lng": -7.0371703
+        }
+      }
+    },
+    "place_id": "ChIJR8_ZJhZGXUgRENcxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1002,
+    "area_name": "Coolgrange",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Coolgrange",
+        "short_name": "Coolgrange",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Clara",
+        "short_name": "Clara",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Coolgrange, Clara, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.6590539,
+          "lng": -7.121766999999999
+        },
+        "southwest": {
+          "lat": 52.6469675,
+          "lng": -7.1408989
+        }
+      },
+      "location": {
+        "lat": 52.6515881,
+        "lng": -7.128839900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6590539,
+          "lng": -7.121766999999999
+        },
+        "southwest": {
+          "lat": 52.6469675,
+          "lng": -7.1408989
+        }
+      }
+    },
+    "place_id": "ChIJNzKfXe43XUgRYtq6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4233,
+    "area_name": "Dungarvan",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Dungarvan",
+        "short_name": "Dungarvan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Dungarvan Glebe",
+        "short_name": "Dungarvan Glebe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Dungarvan Glebe, Dungarvan, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.5867607,
+        "lng": -7.0953358
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.5881096802915,
+          "lng": -7.093986819708498
+        },
+        "southwest": {
+          "lat": 52.5854117197085,
+          "lng": -7.096684780291502
+        }
+      }
+    },
+    "place_id": "ChIJ2bRKzRw2XUgRUP8xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1006,
+    "area_name": "Powerstown",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Powerstown",
+        "short_name": "Powerstown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Powerstown East",
+        "short_name": "Powerstown East",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Powerstown East, Powerstown, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.60597,
+        "lng": -7.01281
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6073189802915,
+          "lng": -7.011461019708498
+        },
+        "southwest": {
+          "lat": 52.6046210197085,
+          "lng": -7.014158980291502
+        }
+      }
+    },
+    "place_id": "ChIJV8a0jxVJXUgREEqWNzT21ek",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1552,
+    "area_name": "Freshford",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Freshford",
+        "short_name": "Freshford",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Freshford, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.7404325,
+          "lng": -7.3852858
+        },
+        "southwest": {
+          "lat": 52.728433,
+          "lng": -7.4123623
+        }
+      },
+      "location": {
+        "lat": 52.73250669999999,
+        "lng": -7.3981631
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7404325,
+          "lng": -7.3852858
+        },
+        "southwest": {
+          "lat": 52.728433,
+          "lng": -7.4123623
+        }
+      }
+    },
+    "place_id": "ChIJO_EY83wjXUgR8I4xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 988,
+    "area_name": "Tullaghought",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Tullahought",
+        "short_name": "Tullahought",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Knockeen",
+        "short_name": "Knockeen",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Tullahought, Knockeen, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.4301391,
+          "lng": -7.3581843
+        },
+        "southwest": {
+          "lat": 52.4206933,
+          "lng": -7.375734499999999
+        }
+      },
+      "location": {
+        "lat": 52.4263263,
+        "lng": -7.3680723
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.4301391,
+          "lng": -7.3581843
+        },
+        "southwest": {
+          "lat": 52.4206933,
+          "lng": -7.375734499999999
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJF2kirpzTQkgR5rQLzR3kH8U",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 662,
+    "area_name": "Mooncoin",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Mooncoin",
+        "short_name": "Mooncoin",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Mooncoin, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.2994463,
+          "lng": -7.2479137
+        },
+        "southwest": {
+          "lat": 52.2892714,
+          "lng": -7.267755599999999
+        }
+      },
+      "location": {
+        "lat": 52.2951134,
+        "lng": -7.2571128
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.2994463,
+          "lng": -7.2479137
+        },
+        "southwest": {
+          "lat": 52.2892714,
+          "lng": -7.267755599999999
+        }
+      }
+    },
+    "place_id": "ChIJx11oOqjaQkgR8HLfN6nHABg",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1611,
+    "area_name": "Kilderry",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Kilderry",
+        "short_name": "Kilderry",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilderry, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.6940175,
+          "lng": -7.1611907
+        },
+        "southwest": {
+          "lat": 52.6746354,
+          "lng": -7.1889471
+        }
+      },
+      "location": {
+        "lat": 52.6850964,
+        "lng": -7.1763651
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6940175,
+          "lng": -7.1611907
+        },
+        "southwest": {
+          "lat": 52.6746354,
+          "lng": -7.1889471
+        }
+      }
+    },
+    "place_id": "ChIJf_93cbQ5XUgRcgZTu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 671,
+    "area_name": "Slieverue",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Slieverue",
+        "short_name": "Slieverue",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Slieverue, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.2931773,
+          "lng": -7.0602572
+        },
+        "southwest": {
+          "lat": 52.2792526,
+          "lng": -7.075905499999999
+        }
+      },
+      "location": {
+        "lat": 52.2828142,
+        "lng": -7.0689659
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.2931773,
+          "lng": -7.0602572
+        },
+        "southwest": {
+          "lat": 52.2792526,
+          "lng": -7.075905499999999
+        }
+      }
+    },
+    "place_id": "ChIJMXCxWlLGQkgRMIsxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4235,
+    "area_name": "Dunmore",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Dunmore",
+        "short_name": "Dunmore",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilkenny",
+        "short_name": "KK",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Dunmore, Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.67217220000001,
+          "lng": -7.253121699999999
+        },
+        "southwest": {
+          "lat": 52.66837,
+          "lng": -7.2642045
+        }
+      },
+      "location": {
+        "lat": 52.6700589,
+        "lng": -7.2588374
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.67217220000001,
+          "lng": -7.253121699999999
+        },
+        "southwest": {
+          "lat": 52.66837,
+          "lng": -7.2642045
+        }
+      }
+    },
+    "place_id": "ChIJ8dLH0Gs6XUgRyGc8fdDdUhY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3935,
+    "area_name": "Cuffesgrange",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Cuffesgrange",
+        "short_name": "Cuffesgrange",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballybur Upper",
+        "short_name": "Ballybur Upper",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballybur Upper, Cuffesgrange, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.59173,
+        "lng": -7.3097
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.5930789802915,
+          "lng": -7.308351019708498
+        },
+        "southwest": {
+          "lat": 52.5903810197085,
+          "lng": -7.311048980291503
+        }
+      }
+    },
+    "place_id": "ChIJOxFBGzkuXUgRYBXfN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1545,
+    "area_name": "Clontubbrid",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Clontubbrid",
+        "short_name": "Clontubbrid",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballylarkin",
+        "short_name": "Ballylarkin",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Clontubbrid, Ballylarkin, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.7671795,
+          "lng": -7.398695399999999
+        },
+        "southwest": {
+          "lat": 52.75636919999999,
+          "lng": -7.4172715
+        }
+      },
+      "location": {
+        "lat": 52.7625915,
+        "lng": -7.4096528
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7671795,
+          "lng": -7.398695399999999
+        },
+        "southwest": {
+          "lat": 52.75636919999999,
+          "lng": -7.4172715
+        }
+      }
+    },
+    "place_id": "ChIJudjX8AUjXUgRb4jgJoLpegY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1025,
+    "area_name": "Coolroebeg",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Coolroebeg",
+        "short_name": "Coolroebeg",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballyduff Cross",
+        "short_name": "Ballyduff Cross",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Coolroebeg, Ballyduff Cross, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.4695645,
+          "lng": -7.1189689
+        },
+        "southwest": {
+          "lat": 52.4556041,
+          "lng": -7.149468499999999
+        }
+      },
+      "location": {
+        "lat": 52.4608737,
+        "lng": -7.1332289
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.4695645,
+          "lng": -7.1189689
+        },
+        "southwest": {
+          "lat": 52.4556041,
+          "lng": -7.149468499999999
+        }
+      }
+    },
+    "place_id": "ChIJ-x-DAxTLQkgRetpcGh8SDfQ",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1029,
+    "area_name": "Farnoge",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Farnoge",
+        "short_name": "Farnoge",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Coolnaleen",
+        "short_name": "Coolnaleen",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Farnoge, Coolnaleen, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.35644079999999,
+          "lng": -7.1082243
+        },
+        "southwest": {
+          "lat": 52.34712409999999,
+          "lng": -7.129046799999999
+        }
+      },
+      "location": {
+        "lat": 52.3503549,
+        "lng": -7.1173866
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.35644079999999,
+          "lng": -7.1082243
+        },
+        "southwest": {
+          "lat": 52.34712409999999,
+          "lng": -7.129046799999999
+        }
+      }
+    },
+    "place_id": "ChIJ-5mAk9zIQkgRkfK6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1015,
+    "area_name": "Kilkeasy",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Kilkeasy",
+        "short_name": "Kilkeasy",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "New Chapel",
+        "short_name": "New Chapel",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilkeasy, New Chapel, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.4468498,
+          "lng": -7.203475000000001
+        },
+        "southwest": {
+          "lat": 52.4243293,
+          "lng": -7.239713699999999
+        }
+      },
+      "location": {
+        "lat": 52.4376976,
+        "lng": -7.2238073
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.4468498,
+          "lng": -7.203475000000001
+        },
+        "southwest": {
+          "lat": 52.4243293,
+          "lng": -7.239713699999999
+        }
+      }
+    },
+    "place_id": "ChIJL0xTp6rNQkgRoue6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1563,
+    "area_name": "Three Castles",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Threecastles",
+        "short_name": "Threecastles",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Threecastles Demesne",
+        "short_name": "Threecastles Demesne",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Threecastles Demesne, Threecastles, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.7117833,
+        "lng": -7.3268589
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7131322802915,
+          "lng": -7.325509919708498
+        },
+        "southwest": {
+          "lat": 52.7104343197085,
+          "lng": -7.328207880291502
+        }
+      }
+    },
+    "place_id": "ChIJo0xOXz87XUgRkQW7GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 970,
+    "area_name": "Tullaroan",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Tullaroan",
+        "short_name": "Tullaroan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Tullaroan, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.6708182,
+          "lng": -7.4192879
+        },
+        "southwest": {
+          "lat": 52.65560010000001,
+          "lng": -7.4433643
+        }
+      },
+      "location": {
+        "lat": 52.66375739999999,
+        "lng": -7.430628899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6708182,
+          "lng": -7.4192879
+        },
+        "southwest": {
+          "lat": 52.65560010000001,
+          "lng": -7.4433643
+        }
+      }
+    },
+    "place_id": "ChIJFeNyssIlXUgRin0x50WDvBo",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1024,
+    "area_name": "Inistioge",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Inistioge",
+        "short_name": "Inistioge",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Inistioge, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.4932058,
+          "lng": -7.0633041
+        },
+        "southwest": {
+          "lat": 52.4858299,
+          "lng": -7.0713855
+        }
+      },
+      "location": {
+        "lat": 52.4884908,
+        "lng": -7.065458899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.4932058,
+          "lng": -7.0633041
+        },
+        "southwest": {
+          "lat": 52.4858299,
+          "lng": -7.0713855
+        }
+      }
+    },
+    "place_id": "ChIJS5tdQVW1QkgRIIoxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1044,
+    "area_name": "Rosbercon",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Rosbercon",
+        "short_name": "Rosbercon",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rosbercon, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.4041529,
+          "lng": -6.9505719
+        },
+        "southwest": {
+          "lat": 52.3939806,
+          "lng": -6.9634325
+        }
+      },
+      "location": {
+        "lat": 52.4008704,
+        "lng": -6.9544839
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.4041529,
+          "lng": -6.9505719
+        },
+        "southwest": {
+          "lat": 52.3939806,
+          "lng": -6.9634325
+        }
+      }
+    },
+    "place_id": "ChIJBfigRLm2QkgRgoLHGajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1022,
+    "area_name": "Mullinavat",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Mullinavat",
+        "short_name": "Mullinavat",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Mullinavat, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.37347150000001,
+          "lng": -7.1660808
+        },
+        "southwest": {
+          "lat": 52.36402649999999,
+          "lng": -7.183190799999999
+        }
+      },
+      "location": {
+        "lat": 52.3679303,
+        "lng": -7.1711881
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.37347150000001,
+          "lng": -7.1660808
+        },
+        "southwest": {
+          "lat": 52.36402649999999,
+          "lng": -7.183190799999999
+        }
+      }
+    },
+    "place_id": "ChIJY05358LOQkgRsIgxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1608,
+    "area_name": "Whitehall",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Whitehall",
+        "short_name": "Whitehall",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Graiguenamanagh-Tinnahinch",
+        "short_name": "Graiguenamanagh-Tinnahinch",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Whitehall, Graiguenamanagh-Tinnahinch, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.54278069999999,
+        "lng": -6.9509552
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.54412968029149,
+          "lng": -6.949606219708498
+        },
+        "southwest": {
+          "lat": 52.54143171970849,
+          "lng": -6.952304180291502
+        }
+      }
+    },
+    "place_id": "ChIJD_U8IYhMXUgRkljDuqfHACY",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  },
+  {
+    "area_id": 1040,
+    "area_name": "Graiguenamanagh",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Graiguenamanagh",
+        "short_name": "Graiguenamanagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Graiguenamanagh",
+        "short_name": "Graiguenamanagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Graiguenamanagh, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.5409689,
+        "lng": -6.955470699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.54231788029151,
+          "lng": -6.954121719708497
+        },
+        "southwest": {
+          "lat": 52.53961991970851,
+          "lng": -6.956819680291502
+        }
+      }
+    },
+    "place_id": "ChIJn_DRo31MXUgRQIwxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 993,
+    "area_name": "Kilkenny",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Kilkenny",
+        "short_name": "KK",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.677211,
+          "lng": -7.216920900000001
+        },
+        "southwest": {
+          "lat": 52.6313876,
+          "lng": -7.27535
+        }
+      },
+      "location": {
+        "lat": 52.6549027,
+        "lng": -7.246402900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.677211,
+          "lng": -7.216920900000001
+        },
+        "southwest": {
+          "lat": 52.6313876,
+          "lng": -7.27535
+        }
+      }
+    },
+    "place_id": "ChIJq8UjNKEwXUgRwHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 660,
+    "area_name": "Dangan",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Dangan",
+        "short_name": "Dangan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballyduff Cross",
+        "short_name": "Ballyduff Cross",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Dangan, Ballyduff Cross, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.5296481,
+          "lng": -7.109380199999999
+        },
+        "southwest": {
+          "lat": 52.51362229999999,
+          "lng": -7.132719
+        }
+      },
+      "location": {
+        "lat": 52.5214405,
+        "lng": -7.1219155
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.5296481,
+          "lng": -7.109380199999999
+        },
+        "southwest": {
+          "lat": 52.51362229999999,
+          "lng": -7.132719
+        }
+      }
+    },
+    "place_id": "ChIJDVHW_hw1XUgRslPHGajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 992,
+    "area_name": "Grange",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "The Grange",
+        "short_name": "The Grange",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Kilkenny",
+        "short_name": "KK",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "The Grange, Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.66602229999999,
+          "lng": -7.267134599999999
+        },
+        "southwest": {
+          "lat": 52.665363,
+          "lng": -7.268212999999999
+        }
+      },
+      "location": {
+        "lat": 52.665755,
+        "lng": -7.2676507
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": 52.66704163029149,
+          "lng": -7.266324819708497
+        },
+        "southwest": {
+          "lat": 52.66434366970849,
+          "lng": -7.2690227802915
+        }
+      }
+    },
+    "place_id": "ChIJv4WgsWU6XUgRKxuzUToHRPk",
+    "types": [
+      "route"
+    ]
+  },
+  {
+    "area_id": 997,
+    "area_name": "Kells",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Kells",
+        "short_name": "Kells",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kells, Co. Kilkenny, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.542254,
+          "lng": -7.269945099999999
+        },
+        "southwest": {
+          "lat": 52.5347821,
+          "lng": -7.282640199999999
+        }
+      },
+      "location": {
+        "lat": 52.5396697,
+        "lng": -7.273187099999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.542254,
+          "lng": -7.269945099999999
+        },
+        "southwest": {
+          "lat": 52.5347821,
+          "lng": -7.282640199999999
+        }
+      }
+    },
+    "place_id": "ChIJdeeYCGoyXUgRsOoxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4242,
+    "area_name": "Johnswell",
+    "county_name": "Kilkenny",
+    "county_id": 11,
+    "address_components": [
+      {
+        "long_name": "Johnswell Village",
+        "short_name": "Johnswell Village",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Johnswell",
+        "short_name": "Johnswell",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Johnswell, Johnswell Village, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.70091,
+        "lng": -7.171270000000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7022589802915,
+          "lng": -7.169921019708498
+        },
+        "southwest": {
+          "lat": 52.6995610197085,
+          "lng": -7.172618980291503
+        }
+      }
+    },
+    "place_id": "ChIJoaPQZf84XUgRPkOE61evrvw",
+    "types": [
+      "locality",
+      "political"
+    ]
+  }
+]

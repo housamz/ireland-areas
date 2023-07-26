@@ -1,0 +1,4390 @@
+[
+  {
+    "area_id": 3058,
+    "area_name": "Carrigallen",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Carrigallen",
+        "short_name": "Carrigallen",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Clooncorick",
+        "short_name": "Clooncorick",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Clooncorick, Carrigallen, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.9769348,
+        "lng": -7.644325899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9782837802915,
+          "lng": -7.642976919708497
+        },
+        "southwest": {
+          "lat": 53.9755858197085,
+          "lng": -7.645674880291502
+        }
+      }
+    },
+    "place_id": "ChIJRQEB61ZwXkgRkOgxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3351,
+    "area_name": "Aughnasheelan",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Aughnasheelin",
+        "short_name": "Aughnasheelin",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Corrabeegher",
+        "short_name": "Corrabeegher",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Corrabeegher, Aughnasheelin, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.06779,
+        "lng": -7.863939999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0691389802915,
+          "lng": -7.862591019708497
+        },
+        "southwest": {
+          "lat": 54.0664410197085,
+          "lng": -7.865288980291502
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ5bJhO9pjXkgRYDPfN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1941,
+    "area_name": "Askill",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Askill",
+        "short_name": "Askill",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Askill, Co. Leitrim, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.4582018,
+          "lng": -8.179167999999999
+        },
+        "southwest": {
+          "lat": 54.4405678,
+          "lng": -8.2104501
+        }
+      },
+      "location": {
+        "lat": 54.4521092,
+        "lng": -8.1905397
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.4582018,
+          "lng": -8.179167999999999
+        },
+        "southwest": {
+          "lat": 54.4405678,
+          "lng": -8.2104501
+        }
+      }
+    },
+    "place_id": "ChIJ2wJ_MY7-XkgRZZBosHAVAwM",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3954,
+    "area_name": "Dowra",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Leitrim Village",
+        "short_name": "Leitrim Village",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Leitrim",
+        "short_name": "Leitrim",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Leitrim, Leitrim Village, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.99019,
+        "lng": -8.06501
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9915389802915,
+          "lng": -8.063661019708498
+        },
+        "southwest": {
+          "lat": 53.9888410197085,
+          "lng": -8.0663589802915
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ30SxylePXkgRgTHtxGnzRM0",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3032,
+    "area_name": "Aghamore",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Aghamore",
+        "short_name": "Aghamore",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Aghintass",
+        "short_name": "Aghintass",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Aghintass, Aghamore, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.89899519999999,
+        "lng": -7.9539796
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9003441802915,
+          "lng": -7.952630619708498
+        },
+        "southwest": {
+          "lat": 53.8976462197085,
+          "lng": -7.955328580291503
+        }
+      }
+    },
+    "place_id": "ChIJy0nVGdCAXkgR6HSgQlIQiKU",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3830,
+    "area_name": "Bornacoola",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Bornacoola",
+        "short_name": "Bornacoola",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Johnstonsbridge",
+        "short_name": "Johnstonsbridge",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Bornacoola, Johnstonsbridge, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.8293513,
+        "lng": -7.865780999999998
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8307002802915,
+          "lng": -7.864432019708497
+        },
+        "southwest": {
+          "lat": 53.8280023197085,
+          "lng": -7.867129980291501
+        }
+      }
+    },
+    "place_id": "ChIJBUyx0fV_XkgR4ehXccQgjcI",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  },
+  {
+    "area_id": 3039,
+    "area_name": "Aughavas",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Aughavas",
+        "short_name": "Aughavas",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Aghavas",
+        "short_name": "Aghavas",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Aghavas, Aughavas, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.95603,
+        "lng": -7.715800000000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.95737898029149,
+          "lng": -7.714451019708498
+        },
+        "southwest": {
+          "lat": 53.9546810197085,
+          "lng": -7.717148980291503
+        }
+      }
+    },
+    "place_id": "ChIJYyGJUPF6XkgRgC7fN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3959,
+    "area_name": "Aughacashel",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Aghacashel",
+        "short_name": "Aghacashel",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Annadale",
+        "short_name": "Annadale",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Aghacashel, Annadale, Co. Leitrim, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.0802136,
+          "lng": -7.9215779
+        },
+        "southwest": {
+          "lat": 54.065102,
+          "lng": -7.950469799999999
+        }
+      },
+      "location": {
+        "lat": 54.0732323,
+        "lng": -7.93631
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0802136,
+          "lng": -7.9215779
+        },
+        "southwest": {
+          "lat": 54.065102,
+          "lng": -7.950469799999999
+        }
+      }
+    },
+    "place_id": "ChIJA-sIfxZiXkgRgp-6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3037,
+    "area_name": "Cloone",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Cloone",
+        "short_name": "Cloone",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cloone",
+        "short_name": "Cloone",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cloone, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.9458795,
+        "lng": -7.785339599999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.94722848029149,
+          "lng": -7.783990619708496
+        },
+        "southwest": {
+          "lat": 53.94453051970849,
+          "lng": -7.786688580291501
+        }
+      }
+    },
+    "place_id": "ChIJn_zsxJN7XkgREMoxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4036,
+    "area_name": "Annaduff",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Annaduff",
+        "short_name": "Annaduff",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Annaduff, Co. Leitrim, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.9288144,
+          "lng": -7.9798145
+        },
+        "southwest": {
+          "lat": 53.9168315,
+          "lng": -7.998715
+        }
+      },
+      "location": {
+        "lat": 53.92259600000001,
+        "lng": -7.989463499999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9288144,
+          "lng": -7.9798145
+        },
+        "southwest": {
+          "lat": 53.9168315,
+          "lng": -7.998715
+        }
+      }
+    },
+    "place_id": "ChIJSyEdp9eGXkgRUp1Qu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3324,
+    "area_name": "Ballinagleragh",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Ballinagleragh",
+        "short_name": "Ballinagleragh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Drumnafinnila",
+        "short_name": "Drumnafinnila",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Drumnafinnila, Ballinagleragh, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.1562956,
+        "lng": -8.0079228
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.1576445802915,
+          "lng": -8.006573819708496
+        },
+        "southwest": {
+          "lat": 54.1549466197085,
+          "lng": -8.0092717802915
+        }
+      }
+    },
+    "place_id": "ChIJK_7-zbmKXkgR8Noxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3355,
+    "area_name": "Ballinamore",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Ballinamore",
+        "short_name": "Ballinamore",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cannaboe",
+        "short_name": "Cannaboe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cannaboe, Ballinamore, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.0522181,
+        "lng": -7.8032043
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0535670802915,
+          "lng": -7.801855319708498
+        },
+        "southwest": {
+          "lat": 54.0508691197085,
+          "lng": -7.804553280291502
+        }
+      }
+    },
+    "place_id": "ChIJd-QGTV5kXkgRYOYxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1910,
+    "area_name": "Balloor",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Balloor",
+        "short_name": "Balloor",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Tawly",
+        "short_name": "Tawly",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Tawly, Balloor, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.43807,
+        "lng": -8.37739
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.43941898029151,
+          "lng": -8.376041019708497
+        },
+        "southwest": {
+          "lat": 54.43672101970851,
+          "lng": -8.378738980291502
+        }
+      }
+    },
+    "place_id": "ChIJD5kG2aXjXkgRlsj1KpEDa5k",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3957,
+    "area_name": "Aghacashel",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Aghacashel",
+        "short_name": "Aghacashel",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Annadale",
+        "short_name": "Annadale",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Aghacashel, Annadale, Co. Leitrim, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.0802136,
+          "lng": -7.9215779
+        },
+        "southwest": {
+          "lat": 54.065102,
+          "lng": -7.950469799999999
+        }
+      },
+      "location": {
+        "lat": 54.0732323,
+        "lng": -7.93631
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0802136,
+          "lng": -7.9215779
+        },
+        "southwest": {
+          "lat": 54.065102,
+          "lng": -7.950469799999999
+        }
+      }
+    },
+    "place_id": "ChIJA-sIfxZiXkgRgp-6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3034,
+    "area_name": "Dromod",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Drumod",
+        "short_name": "Drumod",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Clooncolry",
+        "short_name": "Clooncolry",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Clooncolry, Drumod, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.8575697,
+        "lng": -7.9208348
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8589186802915,
+          "lng": -7.919485819708497
+        },
+        "southwest": {
+          "lat": 53.8562207197085,
+          "lng": -7.922183780291502
+        }
+      }
+    },
+    "place_id": "ChIJJxnkJ2aAXkgRMHsxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3012,
+    "area_name": "Carrick-on-Shannon",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Carrick-On-Shannon",
+        "short_name": "Carrick-On-Shannon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carrick-On-Shannon, Co. Leitrim, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.9608183,
+          "lng": -8.0663085
+        },
+        "southwest": {
+          "lat": 53.9354056,
+          "lng": -8.102148999999999
+        }
+      },
+      "location": {
+        "lat": 53.94511559999999,
+        "lng": -8.086187899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9608183,
+          "lng": -8.0663085
+        },
+        "southwest": {
+          "lat": 53.9354056,
+          "lng": -8.102148999999999
+        }
+      }
+    },
+    "place_id": "ChIJ2wkXHqqFXkgR1QZ4cbpbnVw",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1943,
+    "area_name": "Buckode",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Buckode",
+        "short_name": "Buckode",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Sracummer",
+        "short_name": "Sracummer",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Sracummer, Buckode, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.425768,
+        "lng": -8.2132504
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.4271169802915,
+          "lng": -8.211901419708498
+        },
+        "southwest": {
+          "lat": 54.4244190197085,
+          "lng": -8.214599380291503
+        }
+      }
+    },
+    "place_id": "ChIJTTPMwgz8XkgROQVIelokIhw",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3354,
+    "area_name": "Corraleehan",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Corraleehan",
+        "short_name": "Corraleehan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Mountain View",
+        "short_name": "Mountain View",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Corraleehan, Mountain View, Co. Leitrim, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.1137094,
+          "lng": -7.786544300000001
+        },
+        "southwest": {
+          "lat": 54.105516,
+          "lng": -7.8038094
+        }
+      },
+      "location": {
+        "lat": 54.1084252,
+        "lng": -7.7947735
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.1137094,
+          "lng": -7.786544300000001
+        },
+        "southwest": {
+          "lat": 54.105516,
+          "lng": -7.8038094
+        }
+      }
+    },
+    "place_id": "ChIJxb_0JIlmXkgRwjRRu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3014,
+    "area_name": "Drumsna",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Drumsna",
+        "short_name": "Drumsna",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Drumsna",
+        "short_name": "Drumsna",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Drumsna, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.9269176,
+        "lng": -8.0079271
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.92826658029149,
+          "lng": -8.006578119708498
+        },
+        "southwest": {
+          "lat": 53.92556861970849,
+          "lng": -8.009276080291503
+        }
+      }
+    },
+    "place_id": "ChIJn7bk-7-GXkgRUHoxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3359,
+    "area_name": "Corrawaleen",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Corrawaleen",
+        "short_name": "Corrawaleen",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Corrawaleen",
+        "short_name": "Corrawaleen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Corrawaleen, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.01073,
+        "lng": -7.710082900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0120789802915,
+          "lng": -7.708733919708498
+        },
+        "southwest": {
+          "lat": 54.0093810197085,
+          "lng": -7.711431880291502
+        }
+      }
+    },
+    "place_id": "ChIJJceCF6t6XkgRNVstUu2HNCw",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3038,
+    "area_name": "Cloone Grange",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Cloone",
+        "short_name": "Cloone",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cloone",
+        "short_name": "Cloone",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cloone, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.9458795,
+        "lng": -7.785339599999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.94722848029149,
+          "lng": -7.783990619708496
+        },
+        "southwest": {
+          "lat": 53.94453051970849,
+          "lng": -7.786688580291501
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJn_zsxJN7XkgREMoxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3335,
+    "area_name": "Drumshanbo",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Drumshanbo",
+        "short_name": "Drumshanbo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Drumshanbo",
+        "short_name": "Drumshanbo",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Drumshanbo, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.04780040000001,
+        "lng": -8.0400238
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.04914938029151,
+          "lng": -8.038674819708497
+        },
+        "southwest": {
+          "lat": 54.04645141970851,
+          "lng": -8.041372780291502
+        }
+      }
+    },
+    "place_id": "ChIJtS_OwBeJXkgRoLgxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3319,
+    "area_name": "Corracloona",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Corracloona",
+        "short_name": "Corracloona",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Corracloona, Co. Leitrim, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.3462267,
+          "lng": -7.9780188
+        },
+        "southwest": {
+          "lat": 54.328228,
+          "lng": -8.0156732
+        }
+      },
+      "location": {
+        "lat": 54.3369477,
+        "lng": -7.9968409
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.3462267,
+          "lng": -7.9780188
+        },
+        "southwest": {
+          "lat": 54.328228,
+          "lng": -8.0156732
+        }
+      }
+    },
+    "place_id": "ChIJcyzYUCRYXkgRVXil_Y9WUw8",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3040,
+    "area_name": "Corriga",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Corriga",
+        "short_name": "Corriga",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Corriga",
+        "short_name": "Corriga",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Corriga, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.9390879,
+        "lng": -7.6908465
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9404368802915,
+          "lng": -7.689497519708498
+        },
+        "southwest": {
+          "lat": 53.9377389197085,
+          "lng": -7.692195480291502
+        }
+      }
+    },
+    "place_id": "ChIJk1D53Ah6XkgRoNN2mK_b6xY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3357,
+    "area_name": "Dromlea",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Drumlea",
+        "short_name": "Drumlea",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Drumlea, Co. Leitrim, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.0285819,
+          "lng": -7.7239936
+        },
+        "southwest": {
+          "lat": 54.0122536,
+          "lng": -7.7478814
+        }
+      },
+      "location": {
+        "lat": 54.0190531,
+        "lng": -7.7351211
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0285819,
+          "lng": -7.7239936
+        },
+        "southwest": {
+          "lat": 54.0122536,
+          "lng": -7.7478814
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJPWfp6E5lXkgRUqy6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3334,
+    "area_name": "Dorrusawillin",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Dorrusawillin",
+        "short_name": "Dorrusawillin",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Dorrusawillin, Co. Leitrim, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.0605499,
+          "lng": -8.0032599
+        },
+        "southwest": {
+          "lat": 54.05046590000001,
+          "lng": -8.022948
+        }
+      },
+      "location": {
+        "lat": 54.0570864,
+        "lng": -8.0149137
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0605499,
+          "lng": -8.0032599
+        },
+        "southwest": {
+          "lat": 54.05046590000001,
+          "lng": -8.022948
+        }
+      }
+    },
+    "place_id": "ChIJE0j_ngqJXkgRzv6YPQ9K99Y",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3042,
+    "area_name": "Farnaght",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Farnaght",
+        "short_name": "Farnaght",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Breanross South",
+        "short_name": "Breanross South",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Breanross South, Farnaght, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.8628721,
+        "lng": -7.816103
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.86422108029149,
+          "lng": -7.814754019708498
+        },
+        "southwest": {
+          "lat": 53.86152311970849,
+          "lng": -7.817451980291501
+        }
+      }
+    },
+    "place_id": "ChIJReKzXhd_XkgRirvwqf9DZcY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1939,
+    "area_name": "Kinlough",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Kinlough",
+        "short_name": "Kinlough",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kinlough",
+        "short_name": "Kinlough",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kinlough, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.4487146,
+        "lng": -8.2858213
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.45006358029149,
+          "lng": -8.284472319708499
+        },
+        "southwest": {
+          "lat": 54.4473656197085,
+          "lng": -8.287170280291502
+        }
+      }
+    },
+    "place_id": "ChIJ7YLq2dz8XkgRYO8xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1950,
+    "area_name": "Lissiniska",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Lissiniska",
+        "short_name": "Lissiniska",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lissiniska, Co. Leitrim, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.4017266,
+          "lng": -8.1565624
+        },
+        "southwest": {
+          "lat": 54.38463429999999,
+          "lng": -8.180375
+        }
+      },
+      "location": {
+        "lat": 54.39438029999999,
+        "lng": -8.167365
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.4017266,
+          "lng": -8.1565624
+        },
+        "southwest": {
+          "lat": 54.38463429999999,
+          "lng": -8.180375
+        }
+      }
+    },
+    "place_id": "ChIJV_FFxHr5XkgRQvhPu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3386,
+    "area_name": "Killygar",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Killygar",
+        "short_name": "Killygar",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Gurteen",
+        "short_name": "Gurteen",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Killygar, Gurteen, Co. Leitrim, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.0152344,
+          "lng": -7.5963027
+        },
+        "southwest": {
+          "lat": 54.0041622,
+          "lng": -7.6148156
+        }
+      },
+      "location": {
+        "lat": 54.0102979,
+        "lng": -7.608456199999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0152344,
+          "lng": -7.5963027
+        },
+        "southwest": {
+          "lat": 54.0041622,
+          "lng": -7.6148156
+        }
+      }
+    },
+    "place_id": "ChIJ-0DLwONxXkgRoq26GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3320,
+    "area_name": "Lissinagroagh",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Lissinagroagh",
+        "short_name": "Lissinagroagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Loughaphonta",
+        "short_name": "Loughaphonta",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Loughaphonta, Lissinagroagh, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.3062755,
+        "lng": -8.107372999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.3076244802915,
+          "lng": -8.106024019708496
+        },
+        "southwest": {
+          "lat": 54.3049265197085,
+          "lng": -8.1087219802915
+        }
+      }
+    },
+    "place_id": "ChIJBbRuWBD3XkgRduhmuLRk4jU",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3346,
+    "area_name": "Glenfarne",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Glenfarne",
+        "short_name": "Glenfarne",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Brockagh Lower",
+        "short_name": "Brockagh Lower",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Brockagh Lower, Glenfarne, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.28440209999999,
+        "lng": -7.985652399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.28575108029149,
+          "lng": -7.984303419708497
+        },
+        "southwest": {
+          "lat": 54.2830531197085,
+          "lng": -7.987001380291502
+        }
+      }
+    },
+    "place_id": "ChIJwWmO--tYXkgR0AMyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1951,
+    "area_name": "Rossinver",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Rossinver",
+        "short_name": "Rossinver",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Conray",
+        "short_name": "Conray",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Conray, Rossinver, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.3851825,
+        "lng": -8.111718399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.3865314802915,
+          "lng": -8.110369419708498
+        },
+        "southwest": {
+          "lat": 54.3838335197085,
+          "lng": -8.113067380291502
+        }
+      }
+    },
+    "place_id": "ChIJX4pCJAL5XkgRMpu6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3321,
+    "area_name": "Glenboy",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Glenboy",
+        "short_name": "Glenboy",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Glenboy",
+        "short_name": "Glenboy",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Glenboy, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.2868277,
+        "lng": -8.132842199999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.28817668029149,
+          "lng": -8.131493219708497
+        },
+        "southwest": {
+          "lat": 54.2854787197085,
+          "lng": -8.134191180291502
+        }
+      }
+    },
+    "place_id": "ChIJhePyxdb2XkgRWhOwkfMgBkg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3332,
+    "area_name": "Lecarrow",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Lecarrow",
+        "short_name": "Lecarrow",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lecarrow, Co. Leitrim, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.1534104,
+          "lng": -8.0955494
+        },
+        "southwest": {
+          "lat": 54.142604,
+          "lng": -8.111431
+        }
+      },
+      "location": {
+        "lat": 54.1459816,
+        "lng": -8.1053525
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.1534104,
+          "lng": -8.0955494
+        },
+        "southwest": {
+          "lat": 54.142604,
+          "lng": -8.111431
+        }
+      }
+    },
+    "place_id": "ChIJn2kBrKeMXkgRJyKCXUf3lT8",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3318,
+    "area_name": "Manorhamilton",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Manorhamilton",
+        "short_name": "Manorhamilton",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Manorhamilton",
+        "short_name": "Manorhamilton",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Manorhamilton, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.3048735,
+        "lng": -8.1766956
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.3062224802915,
+          "lng": -8.175346619708499
+        },
+        "southwest": {
+          "lat": 54.3035245197085,
+          "lng": -8.178044580291504
+        }
+      }
+    },
+    "place_id": "ChIJ8xO50MPwXkgRwHYxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1945,
+    "area_name": "Rooskey",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Rooskey",
+        "short_name": "Rooskey",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Ospray Park",
+        "short_name": "Ospray Park",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rooskey, Ospray Park, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.827075,
+        "lng": -7.9168239
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8284239802915,
+          "lng": -7.915474919708497
+        },
+        "southwest": {
+          "lat": 53.8257260197085,
+          "lng": -7.918172880291502
+        }
+      }
+    },
+    "place_id": "ChIJc1deex-AXkgREnDep_qLRi4",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  },
+  {
+    "area_id": 3955,
+    "area_name": "Shruffanagh",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Leitrim Village",
+        "short_name": "Leitrim Village",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Leitrim",
+        "short_name": "Leitrim",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Leitrim, Leitrim Village, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.99019,
+        "lng": -8.06501
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9915389802915,
+          "lng": -8.063661019708498
+        },
+        "southwest": {
+          "lat": 53.9888410197085,
+          "lng": -8.0663589802915
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ30SxylePXkgRgTHtxGnzRM0",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1942,
+    "area_name": "Largydonnell",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Largydonnell",
+        "short_name": "Largydonnell",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Largydonnell, Co. Leitrim, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.4152907,
+          "lng": -8.2755761
+        },
+        "southwest": {
+          "lat": 54.3991096,
+          "lng": -8.3074434
+        }
+      },
+      "location": {
+        "lat": 54.4082997,
+        "lng": -8.2927632
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.4152907,
+          "lng": -8.2755761
+        },
+        "southwest": {
+          "lat": 54.3991096,
+          "lng": -8.3074434
+        }
+      }
+    },
+    "place_id": "ChIJ17N8ULjkXkgRkGDfN6nHABg",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1911,
+    "area_name": "Tullaghan",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Tullaghan",
+        "short_name": "Tullaghan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Sheean",
+        "short_name": "Sheean",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Sheean, Tullaghan, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.468449,
+        "lng": -8.3290498
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.4697979802915,
+          "lng": -8.327700819708497
+        },
+        "southwest": {
+          "lat": 54.4671000197085,
+          "lng": -8.330398780291501
+        }
+      }
+    },
+    "place_id": "ChIJNb33Ds_iXkgREKgxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3356,
+    "area_name": "Fenagh",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Fenagh",
+        "short_name": "Fenagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Knockmullin",
+        "short_name": "Knockmullin",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Knockmullin, Fenagh, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.02020169999999,
+        "lng": -7.834616100000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0215506802915,
+          "lng": -7.833267119708498
+        },
+        "southwest": {
+          "lat": 54.0188527197085,
+          "lng": -7.835965080291503
+        }
+      }
+    },
+    "place_id": "ChIJaZzk_FpjXkgRkqO6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3323,
+    "area_name": "Corry",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Corry",
+        "short_name": "Corry",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Derrinwillin Glebe",
+        "short_name": "Derrinwillin Glebe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Derrinwillin Glebe, Corry, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.1704636,
+        "lng": -8.0654971
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.1718125802915,
+          "lng": -8.064148119708497
+        },
+        "southwest": {
+          "lat": 54.1691146197085,
+          "lng": -8.066846080291501
+        }
+      }
+    },
+    "place_id": "ChIJnR8-rLj0XkgR0A_fN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3316,
+    "area_name": "Beagh",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Beagh",
+        "short_name": "Beagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Beagh, Co. Leitrim, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.1855177,
+          "lng": -8.2266517
+        },
+        "southwest": {
+          "lat": 54.1612065,
+          "lng": -8.2580454
+        }
+      },
+      "location": {
+        "lat": 54.1757369,
+        "lng": -8.242009699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.1855177,
+          "lng": -8.2266517
+        },
+        "southwest": {
+          "lat": 54.1612065,
+          "lng": -8.2580454
+        }
+      }
+    },
+    "place_id": "ChIJIRyikmntXkgRQqlPu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3013,
+    "area_name": "Leitrim",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Leitrim Village",
+        "short_name": "Leitrim Village",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Leitrim",
+        "short_name": "Leitrim",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Leitrim, Leitrim Village, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.99019,
+        "lng": -8.06501
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9915389802915,
+          "lng": -8.063661019708498
+        },
+        "southwest": {
+          "lat": 53.9888410197085,
+          "lng": -8.0663589802915
+        }
+      }
+    },
+    "place_id": "ChIJ30SxylePXkgRgTHtxGnzRM0",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3311,
+    "area_name": "Lurganboy",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Lurganboy",
+        "short_name": "Lurganboy",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Poundhill",
+        "short_name": "Poundhill",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Poundhill, Lurganboy, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.31326,
+        "lng": -8.21173
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.3146089802915,
+          "lng": -8.210381019708496
+        },
+        "southwest": {
+          "lat": 54.3119110197085,
+          "lng": -8.2130789802915
+        }
+      }
+    },
+    "place_id": "ChIJ1TjKCYrwXkgR8BAyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3035,
+    "area_name": "Garvagh",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Garvagh",
+        "short_name": "Garvagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Garvagh",
+        "short_name": "Garvagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Garvagh, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.9799123,
+        "lng": -7.858690299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9812612802915,
+          "lng": -7.857341319708497
+        },
+        "southwest": {
+          "lat": 53.9785633197085,
+          "lng": -7.860039280291502
+        }
+      }
+    },
+    "place_id": "ChIJFQAkCOh8XkgRS9dC-bNeSNk",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4244,
+    "area_name": "Leitrim Village",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Leitrim Village",
+        "short_name": "Leitrim Village",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Leitrim",
+        "short_name": "Leitrim",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Leitrim, Leitrim Village, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.99019,
+        "lng": -8.06501
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9915389802915,
+          "lng": -8.063661019708498
+        },
+        "southwest": {
+          "lat": 53.9888410197085,
+          "lng": -8.0663589802915
+        }
+      }
+    },
+    "place_id": "ChIJ30SxylePXkgRgTHtxGnzRM0",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3313,
+    "area_name": "Gortgarrigan",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Gortgarrigan",
+        "short_name": "Gortgarrigan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Gortgarrigan, Co. Leitrim, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.26859409999999,
+          "lng": -8.2162732
+        },
+        "southwest": {
+          "lat": 54.2521877,
+          "lng": -8.2451098
+        }
+      },
+      "location": {
+        "lat": 54.2592261,
+        "lng": -8.2309585
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.26859409999999,
+          "lng": -8.2162732
+        },
+        "southwest": {
+          "lat": 54.2521877,
+          "lng": -8.2451098
+        }
+      }
+    },
+    "place_id": "ChIJO0wAHezxXkgR4py6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3315,
+    "area_name": "Killarga",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Killarga",
+        "short_name": "Killarga",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Killarga",
+        "short_name": "Killarga",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Killarga, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.2300946,
+        "lng": -8.2098963
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2314435802915,
+          "lng": -8.208547319708497
+        },
+        "southwest": {
+          "lat": 54.2287456197085,
+          "lng": -8.211245280291502
+        }
+      }
+    },
+    "place_id": "ChIJ_6w_wDzyXkgR75EerfIgx7I",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3322,
+    "area_name": "Drumkeeran",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Drumkeeran",
+        "short_name": "Drumkeeran",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lugmeen",
+        "short_name": "Lugmeen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lugmeen, Drumkeeran, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.16940899999999,
+        "lng": -8.142664
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.17075798029149,
+          "lng": -8.141315019708498
+        },
+        "southwest": {
+          "lat": 54.16806001970849,
+          "lng": -8.144012980291503
+        }
+      }
+    },
+    "place_id": "ChIJ4ydJSDfzXkgR0Psxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3352,
+    "area_name": "Drumcong",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Drumcong",
+        "short_name": "Drumcong",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Drumcong, Co. Leitrim, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.0341219,
+          "lng": -7.9698361
+        },
+        "southwest": {
+          "lat": 54.0256099,
+          "lng": -7.987008200000001
+        }
+      },
+      "location": {
+        "lat": 54.03079810000001,
+        "lng": -7.9774101
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0341219,
+          "lng": -7.9698361
+        },
+        "southwest": {
+          "lat": 54.0256099,
+          "lng": -7.987008200000001
+        }
+      }
+    },
+    "place_id": "ChIJN9vmmzeIXkgRwqBQu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1947,
+    "area_name": "Glenade",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Glenade",
+        "short_name": "Glenade",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Aghalateeve",
+        "short_name": "Aghalateeve",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Aghalateeve, Glenade, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.3807106,
+        "lng": -8.296814699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.3820595802915,
+          "lng": -8.295465719708497
+        },
+        "southwest": {
+          "lat": 54.3793616197085,
+          "lng": -8.298163680291502
+        }
+      }
+    },
+    "place_id": "ChIJKYyzHdPkXkgRIpu6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3314,
+    "area_name": "Dromahair",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Dromahair",
+        "short_name": "Dromahair",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Drumahaire",
+        "short_name": "Drumahaire",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Drumahaire, Dromahair, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.2306704,
+        "lng": -8.3026235
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2320193802915,
+          "lng": -8.301274519708496
+        },
+        "southwest": {
+          "lat": 54.2293214197085,
+          "lng": -8.3039724802915
+        }
+      }
+    },
+    "place_id": "ChIJM_fK_tPtXkgRUPwxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3358,
+    "area_name": "Newtowngore",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Newtown Gore",
+        "short_name": "Newtown Gore",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Newtowngore",
+        "short_name": "Newtowngore",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Newtowngore, Newtown Gore, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.0426844,
+        "lng": -7.674354600000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.04403338029149,
+          "lng": -7.673005619708499
+        },
+        "southwest": {
+          "lat": 54.0413354197085,
+          "lng": -7.675703580291503
+        }
+      }
+    },
+    "place_id": "ChIJHaTtub5vXkgR4Bgyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3333,
+    "area_name": "Tarmon",
+    "county_name": "Leitrim",
+    "county_id": 23
+  },
+  {
+    "area_id": 3036,
+    "area_name": "Greagh",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Greagh",
+        "short_name": "Greagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Greagh, Co. Leitrim, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.01808029999999,
+          "lng": -7.8433758
+        },
+        "southwest": {
+          "lat": 54.00802179999999,
+          "lng": -7.8610999
+        }
+      },
+      "location": {
+        "lat": 54.0137467,
+        "lng": -7.8517415
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.01808029999999,
+          "lng": -7.8433758
+        },
+        "southwest": {
+          "lat": 54.00802179999999,
+          "lng": -7.8610999
+        }
+      }
+    },
+    "place_id": "ChIJTdE1QkhjXkgRiKl06zzLPyg",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3015,
+    "area_name": "Jamestown",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Jamestown",
+        "short_name": "Jamestown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Jamestown, Co. Leitrim, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.9306918,
+          "lng": -8.0262005
+        },
+        "southwest": {
+          "lat": 53.9198475,
+          "lng": -8.0442923
+        }
+      },
+      "location": {
+        "lat": 53.92541139999999,
+        "lng": -8.0387053
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9306918,
+          "lng": -8.0262005
+        },
+        "southwest": {
+          "lat": 53.9198475,
+          "lng": -8.0442923
+        }
+      }
+    },
+    "place_id": "ChIJO8NMByCEXkgR06MB8j1Xikk",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1948,
+    "area_name": "Leckanarainey",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Leckanarainey",
+        "short_name": "Leckanarainey",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Leckanarainey, Co. Leitrim, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.3760151,
+          "lng": -8.2185272
+        },
+        "southwest": {
+          "lat": 54.35531109999999,
+          "lng": -8.2613504
+        }
+      },
+      "location": {
+        "lat": 54.3656658,
+        "lng": -8.238908
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.3760151,
+          "lng": -8.2185272
+        },
+        "southwest": {
+          "lat": 54.35531109999999,
+          "lng": -8.2613504
+        }
+      }
+    },
+    "place_id": "ChIJ4fjfLPv6XkgR_MdJeWztDVs",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3353,
+    "area_name": "Keshcarrigan",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Keshcarrigan",
+        "short_name": "Keshcarrigan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Keshcarrigan",
+        "short_name": "Keshcarrigan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Keshcarrigan, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.0188646,
+        "lng": -7.942526399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0202135802915,
+          "lng": -7.941177419708497
+        },
+        "southwest": {
+          "lat": 54.0175156197085,
+          "lng": -7.943875380291502
+        }
+      }
+    },
+    "place_id": "ChIJHTNmjR-IXkgRQOsxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3041,
+    "area_name": "Gortletteragh",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Gortletteragh",
+        "short_name": "Gortletteragh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Gortletteragh, Co. Leitrim, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.8898366,
+          "lng": -7.8088193
+        },
+        "southwest": {
+          "lat": 53.8754585,
+          "lng": -7.825766299999999
+        }
+      },
+      "location": {
+        "lat": 53.8818034,
+        "lng": -7.8171298
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.8898366,
+          "lng": -7.8088193
+        },
+        "southwest": {
+          "lat": 53.8754585,
+          "lng": -7.825766299999999
+        }
+      }
+    },
+    "place_id": "ChIJBZIhzOd-XkgR8q-6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3033,
+    "area_name": "Mohill",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Mohill",
+        "short_name": "Mohill",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Mohill",
+        "short_name": "Mohill",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Mohill, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.9218288,
+        "lng": -7.865310099999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9231777802915,
+          "lng": -7.863961119708497
+        },
+        "southwest": {
+          "lat": 53.9204798197085,
+          "lng": -7.866659080291502
+        }
+      }
+    },
+    "place_id": "ChIJYX3V4dB9XkgR4Hoxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3310,
+    "area_name": "Gurteen",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Gurteen",
+        "short_name": "Gurteen",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Dromore",
+        "short_name": "Dromore",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Dromore, Gurteen, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.32401669999999,
+        "lng": -8.292703099999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.32536568029149,
+          "lng": -8.291354119708496
+        },
+        "southwest": {
+          "lat": 54.32266771970849,
+          "lng": -8.2940520802915
+        }
+      }
+    },
+    "place_id": "ChIJJ8ab0vfvXkgRR-fbNU5_SRA",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3031,
+    "area_name": "Lisduff",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Lisduff",
+        "short_name": "Lisduff",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lisduff, Co. Leitrim, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.9501935,
+          "lng": -8.0460739
+        },
+        "southwest": {
+          "lat": 53.9429485,
+          "lng": -8.0608969
+        }
+      },
+      "location": {
+        "lat": 53.9483329,
+        "lng": -8.0542458
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9501935,
+          "lng": -8.0460739
+        },
+        "southwest": {
+          "lat": 53.9429485,
+          "lng": -8.0608969
+        }
+      }
+    },
+    "place_id": "ChIJYa-R6dKFXkgRjfIXShhbpWg",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3897,
+    "area_name": "Gorvagh",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Gorvagh",
+        "short_name": "Gorvagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Garvagh",
+        "short_name": "Garvagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Garvagh, Gorvagh, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.98023,
+        "lng": -7.85823
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9815789802915,
+          "lng": -7.856881019708498
+        },
+        "southwest": {
+          "lat": 53.9788810197085,
+          "lng": -7.859578980291502
+        }
+      }
+    },
+    "place_id": "ChIJeyYc4Pl8XkgR0DnfN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3317,
+    "area_name": "Tawnylea",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Tawnylea",
+        "short_name": "Tawnylea",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Tawnylea",
+        "short_name": "Tawnylea",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Tawnylea, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.20465189999999,
+        "lng": -8.1573278
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.20600088029149,
+          "lng": -8.155978819708498
+        },
+        "southwest": {
+          "lat": 54.20330291970849,
+          "lng": -8.158676780291502
+        }
+      }
+    },
+    "place_id": "ChIJIfG9H6fzXkgRT_TTFccNTXo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3030,
+    "area_name": "Kilnagross",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Kilnagross",
+        "short_name": "Kilnagross",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Corderry",
+        "short_name": "Corderry",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilnagross, Corderry, Co. Leitrim, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.99370889999999,
+          "lng": -7.9521764
+        },
+        "southwest": {
+          "lat": 53.9839798,
+          "lng": -7.971492199999998
+        }
+      },
+      "location": {
+        "lat": 53.9891174,
+        "lng": -7.961837399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.99370889999999,
+          "lng": -7.9521764
+        },
+        "southwest": {
+          "lat": 53.9839798,
+          "lng": -7.971492199999998
+        }
+      }
+    },
+    "place_id": "ChIJ3xF6keWHXkgRYqS6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3312,
+    "area_name": "Leckaun",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Leckaun",
+        "short_name": "Leckaun",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Leckaun",
+        "short_name": "Leckaun",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Leckaun, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.2746484,
+        "lng": -8.286674
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.27599738029151,
+          "lng": -8.285325019708498
+        },
+        "southwest": {
+          "lat": 54.27329941970851,
+          "lng": -8.288022980291503
+        }
+      }
+    },
+    "place_id": "ChIJH8E9bDbuXkgRyGYb80Lszqs",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1952,
+    "area_name": "Kiltyclogher",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Kiltyclogher",
+        "short_name": "Kiltyclogher",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Corraleskin",
+        "short_name": "Corraleskin",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Corraleskin, Kiltyclogher, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.3562387,
+        "lng": -8.036875
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.35758768029149,
+          "lng": -8.035526019708499
+        },
+        "southwest": {
+          "lat": 54.3548897197085,
+          "lng": -8.038223980291503
+        }
+      }
+    },
+    "place_id": "ChIJi7UhduNXXkgRUHgxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3684,
+    "area_name": "Glencar",
+    "county_name": "Leitrim",
+    "county_id": 23,
+    "address_components": [
+      {
+        "long_name": "Glencar",
+        "short_name": "Glencar",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Sranea",
+        "short_name": "Sranea",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Leitrim",
+        "short_name": "LM",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Sranea, Glencar, Co. Leitrim, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.3339559,
+        "lng": -8.3520494
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.3353048802915,
+          "lng": -8.350700419708499
+        },
+        "southwest": {
+          "lat": 54.3326069197085,
+          "lng": -8.353398380291503
+        }
+      }
+    },
+    "place_id": "ChIJ89p8jJrlXkgRAZu6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  }
+]

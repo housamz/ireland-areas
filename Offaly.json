@@ -1,0 +1,5133 @@
+[
+  {
+    "area_id": 2247,
+    "area_name": "Birr",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Birr",
+        "short_name": "Birr",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Townparks",
+        "short_name": "Townparks",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Townparks, Birr, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.0980052,
+        "lng": -7.909688200000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.09935418029149,
+          "lng": -7.908339219708498
+        },
+        "southwest": {
+          "lat": 53.09665621970849,
+          "lng": -7.911037180291503
+        }
+      }
+    },
+    "place_id": "ChIJMZQnTij4XEgR4OExl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2232,
+    "area_name": "Pollagh",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Pollagh",
+        "short_name": "Pollagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pollagh",
+        "short_name": "Pollagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Pollagh, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.2768407,
+        "lng": -7.709173000000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2781896802915,
+          "lng": -7.707824019708498
+        },
+        "southwest": {
+          "lat": 53.2754917197085,
+          "lng": -7.710521980291502
+        }
+      }
+    },
+    "place_id": "ChIJabnkAiStXUgRJZgp47hgpCE",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2299,
+    "area_name": "Cadamstown",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Cadamstown",
+        "short_name": "Cadamstown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Deerpark",
+        "short_name": "Deerpark",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Deerpark, Cadamstown, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.12745719999999,
+        "lng": -7.6602595
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.12880618029149,
+          "lng": -7.658910519708497
+        },
+        "southwest": {
+          "lat": 53.12610821970849,
+          "lng": -7.661608480291502
+        }
+      }
+    },
+    "place_id": "ChIJYZbyx2sAXUgRPt6O2z4Bplk",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2244,
+    "area_name": "Rapemills",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Rapemills",
+        "short_name": "Rapemills",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pollaghoole",
+        "short_name": "Pollaghoole",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Pollaghoole, Rapemills, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.14389,
+        "lng": -7.92617
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1452389802915,
+          "lng": -7.924821019708498
+        },
+        "southwest": {
+          "lat": 53.1425410197085,
+          "lng": -7.927518980291502
+        }
+      }
+    },
+    "place_id": "ChIJs-1ejx5YXEgRazLpc1h3fuQ",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2199,
+    "area_name": "Newtown",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Offaly",
+        "short_name": "Offaly",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Offaly, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.424279,
+          "lng": -6.9777077
+        },
+        "southwest": {
+          "lat": 52.8481718,
+          "lng": -8.0838723
+        }
+      },
+      "location": {
+        "lat": 53.2356871,
+        "lng": -7.7122229
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.424279,
+          "lng": -6.9777077
+        },
+        "southwest": {
+          "lat": 52.8481718,
+          "lng": -8.0838723
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ9-fdiXEHXUgRcHcqLqfHAAQ",
+    "types": [
+      "administrative_area_level_2",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2254,
+    "area_name": "Rath",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Rath",
+        "short_name": "Rath",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Rathmount",
+        "short_name": "Rathmount",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rathmount, Rath, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.13547,
+        "lng": -7.817419999999998
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.13681898029149,
+          "lng": -7.816071019708497
+        },
+        "southwest": {
+          "lat": 53.13412101970849,
+          "lng": -7.818768980291501
+        }
+      }
+    },
+    "place_id": "ChIJ1Z0nugFWXEgRgBwyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2712,
+    "area_name": "Clara",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Clara",
+        "short_name": "Clara",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilcoursey",
+        "short_name": "Kilcoursey",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilcoursey, Clara, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.3425103,
+        "lng": -7.613480099999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3438592802915,
+          "lng": -7.612131119708497
+        },
+        "southwest": {
+          "lat": 53.3411613197085,
+          "lng": -7.614829080291502
+        }
+      }
+    },
+    "place_id": "ChIJEcGxtOyxXUgR4PIxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2329,
+    "area_name": "Brackagh",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Brackagh",
+        "short_name": "Brackagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Brackagh, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.27677509999999,
+          "lng": -7.2078476
+        },
+        "southwest": {
+          "lat": 53.2538723,
+          "lng": -7.245027400000001
+        }
+      },
+      "location": {
+        "lat": 53.26494899999999,
+        "lng": -7.224322599999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.27677509999999,
+          "lng": -7.2078476
+        },
+        "southwest": {
+          "lat": 53.2538723,
+          "lng": -7.245027400000001
+        }
+      }
+    },
+    "place_id": "ChIJZWaGR9WYXUgRAtW6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4231,
+    "area_name": "Brosna",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Brosna",
+        "short_name": "Brosna",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Brosna",
+        "short_name": "Brosna",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Brosna, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.9916347,
+        "lng": -7.8877825
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9929836802915,
+          "lng": -7.886433519708498
+        },
+        "southwest": {
+          "lat": 52.9902857197085,
+          "lng": -7.889131480291502
+        }
+      }
+    },
+    "place_id": "ChIJsem2snvwXEgRIULjOrggVbI",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2267,
+    "area_name": "Boheraphuca",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Boheraphuca",
+        "short_name": "Boheraphuca",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Coldblow",
+        "short_name": "Coldblow",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Coldblow, Boheraphuca, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.019281,
+        "lng": -7.759398099999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.0206299802915,
+          "lng": -7.758049119708497
+        },
+        "southwest": {
+          "lat": 53.0179320197085,
+          "lng": -7.760747080291501
+        }
+      }
+    },
+    "place_id": "ChIJIxgn-G_8XEgRAvW6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2366,
+    "area_name": "Ballyfore",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Ballyfore",
+        "short_name": "Ballyfore",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyfore, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.3722416,
+          "lng": -7.268982599999999
+        },
+        "southwest": {
+          "lat": 53.3544314,
+          "lng": -7.296698600000001
+        }
+      },
+      "location": {
+        "lat": 53.3624108,
+        "lng": -7.279992300000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3722416,
+          "lng": -7.268982599999999
+        },
+        "southwest": {
+          "lat": 53.3544314,
+          "lng": -7.296698600000001
+        }
+      }
+    },
+    "place_id": "ChIJ3ZJh8-eXXUgRNbhkxkSia78",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3803,
+    "area_name": "Portarlington",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Portarlington",
+        "short_name": "Portarlington",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Laois",
+        "short_name": "LS",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Portarlington, Co. Laois, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.17075,
+          "lng": -7.174510099999999
+        },
+        "southwest": {
+          "lat": 53.14593,
+          "lng": -7.221660099999999
+        }
+      },
+      "location": {
+        "lat": 53.16121099999999,
+        "lng": -7.187757399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.17075,
+          "lng": -7.174510099999999
+        },
+        "southwest": {
+          "lat": 53.14593,
+          "lng": -7.221660099999999
+        }
+      }
+    },
+    "place_id": "ChIJWxX_mXF1XUgRYJAxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2229,
+    "area_name": "Lemanaghan",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Lemanaghan",
+        "short_name": "Lemanaghan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lemanaghan, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.3046363,
+          "lng": -7.730543399999999
+        },
+        "southwest": {
+          "lat": 53.2823083,
+          "lng": -7.7760966
+        }
+      },
+      "location": {
+        "lat": 53.2900211,
+        "lng": -7.756902600000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3046363,
+          "lng": -7.730543399999999
+        },
+        "southwest": {
+          "lat": 53.2823083,
+          "lng": -7.7760966
+        }
+      }
+    },
+    "place_id": "ChIJPbwnELhSXEgRkA4yl6nHAAo",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2376,
+    "area_name": "Bracknagh",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Bracknagh",
+        "short_name": "Bracknagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Bracknagh",
+        "short_name": "Bracknagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Bracknagh, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.209205,
+        "lng": -7.0981836
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.21055398029149,
+          "lng": -7.096834619708497
+        },
+        "southwest": {
+          "lat": 53.2078560197085,
+          "lng": -7.099532580291502
+        }
+      }
+    },
+    "place_id": "ChIJN1wtrbudXUgR0OIxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2231,
+    "area_name": "Ballycumber",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Ballycumber",
+        "short_name": "Ballycumber",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballycumber",
+        "short_name": "Ballycumber",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballycumber, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.3264159,
+        "lng": -7.686113700000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3277648802915,
+          "lng": -7.684764719708499
+        },
+        "southwest": {
+          "lat": 53.3250669197085,
+          "lng": -7.687462680291502
+        }
+      }
+    },
+    "place_id": "ChIJlwGTDoiyXUgRwOQxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1437,
+    "area_name": "Barna",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Offaly",
+        "short_name": "Offaly",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Offaly, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.424279,
+          "lng": -6.9777077
+        },
+        "southwest": {
+          "lat": 52.8481718,
+          "lng": -8.0838723
+        }
+      },
+      "location": {
+        "lat": 53.2356871,
+        "lng": -7.7122229
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.424279,
+          "lng": -6.9777077
+        },
+        "southwest": {
+          "lat": 52.8481718,
+          "lng": -8.0838723
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ9-fdiXEHXUgRcHcqLqfHAAQ",
+    "types": [
+      "administrative_area_level_2",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2265,
+    "area_name": "Longford",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Longford",
+        "short_name": "Longford",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Longford",
+        "short_name": "LD",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Longford, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.7423701,
+          "lng": -7.7682599
+        },
+        "southwest": {
+          "lat": 53.7107499,
+          "lng": -7.8201999
+        }
+      },
+      "location": {
+        "lat": 53.7276296,
+        "lng": -7.7932573
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.7423701,
+          "lng": -7.7682599
+        },
+        "southwest": {
+          "lat": 53.7107499,
+          "lng": -7.8201999
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJh8PCuZvTXUgRcHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2275,
+    "area_name": "Screggan",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Screggan",
+        "short_name": "Screggan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Screggan, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.2587268,
+          "lng": -7.5543339
+        },
+        "southwest": {
+          "lat": 53.2468976,
+          "lng": -7.5691932
+        }
+      },
+      "location": {
+        "lat": 53.2529979,
+        "lng": -7.563303899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2587268,
+          "lng": -7.5543339
+        },
+        "southwest": {
+          "lat": 53.2468976,
+          "lng": -7.5691932
+        }
+      }
+    },
+    "place_id": "ChIJueF3LdiuXUgRILsxl6nHAAo",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2277,
+    "area_name": "Blue Ball",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Blue Ball",
+        "short_name": "Blue Ball",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Pallaspark",
+        "short_name": "Pallaspark",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Pallaspark, Blue Ball, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.2299462,
+        "lng": -7.6112313
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2312951802915,
+          "lng": -7.609882319708498
+        },
+        "southwest": {
+          "lat": 53.2285972197085,
+          "lng": -7.612580280291502
+        }
+      }
+    },
+    "place_id": "ChIJMag7IPqrXUgRAM8xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2259,
+    "area_name": "Lisduff",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Lisduff",
+        "short_name": "Lisduff",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lisduff, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.0618243,
+          "lng": -7.8812684
+        },
+        "southwest": {
+          "lat": 53.0475922,
+          "lng": -7.906021900000001
+        }
+      },
+      "location": {
+        "lat": 53.0547182,
+        "lng": -7.8937176
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.0618243,
+          "lng": -7.8812684
+        },
+        "southwest": {
+          "lat": 53.0475922,
+          "lng": -7.906021900000001
+        }
+      }
+    },
+    "place_id": "ChIJG2Atx-L5XEgR_JL0uWfejqI",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2370,
+    "area_name": "Ballykilleen",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Ballykilleen",
+        "short_name": "Ballykilleen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballykilleen, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.30890789999999,
+          "lng": -7.0817057
+        },
+        "southwest": {
+          "lat": 53.2861477,
+          "lng": -7.108578
+        }
+      },
+      "location": {
+        "lat": 53.29952729999999,
+        "lng": -7.095891099999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.30890789999999,
+          "lng": -7.0817057
+        },
+        "southwest": {
+          "lat": 53.2861477,
+          "lng": -7.108578
+        }
+      }
+    },
+    "place_id": "ChIJfRc6qRGbXUgRctO6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2281,
+    "area_name": "Mountbolus",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Mountbolus",
+        "short_name": "Mountbolus",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Rathkeeragan",
+        "short_name": "Rathkeeragan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rathkeeragan, Mountbolus, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.1960197,
+        "lng": -7.628685399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1973686802915,
+          "lng": -7.627336419708497
+        },
+        "southwest": {
+          "lat": 53.1946707197085,
+          "lng": -7.630034380291502
+        }
+      }
+    },
+    "place_id": "ChIJFSpqx7arXUgRoPMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2291,
+    "area_name": "Ballinagar",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Ballinagar",
+        "short_name": "Ballinagar",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballinagar",
+        "short_name": "Ballinagar",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballinagar, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.2662048,
+        "lng": -7.337107199999998
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2675537802915,
+          "lng": -7.335758219708496
+        },
+        "southwest": {
+          "lat": 53.2648558197085,
+          "lng": -7.338456180291501
+        }
+      }
+    },
+    "place_id": "ChIJHchwF8WjXUgRsOAxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2274,
+    "area_name": "Rahan",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Rahan",
+        "short_name": "Rahan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Tullybeg",
+        "short_name": "Tullybeg",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Tullybeg, Rahan, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.27978419999999,
+        "lng": -7.615890800000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.28113318029149,
+          "lng": -7.614541819708498
+        },
+        "southwest": {
+          "lat": 53.2784352197085,
+          "lng": -7.617239780291502
+        }
+      }
+    },
+    "place_id": "ChIJ7SHrjdWtXUgRUBwyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2257,
+    "area_name": "Ballyboy",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Ballyboy",
+        "short_name": "Ballyboy",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyboy, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.1799359,
+          "lng": -7.6967145
+        },
+        "southwest": {
+          "lat": 53.1683558,
+          "lng": -7.714817799999999
+        }
+      },
+      "location": {
+        "lat": 53.1733212,
+        "lng": -7.7087977
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1799359,
+          "lng": -7.6967145
+        },
+        "southwest": {
+          "lat": 53.1683558,
+          "lng": -7.714817799999999
+        }
+      }
+    },
+    "place_id": "ChIJK_rfg82qXUgRkI0xl6nHAAo",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2263,
+    "area_name": "Kinnitty",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Kinnitty",
+        "short_name": "Kinnitty",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "The Walk",
+        "short_name": "The Walk",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "The Walk, Kinnitty, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.097806,
+        "lng": -7.7189969
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.0991549802915,
+          "lng": -7.717647919708497
+        },
+        "southwest": {
+          "lat": 53.0964570197085,
+          "lng": -7.720345880291502
+        }
+      }
+    },
+    "place_id": "ChIJP8C1ebP_XEgRq9Y6E8qifq4",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2747,
+    "area_name": "Rhode",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Rhode",
+        "short_name": "Rhode",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Rathmoyle",
+        "short_name": "Rathmoyle",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rathmoyle, Rhode, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.3499888,
+        "lng": -7.198962900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3513377802915,
+          "lng": -7.197613919708498
+        },
+        "southwest": {
+          "lat": 53.3486398197085,
+          "lng": -7.200311880291503
+        }
+      }
+    },
+    "place_id": "ChIJDZTqBlyXXUgRgJExl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1441,
+    "area_name": "Moneygall",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Moneygall",
+        "short_name": "Moneygall",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Loyer",
+        "short_name": "Loyer",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Loyer, Moneygall, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.87973760000001,
+        "lng": -7.9578079
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.88108658029151,
+          "lng": -7.956458919708497
+        },
+        "southwest": {
+          "lat": 52.87838861970851,
+          "lng": -7.959156880291502
+        }
+      }
+    },
+    "place_id": "ChIJffUM8qbuXEgRgBUyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2748,
+    "area_name": "Ballybryan",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Ballybryan",
+        "short_name": "Ballybryan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballybryan, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.3661064,
+          "lng": -7.1336578
+        },
+        "southwest": {
+          "lat": 53.3507303,
+          "lng": -7.1560481
+        }
+      },
+      "location": {
+        "lat": 53.3595143,
+        "lng": -7.1447578
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3661064,
+          "lng": -7.1336578
+        },
+        "southwest": {
+          "lat": 53.3507303,
+          "lng": -7.1560481
+        }
+      }
+    },
+    "place_id": "ChIJy8LEDpiQXUgR0N0xl6nHAAo",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2333,
+    "area_name": "Ballykean",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Ballykean",
+        "short_name": "Ballykean",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "The Forge",
+        "short_name": "The Forge",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballykean, The Forge, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.2326008,
+          "lng": -7.2539113
+        },
+        "southwest": {
+          "lat": 53.21804969999999,
+          "lng": -7.2855696
+        }
+      },
+      "location": {
+        "lat": 53.2271022,
+        "lng": -7.269747599999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2326008,
+          "lng": -7.2539113
+        },
+        "southwest": {
+          "lat": 53.21804969999999,
+          "lng": -7.2855696
+        }
+      }
+    },
+    "place_id": "ChIJVVOCXcahXUgR0s26GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2214,
+    "area_name": "Banagher",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Banagher",
+        "short_name": "Banagher",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Curraghavarna",
+        "short_name": "Curraghavarna",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Curraghavarna, Banagher, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.1901112,
+        "lng": -7.986104900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.19146018029149,
+          "lng": -7.984755919708499
+        },
+        "southwest": {
+          "lat": 53.18876221970849,
+          "lng": -7.987453880291503
+        }
+      }
+    },
+    "place_id": "ChIJVUyDPphZXEgRAI4xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2285,
+    "area_name": "Ardan",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Arden",
+        "short_name": "Arden",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ardan",
+        "short_name": "Ardan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ardan, Arden, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.29364,
+        "lng": -7.48835
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.29498898029149,
+          "lng": -7.487001019708497
+        },
+        "southwest": {
+          "lat": 53.2922910197085,
+          "lng": -7.489698980291502
+        }
+      }
+    },
+    "place_id": "ChIJRSJd4WSlXUgR0q26GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2218,
+    "area_name": "Belmont",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Belmont",
+        "short_name": "Belmont",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Faddan More",
+        "short_name": "Faddan More",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Faddan More, Belmont, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.2560708,
+        "lng": -7.895165199999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2574197802915,
+          "lng": -7.893816219708498
+        },
+        "southwest": {
+          "lat": 53.2547218197085,
+          "lng": -7.896514180291502
+        }
+      }
+    },
+    "place_id": "ChIJHZyWtQFRXEgR0M0xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2330,
+    "area_name": "Ballynakill",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Ballynakill",
+        "short_name": "Ballynakill",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballynakill, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.2675943,
+          "lng": -7.249046000000001
+        },
+        "southwest": {
+          "lat": 53.244981,
+          "lng": -7.272964499999999
+        }
+      },
+      "location": {
+        "lat": 53.2547345,
+        "lng": -7.2628341
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2675943,
+          "lng": -7.249046000000001
+        },
+        "southwest": {
+          "lat": 53.244981,
+          "lng": -7.272964499999999
+        }
+      }
+    },
+    "place_id": "ChIJS5bzpVSfXUgRfzNf9z3gckw",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2225,
+    "area_name": "Cloghan",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Cloghan",
+        "short_name": "Cloghan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Creggan",
+        "short_name": "Creggan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Creggan, Cloghan, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.2252399,
+        "lng": -7.8825143
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2265888802915,
+          "lng": -7.881165319708497
+        },
+        "southwest": {
+          "lat": 53.2238909197085,
+          "lng": -7.883863280291501
+        }
+      }
+    },
+    "place_id": "ChIJ9xbsKi9RXEgREMsxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2374,
+    "area_name": "Clonavoe",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Clonavoe",
+        "short_name": "Clonavoe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Clonavoe, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.26153619999999,
+          "lng": -7.1385058
+        },
+        "southwest": {
+          "lat": 53.2421978,
+          "lng": -7.1786448
+        }
+      },
+      "location": {
+        "lat": 53.2513863,
+        "lng": -7.1563254
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.26153619999999,
+          "lng": -7.1385058
+        },
+        "southwest": {
+          "lat": 53.2421978,
+          "lng": -7.1786448
+        }
+      }
+    },
+    "place_id": "ChIJCyXF-QKcXUgRMtW6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2279,
+    "area_name": "Black Lion",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Black Lion",
+        "short_name": "Black Lion",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cooldorragh Glebe",
+        "short_name": "Cooldorragh Glebe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cooldorragh Glebe, Black Lion, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.20804,
+        "lng": -7.595399999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.20938898029149,
+          "lng": -7.594051019708496
+        },
+        "southwest": {
+          "lat": 53.20669101970849,
+          "lng": -7.596748980291501
+        }
+      }
+    },
+    "place_id": "ChIJ1RcnAmKpXUgRZTkz78MZieU",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4220,
+    "area_name": "Clonfanlough",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Clonfanlough",
+        "short_name": "Clonfanlough",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Glebe",
+        "short_name": "Glebe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Glebe, Clonfanlough, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.32239999999999,
+        "lng": -7.928179999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3237489802915,
+          "lng": -7.926831019708497
+        },
+        "southwest": {
+          "lat": 53.3210510197085,
+          "lng": -7.929528980291502
+        }
+      }
+    },
+    "place_id": "ChIJRdScC9lPXEgRwAHfN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2234,
+    "area_name": "Derrycooly",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Derrycooley",
+        "short_name": "Derrycooley",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Derrycooly",
+        "short_name": "Derrycooly",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Derrycooly, Derrycooley, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.26586,
+        "lng": -7.67866
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2672089802915,
+          "lng": -7.677311019708497
+        },
+        "southwest": {
+          "lat": 53.2645110197085,
+          "lng": -7.680008980291502
+        }
+      }
+    },
+    "place_id": "ChIJmbbIufusXUgRITVYCUL_rVw",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3947,
+    "area_name": "Cloughjordan",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Cloughjordan",
+        "short_name": "Cloughjordan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Townfields",
+        "short_name": "Townfields",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Tipperary",
+        "short_name": "TA",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Townfields, Cloughjordan, Co. Tipperary, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.9429442,
+        "lng": -8.0383372
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9442931802915,
+          "lng": -8.0369882197085
+        },
+        "southwest": {
+          "lat": 52.9415952197085,
+          "lng": -8.039686180291504
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJpd2MPH_tXEgRwPExl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2746,
+    "area_name": "Croghan",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Croghan",
+        "short_name": "Croghan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Croghan Demesne",
+        "short_name": "Croghan Demesne",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Croghan Demesne, Croghan, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.3408,
+        "lng": -7.279159999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3421489802915,
+          "lng": -7.277811019708497
+        },
+        "southwest": {
+          "lat": 53.33945101970851,
+          "lng": -7.280508980291502
+        }
+      }
+    },
+    "place_id": "ChIJydJsbAKYXUgRTcYX8ikOWSc",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2238,
+    "area_name": "Taylor's Cross",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Taylor's Cross",
+        "short_name": "Taylor's Cross",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Blackbull",
+        "short_name": "Blackbull",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Blackbull, Taylor's Cross, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.16307,
+        "lng": -7.953929999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.16441898029149,
+          "lng": -7.952581019708497
+        },
+        "southwest": {
+          "lat": 53.16172101970849,
+          "lng": -7.955278980291501
+        }
+      }
+    },
+    "place_id": "ChIJUQqM2DVYXEgRC4Hyuc3G2uw",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2711,
+    "area_name": "Horseleap",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Horseleap",
+        "short_name": "Horseleap",
+        "types": [
+          "establishment",
+          "point_of_interest",
+          "transit_station"
+        ]
+      },
+      {
+        "long_name": "Cappydonnell Little",
+        "short_name": "Cappydonnell Little",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Horseleap, Cappydonnell Little, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.3925217,
+        "lng": -7.581490499999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3938656802915,
+          "lng": -7.580146619708499
+        },
+        "southwest": {
+          "lat": 53.3911677197085,
+          "lng": -7.582844580291503
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJS5nsENywXUgRCF0ScAujbIg",
+    "plus_code": {
+      "compound_code": "9CV9+2C Cappydonnell, County Offaly, Ireland",
+      "global_code": "9C5J9CV9+2C"
+    },
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "transit_station"
+    ]
+  },
+  {
+    "area_id": 2246,
+    "area_name": "Fivealley",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Fivealley",
+        "short_name": "Fivealley",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Doorosheath",
+        "short_name": "Doorosheath",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Doorosheath, Fivealley, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.1520522,
+        "lng": -7.834779999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1534011802915,
+          "lng": -7.833431019708497
+        },
+        "southwest": {
+          "lat": 53.1507032197085,
+          "lng": -7.836128980291502
+        }
+      }
+    },
+    "place_id": "ChIJz-VIhEFWXEgRsC_fN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4069,
+    "area_name": "Walsh Island",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Walsh Island",
+        "short_name": "Walsh Island",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilbeg",
+        "short_name": "Kilbeg",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilbeg, Walsh Island, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.23254,
+        "lng": -7.22225
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2338889802915,
+          "lng": -7.220901019708498
+        },
+        "southwest": {
+          "lat": 53.2311910197085,
+          "lng": -7.223598980291502
+        }
+      }
+    },
+    "place_id": "ChIJAXp5shafXUgRwCgyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2272,
+    "area_name": "Derries",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Derries",
+        "short_name": "Derries",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Derries, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.329169,
+          "lng": -6.9777077
+        },
+        "southwest": {
+          "lat": 53.2979541,
+          "lng": -7.033811399999999
+        }
+      },
+      "location": {
+        "lat": 53.3120306,
+        "lng": -7.0180897
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.329169,
+          "lng": -6.9777077
+        },
+        "southwest": {
+          "lat": 53.2979541,
+          "lng": -7.033811399999999
+        }
+      }
+    },
+    "place_id": "ChIJW0b28-CEXUgRIvi6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2248,
+    "area_name": "Sharavogue",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Sharavogue",
+        "short_name": "Sharavogue",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballygaddy",
+        "short_name": "Ballygaddy",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballygaddy, Sharavogue, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.0339049,
+        "lng": -7.900566199999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.03525388029149,
+          "lng": -7.899217219708497
+        },
+        "southwest": {
+          "lat": 53.03255591970849,
+          "lng": -7.901915180291502
+        }
+      }
+    },
+    "place_id": "ChIJ9UeNAa_wXEgRD9P_87Pjaqc",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2227,
+    "area_name": "Grogan",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Offaly",
+        "short_name": "Offaly",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Offaly, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.424279,
+          "lng": -6.9777077
+        },
+        "southwest": {
+          "lat": 52.8481718,
+          "lng": -8.0838723
+        }
+      },
+      "location": {
+        "lat": 53.2356871,
+        "lng": -7.7122229
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.424279,
+          "lng": -6.9777077
+        },
+        "southwest": {
+          "lat": 52.8481718,
+          "lng": -8.0838723
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ9-fdiXEHXUgRcHcqLqfHAAQ",
+    "types": [
+      "administrative_area_level_2",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1428,
+    "area_name": "Kilcomin",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Kilcomin",
+        "short_name": "Kilcomin",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilcomin",
+        "short_name": "Kilcomin",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilcomin, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.96813950000001,
+        "lng": -7.961590800000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.96948848029151,
+          "lng": -7.960241819708498
+        },
+        "southwest": {
+          "lat": 52.96679051970851,
+          "lng": -7.962939780291502
+        }
+      }
+    },
+    "place_id": "ChIJS6EQ2uvxXEgREstnNEqYL34",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2284,
+    "area_name": "Tullamore",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Tullamore",
+        "short_name": "Tullamore",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Tullamore, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.2896,
+          "lng": -7.459529999999999
+        },
+        "southwest": {
+          "lat": 53.25442,
+          "lng": -7.520770000000001
+        }
+      },
+      "location": {
+        "lat": 53.27552550000001,
+        "lng": -7.4933852
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2896,
+          "lng": -7.459529999999999
+        },
+        "southwest": {
+          "lat": 53.25442,
+          "lng": -7.520770000000001
+        }
+      }
+    },
+    "place_id": "ChIJCSa3DoalXUgRAHUxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2327,
+    "area_name": "Daingean",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Daingean",
+        "short_name": "Daingean",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Oldtown",
+        "short_name": "Oldtown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Oldtown, Daingean, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.2960818,
+        "lng": -7.291967
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.29743078029149,
+          "lng": -7.290618019708497
+        },
+        "southwest": {
+          "lat": 53.29473281970849,
+          "lng": -7.293315980291501
+        }
+      }
+    },
+    "place_id": "ChIJac-PCoeiXUgRgPkxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2378,
+    "area_name": "Cushina",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Cushina",
+        "short_name": "Cushina",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cushina, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.2121084,
+          "lng": -7.1661466
+        },
+        "southwest": {
+          "lat": 53.188076,
+          "lng": -7.207819900000001
+        }
+      },
+      "location": {
+        "lat": 53.1973523,
+        "lng": -7.1906352
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2121084,
+          "lng": -7.1661466
+        },
+        "southwest": {
+          "lat": 53.188076,
+          "lng": -7.207819900000001
+        }
+      }
+    },
+    "place_id": "ChIJAwjLEz-eXUgRwPgxl6nHAAo",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2367,
+    "area_name": "Rathvilla",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Rathvilla",
+        "short_name": "Rathvilla",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rathvilla, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.3032115,
+          "lng": -7.1254976
+        },
+        "southwest": {
+          "lat": 53.28243620000001,
+          "lng": -7.1556598
+        }
+      },
+      "location": {
+        "lat": 53.2957659,
+        "lng": -7.140093299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3032115,
+          "lng": -7.1254976
+        },
+        "southwest": {
+          "lat": 53.28243620000001,
+          "lng": -7.1556598
+        }
+      }
+    },
+    "place_id": "ChIJJw7_ScWbXUgRQhlTu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1439,
+    "area_name": "Dunkerrin",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Dunkerrin",
+        "short_name": "Dunkerrin",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Clashagad Upper",
+        "short_name": "Clashagad Upper",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Clashagad Upper, Dunkerrin, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.9135226,
+        "lng": -7.908260599999998
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9148715802915,
+          "lng": -7.906911619708496
+        },
+        "southwest": {
+          "lat": 52.9121736197085,
+          "lng": -7.909609580291501
+        }
+      }
+    },
+    "place_id": "ChIJg-Yn-arvXEgR4P4xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2236,
+    "area_name": "Broughal",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Broughal",
+        "short_name": "Broughal",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Broughal, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.212295,
+          "lng": -7.7559758
+        },
+        "southwest": {
+          "lat": 53.1864267,
+          "lng": -7.8106258
+        }
+      },
+      "location": {
+        "lat": 53.1966968,
+        "lng": -7.777661
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.212295,
+          "lng": -7.7559758
+        },
+        "southwest": {
+          "lat": 53.1864267,
+          "lng": -7.8106258
+        }
+      }
+    },
+    "place_id": "ChIJl-_OjE9UXEgRUOMxl6nHAAo",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2163,
+    "area_name": "Shannon",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Offaly",
+        "short_name": "Offaly",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Offaly, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.424279,
+          "lng": -6.9777077
+        },
+        "southwest": {
+          "lat": 52.8481718,
+          "lng": -8.0838723
+        }
+      },
+      "location": {
+        "lat": 53.2356871,
+        "lng": -7.7122229
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.424279,
+          "lng": -6.9777077
+        },
+        "southwest": {
+          "lat": 52.8481718,
+          "lng": -8.0838723
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ9-fdiXEHXUgRcHcqLqfHAAQ",
+    "types": [
+      "administrative_area_level_2",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2332,
+    "area_name": "Geashill",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Geashill",
+        "short_name": "Geashill",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Geashill",
+        "short_name": "Geashill",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Geashill, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.2352224,
+        "lng": -7.3209776
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2365713802915,
+          "lng": -7.319628619708498
+        },
+        "southwest": {
+          "lat": 53.2338734197085,
+          "lng": -7.322326580291501
+        }
+      }
+    },
+    "place_id": "ChIJF7NUOHShXUgRQJUxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2264,
+    "area_name": "Clareen",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Clareen",
+        "short_name": "Clareen",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Glebe",
+        "short_name": "Glebe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Glebe, Clareen, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.0734224,
+        "lng": -7.7950971
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.07477138029149,
+          "lng": -7.793748119708497
+        },
+        "southwest": {
+          "lat": 53.0720734197085,
+          "lng": -7.796446080291502
+        }
+      }
+    },
+    "place_id": "ChIJ9yNIYTb5XEgR8vO6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3785,
+    "area_name": "Clonmacnoise",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Clonmacnoise",
+        "short_name": "Clonmacnoise",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Clonmacnoise, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.33758419999999,
+          "lng": -7.957662900000001
+        },
+        "southwest": {
+          "lat": 53.31599250000001,
+          "lng": -7.999106499999999
+        }
+      },
+      "location": {
+        "lat": 53.3264261,
+        "lng": -7.9843391
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.33758419999999,
+          "lng": -7.957662900000001
+        },
+        "southwest": {
+          "lat": 53.31599250000001,
+          "lng": -7.999106499999999
+        }
+      }
+    },
+    "place_id": "ChIJD9WqQmFFXEgRQdy6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2335,
+    "area_name": "Clonygowan",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Clonygowan",
+        "short_name": "Clonygowan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Clonygowan",
+        "short_name": "Clonygowan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Clonygowan, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.1874518,
+        "lng": -7.2804446
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.18880078029149,
+          "lng": -7.279095619708498
+        },
+        "southwest": {
+          "lat": 53.1861028197085,
+          "lng": -7.281793580291502
+        }
+      }
+    },
+    "place_id": "ChIJxzq6SmqgXUgRoJMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2256,
+    "area_name": "Kilcormac",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Kilcormac",
+        "short_name": "Kilcormac",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Frankford",
+        "short_name": "Frankford",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Frankford, Kilcormac, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.1764113,
+        "lng": -7.7274112
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1777602802915,
+          "lng": -7.726062219708497
+        },
+        "southwest": {
+          "lat": 53.1750623197085,
+          "lng": -7.728760180291502
+        }
+      }
+    },
+    "place_id": "ChIJB0mJdSNVXEgRQOwxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2251,
+    "area_name": "Coolderry",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Coolderry",
+        "short_name": "Coolderry",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Coolderry, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.02155990000001,
+          "lng": -7.851981899999998
+        },
+        "southwest": {
+          "lat": 53.0111265,
+          "lng": -7.875367300000001
+        }
+      },
+      "location": {
+        "lat": 53.01419490000001,
+        "lng": -7.86019
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.02155990000001,
+          "lng": -7.851981899999998
+        },
+        "southwest": {
+          "lat": 53.0111265,
+          "lng": -7.875367300000001
+        }
+      }
+    },
+    "place_id": "ChIJq2PTSjj6XEgRwL3qN6nHABg",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2198,
+    "area_name": "Gortarevan",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Gortarevan",
+        "short_name": "Gortarevan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Gortarevan, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.1802071,
+          "lng": -8.016454099999999
+        },
+        "southwest": {
+          "lat": 53.17055010000001,
+          "lng": -8.033935
+        }
+      },
+      "location": {
+        "lat": 53.1751492,
+        "lng": -8.0246038
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1802071,
+          "lng": -8.016454099999999
+        },
+        "southwest": {
+          "lat": 53.17055010000001,
+          "lng": -8.033935
+        }
+      }
+    },
+    "place_id": "ChIJbVXlHCNZXEgRkdq6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2249,
+    "area_name": "Crinkill",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Crinkill",
+        "short_name": "Crinkill",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballinree",
+        "short_name": "Ballinree",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballinree, Crinkill, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.07837860000001,
+        "lng": -7.8970751
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.07972758029151,
+          "lng": -7.895726119708498
+        },
+        "southwest": {
+          "lat": 53.07702961970851,
+          "lng": -7.898424080291503
+        }
+      }
+    },
+    "place_id": "ChIJlZrxs9f5XEgRsPcxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2289,
+    "area_name": "Killeigh",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Killeigh",
+        "short_name": "Killeigh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Millbrook",
+        "short_name": "Millbrook",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Millbrook, Killeigh, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.2140733,
+        "lng": -7.450342699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2154222802915,
+          "lng": -7.448993719708497
+        },
+        "southwest": {
+          "lat": 53.2127243197085,
+          "lng": -7.451691680291502
+        }
+      }
+    },
+    "place_id": "ChIJzTS1XkamXUgRYJYxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2261,
+    "area_name": "Killyon",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Killyon",
+        "short_name": "Killyon",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Killyon, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.1090826,
+          "lng": -7.7954571
+        },
+        "southwest": {
+          "lat": 53.0951829,
+          "lng": -7.8158864
+        }
+      },
+      "location": {
+        "lat": 53.1022221,
+        "lng": -7.8066798
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.1090826,
+          "lng": -7.7954571
+        },
+        "southwest": {
+          "lat": 53.0951829,
+          "lng": -7.8158864
+        }
+      }
+    },
+    "place_id": "ChIJnUxe4dH4XEgRIfS6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2324,
+    "area_name": "Killeshil",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Killeshil",
+        "short_name": "Killeshil",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Killeshil, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.3256771,
+          "lng": -7.275448799999999
+        },
+        "southwest": {
+          "lat": 53.3138704,
+          "lng": -7.2955504
+        }
+      },
+      "location": {
+        "lat": 53.3205737,
+        "lng": -7.284133499999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3256771,
+          "lng": -7.275448799999999
+        },
+        "southwest": {
+          "lat": 53.3138704,
+          "lng": -7.2955504
+        }
+      }
+    },
+    "place_id": "ChIJh7DD1KGiXUgRNv98SJHZLm4",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2219,
+    "area_name": "Clonomy",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Offaly",
+        "short_name": "Offaly",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Offaly, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.424279,
+          "lng": -6.9777077
+        },
+        "southwest": {
+          "lat": 52.8481718,
+          "lng": -8.0838723
+        }
+      },
+      "location": {
+        "lat": 53.2356871,
+        "lng": -7.7122229
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.424279,
+          "lng": -6.9777077
+        },
+        "southwest": {
+          "lat": 52.8481718,
+          "lng": -8.0838723
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ9-fdiXEHXUgRcHcqLqfHAAQ",
+    "types": [
+      "administrative_area_level_2",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2369,
+    "area_name": "Killane",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Killane",
+        "short_name": "Killane",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Drumcooly",
+        "short_name": "Drumcooly",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Drumcooly, Killane, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.33235999999999,
+        "lng": -7.07009
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3337089802915,
+          "lng": -7.068741019708497
+        },
+        "southwest": {
+          "lat": 53.3310110197085,
+          "lng": -7.071438980291502
+        }
+      }
+    },
+    "place_id": "ChIJcQaMIciaXUgRFCo2CccfsEA",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2290,
+    "area_name": "Derrygrogan",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Derrygrogan",
+        "short_name": "Derrygrogan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Derrygrogan Little",
+        "short_name": "Derrygrogan Little",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Derrygrogan Little, Derrygrogan, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.30779,
+        "lng": -7.39174
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3091389802915,
+          "lng": -7.390391019708498
+        },
+        "southwest": {
+          "lat": 53.3064410197085,
+          "lng": -7.393088980291503
+        }
+      }
+    },
+    "place_id": "ChIJ_y2ViWGjXUgRsxD7rcLYv0E",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2287,
+    "area_name": "Goteen Bridge",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Offaly",
+        "short_name": "Offaly",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Offaly, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.424279,
+          "lng": -6.9777077
+        },
+        "southwest": {
+          "lat": 52.8481718,
+          "lng": -8.0838723
+        }
+      },
+      "location": {
+        "lat": 53.2356871,
+        "lng": -7.7122229
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.424279,
+          "lng": -6.9777077
+        },
+        "southwest": {
+          "lat": 52.8481718,
+          "lng": -8.0838723
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ9-fdiXEHXUgRcHcqLqfHAAQ",
+    "types": [
+      "administrative_area_level_2",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2220,
+    "area_name": "Ferbane",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Ferbane",
+        "short_name": "Ferbane",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ferbane",
+        "short_name": "Ferbane",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ferbane, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.27195,
+        "lng": -7.8278719
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.27329898029149,
+          "lng": -7.826522919708498
+        },
+        "southwest": {
+          "lat": 53.27060101970849,
+          "lng": -7.829220880291502
+        }
+      }
+    },
+    "place_id": "ChIJRWLQdC9SXEgRwI4xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4006,
+    "area_name": "Shannonbridge",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Shannonbridge",
+        "short_name": "Shannonbridge",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Raghra",
+        "short_name": "Raghra",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Raghra, Shannonbridge, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.279632,
+        "lng": -8.044721299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2809809802915,
+          "lng": -8.043372319708498
+        },
+        "southwest": {
+          "lat": 53.2782830197085,
+          "lng": -8.046070280291502
+        }
+      }
+    },
+    "place_id": "ChIJIw1I-6NZXEgRg8y9Y-YBwvA",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1431,
+    "area_name": "Shinrone",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Shinrone",
+        "short_name": "Shinrone",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Shinrone",
+        "short_name": "Shinrone",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Shinrone, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.9844035,
+        "lng": -7.9245622
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.9857524802915,
+          "lng": -7.923213219708498
+        },
+        "southwest": {
+          "lat": 52.9830545197085,
+          "lng": -7.925911180291503
+        }
+      }
+    },
+    "place_id": "ChIJ6aD-C07wXEgRoI4xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2710,
+    "area_name": "Tober",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Tober",
+        "short_name": "Tober",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Tober, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.3882986,
+          "lng": -7.664813799999999
+        },
+        "southwest": {
+          "lat": 53.3736092,
+          "lng": -7.6823723
+        }
+      },
+      "location": {
+        "lat": 53.3819491,
+        "lng": -7.6715792
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3882986,
+          "lng": -7.664813799999999
+        },
+        "southwest": {
+          "lat": 53.3736092,
+          "lng": -7.6823723
+        }
+      }
+    },
+    "place_id": "ChIJ67yF9L-zXUgRYtta6snx-AY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2373,
+    "area_name": "Clonbullogue",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Clonbulloge",
+        "short_name": "Clonbulloge",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Clonbulloge",
+        "short_name": "Clonbulloge",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Clonbulloge, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.26068309999999,
+        "lng": -7.086431
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.2620320802915,
+          "lng": -7.085082019708499
+        },
+        "southwest": {
+          "lat": 53.2593341197085,
+          "lng": -7.087779980291502
+        }
+      }
+    },
+    "place_id": "ChIJlewM_YKcXUgRIJYxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2752,
+    "area_name": "Edenderry",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Edenderry",
+        "short_name": "Edenderry",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Edenderry, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.3540001,
+          "lng": -7.0319799
+        },
+        "southwest": {
+          "lat": 53.33029999999999,
+          "lng": -7.084869899999999
+        }
+      },
+      "location": {
+        "lat": 53.34328430000001,
+        "lng": -7.050583199999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3540001,
+          "lng": -7.0319799
+        },
+        "southwest": {
+          "lat": 53.33029999999999,
+          "lng": -7.084869899999999
+        }
+      }
+    },
+    "place_id": "ChIJMwyeHE2FXUgRsJExl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2295,
+    "area_name": "Kilclonfert",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Kilclonfert",
+        "short_name": "Kilclonfert",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilclonfert, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.3374343,
+          "lng": -7.3487675
+        },
+        "southwest": {
+          "lat": 53.3219479,
+          "lng": -7.369496199999999
+        }
+      },
+      "location": {
+        "lat": 53.3288574,
+        "lng": -7.3598649
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.3374343,
+          "lng": -7.3487675
+        },
+        "southwest": {
+          "lat": 53.3219479,
+          "lng": -7.369496199999999
+        }
+      }
+    },
+    "place_id": "ChIJ1RK2tjGjXUgRnrRmOL4YxSI",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2223,
+    "area_name": "Shannon Harbour",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Shannon Harbour",
+        "short_name": "Shannon Harbour",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Clonony Beg",
+        "short_name": "Clonony Beg",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Clonony Beg, Shannon Harbour, Co. Offaly, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.2219454,
+        "lng": -7.9510616
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.22329438029149,
+          "lng": -7.949712619708498
+        },
+        "southwest": {
+          "lat": 53.2205964197085,
+          "lng": -7.952410580291502
+        }
+      }
+    },
+    "place_id": "ChIJPydoRwZaXEgREuO6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2325,
+    "area_name": "Togher",
+    "county_name": "Offaly",
+    "county_id": 6,
+    "address_components": [
+      {
+        "long_name": "Offaly",
+        "short_name": "Offaly",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Offaly",
+        "short_name": "OY",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Offaly, Co. Offaly, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.424279,
+          "lng": -6.9777077
+        },
+        "southwest": {
+          "lat": 52.8481718,
+          "lng": -8.0838723
+        }
+      },
+      "location": {
+        "lat": 53.2356871,
+        "lng": -7.7122229
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.424279,
+          "lng": -6.9777077
+        },
+        "southwest": {
+          "lat": 52.8481718,
+          "lng": -8.0838723
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ9-fdiXEHXUgRcHcqLqfHAAQ",
+    "types": [
+      "administrative_area_level_2",
+      "political"
+    ]
+  }
+]

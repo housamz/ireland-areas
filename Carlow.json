@@ -1,0 +1,3751 @@
+[
+  {
+    "area_id": 4198,
+    "area_name": "Augha",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Agha",
+        "short_name": "Agha",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Agha, Co. Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.7433369,
+          "lng": -6.9038308
+        },
+        "southwest": {
+          "lat": 52.7217813,
+          "lng": -6.929080799999999
+        }
+      },
+      "location": {
+        "lat": 52.7334784,
+        "lng": -6.915171
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7433369,
+          "lng": -6.9038308
+        },
+        "southwest": {
+          "lat": 52.7217813,
+          "lng": -6.929080799999999
+        }
+      }
+    },
+    "place_id": "ChIJBU2l2shEXUgR4zamPdLN5iQ",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1687,
+    "area_name": "Ballinabranagh",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Ballinabrannagh",
+        "short_name": "Ballinabrannagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballinabrannagh, Co. Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.79766069999999,
+          "lng": -6.986633500000001
+        },
+        "southwest": {
+          "lat": 52.7804751,
+          "lng": -7.010504900000001
+        }
+      },
+      "location": {
+        "lat": 52.7888956,
+        "lng": -6.9998685
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.79766069999999,
+          "lng": -6.986633500000001
+        },
+        "southwest": {
+          "lat": 52.7804751,
+          "lng": -7.010504900000001
+        }
+      }
+    },
+    "place_id": "ChIJhd1Tt7dDXUgR4E_fN6nHABg",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1697,
+    "area_name": "Bagenalstown",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Muine Bheag",
+        "short_name": "Muine Bheag",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Muine Bheag, Co. Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.7065285,
+          "lng": -6.9385026
+        },
+        "southwest": {
+          "lat": 52.6870201,
+          "lng": -6.983196599999999
+        }
+      },
+      "location": {
+        "lat": 52.7007292,
+        "lng": -6.957055599999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7065285,
+          "lng": -6.9385026
+        },
+        "southwest": {
+          "lat": 52.6870201,
+          "lng": -6.983196599999999
+        }
+      }
+    },
+    "place_id": "ChIJsbs34KRFXUgRQIExl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1654,
+    "area_name": "Carlow Town",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Carlow",
+        "short_name": "Carlow",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8511318,
+          "lng": -6.8771427
+        },
+        "southwest": {
+          "lat": 52.81785199999999,
+          "lng": -6.9460839
+        }
+      },
+      "location": {
+        "lat": 52.835854,
+        "lng": -6.932474399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8511318,
+          "lng": -6.8771427
+        },
+        "southwest": {
+          "lat": 52.81785199999999,
+          "lng": -6.9460839
+        }
+      }
+    },
+    "place_id": "ChIJEWEVYFFdXUgRBpnunAxHwgM",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1714,
+    "area_name": "Ardattin",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Ardattin",
+        "short_name": "Ardattin",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ardattin",
+        "short_name": "Ardattin",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ardattin, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.7550249,
+        "lng": -6.7061489
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.75637388029149,
+          "lng": -6.704799919708497
+        },
+        "southwest": {
+          "lat": 52.75367591970849,
+          "lng": -6.707497880291502
+        }
+      }
+    },
+    "place_id": "ChIJsQI18LtYXUgR0NExl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3948,
+    "area_name": "Clough",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Carlow",
+        "short_name": "Carlow",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8511318,
+          "lng": -6.8771427
+        },
+        "southwest": {
+          "lat": 52.81785199999999,
+          "lng": -6.9460839
+        }
+      },
+      "location": {
+        "lat": 52.835854,
+        "lng": -6.932474399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8511318,
+          "lng": -6.8771427
+        },
+        "southwest": {
+          "lat": 52.81785199999999,
+          "lng": -6.9460839
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJEWEVYFFdXUgRBpnunAxHwgM",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1035,
+    "area_name": "Ballymurphy",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Ballymurphy",
+        "short_name": "Ballymurphy",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballymurphy",
+        "short_name": "Ballymurphy",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballymurphy, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.5722332,
+        "lng": -6.861485099999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.5735821802915,
+          "lng": -6.860136119708497
+        },
+        "southwest": {
+          "lat": 52.5708842197085,
+          "lng": -6.862834080291502
+        }
+      }
+    },
+    "place_id": "ChIJ0wJoWgpSXUgR4su6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1715,
+    "area_name": "Ballon",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Ballon",
+        "short_name": "Ballon",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballon",
+        "short_name": "Ballon",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballon, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.7391042,
+        "lng": -6.769783899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7404531802915,
+          "lng": -6.768434919708497
+        },
+        "southwest": {
+          "lat": 52.7377552197085,
+          "lng": -6.771132880291502
+        }
+      }
+    },
+    "place_id": "ChIJWextkGtZXUgRQIIxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4225,
+    "area_name": "Bennekerry",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Bennekerry",
+        "short_name": "Bennekerry",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Bennekerry, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.8401945,
+        "lng": -6.8890898
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.84154348029149,
+          "lng": -6.887740819708498
+        },
+        "southwest": {
+          "lat": 52.8388455197085,
+          "lng": -6.890438780291502
+        }
+      }
+    },
+    "place_id": "ChIJa9WELL9dXUgRIF_kN6nHABg",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  },
+  {
+    "area_id": 1678,
+    "area_name": "Ballyhacket",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Ballyhacket",
+        "short_name": "Ballyhacket",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Rathmore",
+        "short_name": "Rathmore",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rathmore, Ballyhacket, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.857,
+        "lng": -6.740159999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8583489802915,
+          "lng": -6.738811019708497
+        },
+        "southwest": {
+          "lat": 52.8556510197085,
+          "lng": -6.741508980291502
+        }
+      }
+    },
+    "place_id": "ChIJjSvV0wpgXUgRCNsVBAQMiu8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1033,
+    "area_name": "Borris",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Borris",
+        "short_name": "Borris",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Borris, Co. Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.6085383,
+          "lng": -6.9138138
+        },
+        "southwest": {
+          "lat": 52.59521669999999,
+          "lng": -6.938764399999999
+        }
+      },
+      "location": {
+        "lat": 52.6012982,
+        "lng": -6.9279771
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6085383,
+          "lng": -6.9138138
+        },
+        "southwest": {
+          "lat": 52.59521669999999,
+          "lng": -6.938764399999999
+        }
+      }
+    },
+    "place_id": "ChIJYeUk42FOXUgRIIYxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1699,
+    "area_name": "Ballybrommel",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Carlow",
+        "short_name": "Carlow",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8511318,
+          "lng": -6.8771427
+        },
+        "southwest": {
+          "lat": 52.81785199999999,
+          "lng": -6.9460839
+        }
+      },
+      "location": {
+        "lat": 52.835854,
+        "lng": -6.932474399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8511318,
+          "lng": -6.8771427
+        },
+        "southwest": {
+          "lat": 52.81785199999999,
+          "lng": -6.9460839
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJEWEVYFFdXUgRBpnunAxHwgM",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1704,
+    "area_name": "Fenagh",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Fenagh",
+        "short_name": "Fenagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Fennagh",
+        "short_name": "Fennagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Fennagh, Fenagh, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.71467,
+        "lng": -6.84615
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.71601898029149,
+          "lng": -6.844801019708498
+        },
+        "southwest": {
+          "lat": 52.71332101970849,
+          "lng": -6.847498980291502
+        }
+      }
+    },
+    "place_id": "ChIJ1RNrSf9aXUgRnP54k8Up4Rc",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1772,
+    "area_name": "Clonmore",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Clonmore",
+        "short_name": "Clonmore",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Glebe",
+        "short_name": "Glebe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Glebe, Clonmore, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.8263338,
+        "lng": -6.569289899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8276827802915,
+          "lng": -6.567940919708497
+        },
+        "southwest": {
+          "lat": 52.8249848197085,
+          "lng": -6.570638880291502
+        }
+      }
+    },
+    "place_id": "ChIJZVcK7HTzZ0gR8t66GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3993,
+    "area_name": "Graiguenamanagh",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Graiguenamanagh",
+        "short_name": "Graiguenamanagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Graiguenamanagh",
+        "short_name": "Graiguenamanagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Kilkenny",
+        "short_name": "County Kilkenny",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Graiguenamanagh, Co. Kilkenny, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.5409689,
+        "lng": -6.955470699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.54231788029151,
+          "lng": -6.954121719708497
+        },
+        "southwest": {
+          "lat": 52.53961991970851,
+          "lng": -6.956819680291502
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJn_DRo31MXUgRQIwxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1037,
+    "area_name": "Drumfea",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Drumfea",
+        "short_name": "Drumfea",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Hollybrook",
+        "short_name": "Hollybrook",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Drumfea, Hollybrook, Co. Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.6677203,
+          "lng": -6.820842499999999
+        },
+        "southwest": {
+          "lat": 52.6527035,
+          "lng": -6.8495876
+        }
+      },
+      "location": {
+        "lat": 52.661413,
+        "lng": -6.837131599999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6677203,
+          "lng": -6.820842499999999
+        },
+        "southwest": {
+          "lat": 52.6527035,
+          "lng": -6.8495876
+        }
+      }
+    },
+    "place_id": "ChIJP9agv2ZQXUgR0gW7GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1705,
+    "area_name": "Carrig Beg",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Carrig Beg",
+        "short_name": "Carrig Beg",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carrig Beg, Co. Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.69748569999999,
+          "lng": -6.885314300000001
+        },
+        "southwest": {
+          "lat": 52.6870994,
+          "lng": -6.910505499999999
+        }
+      },
+      "location": {
+        "lat": 52.6909657,
+        "lng": -6.8988032
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.69748569999999,
+          "lng": -6.885314300000001
+        },
+        "southwest": {
+          "lat": 52.6870994,
+          "lng": -6.910505499999999
+        }
+      }
+    },
+    "place_id": "ChIJadFH6EpFXUgRtoCyyK4MuqQ",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3953,
+    "area_name": "Bunclody",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Carlow",
+        "short_name": "Carlow",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8511318,
+          "lng": -6.8771427
+        },
+        "southwest": {
+          "lat": 52.81785199999999,
+          "lng": -6.9460839
+        }
+      },
+      "location": {
+        "lat": 52.835854,
+        "lng": -6.932474399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8511318,
+          "lng": -6.8771427
+        },
+        "southwest": {
+          "lat": 52.81785199999999,
+          "lng": -6.9460839
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJEWEVYFFdXUgRBpnunAxHwgM",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1689,
+    "area_name": "Ballybannon",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Ballybannon",
+        "short_name": "Ballybannon",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballybannon, Co. Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.7943727,
+          "lng": -6.9357995
+        },
+        "southwest": {
+          "lat": 52.7792237,
+          "lng": -6.9638723
+        }
+      },
+      "location": {
+        "lat": 52.78711389999999,
+        "lng": -6.946653299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7943727,
+          "lng": -6.9357995
+        },
+        "southwest": {
+          "lat": 52.7792237,
+          "lng": -6.9638723
+        }
+      }
+    },
+    "place_id": "ChIJ0UgBrxdDXUgRtkpaTbxn1WU",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1709,
+    "area_name": "Ballynakill",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Ballynakill",
+        "short_name": "Ballynakill",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballynakill, Co. Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8297811,
+          "lng": -6.6017714
+        },
+        "southwest": {
+          "lat": 52.817794,
+          "lng": -6.6284294
+        }
+      },
+      "location": {
+        "lat": 52.82350280000001,
+        "lng": -6.615475699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8297811,
+          "lng": -6.6017714
+        },
+        "southwest": {
+          "lat": 52.817794,
+          "lng": -6.6284294
+        }
+      }
+    },
+    "place_id": "ChIJuR9BUYn0Z0gR0MZZor69ejM",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1032,
+    "area_name": "Ballinkillin",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Ballinkillen",
+        "short_name": "Ballinkillen",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballinkillin",
+        "short_name": "Ballinkillin",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballinkillin, Ballinkillen, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.65396,
+        "lng": -6.93134
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.65530898029149,
+          "lng": -6.929991019708497
+        },
+        "southwest": {
+          "lat": 52.6526110197085,
+          "lng": -6.932688980291502
+        }
+      }
+    },
+    "place_id": "ChIJaeY_q6NPXUgRQLAxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4108,
+    "area_name": "Garryhill",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Garryhill",
+        "short_name": "Garryhill",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Garryhill",
+        "short_name": "Garryhill",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Garryhill, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.6790856,
+        "lng": -6.8542571
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6804345802915,
+          "lng": -6.852908119708498
+        },
+        "southwest": {
+          "lat": 52.6777366197085,
+          "lng": -6.855606080291502
+        }
+      }
+    },
+    "place_id": "ChIJ8Ve6TZxaXUgRewtXIOysfuE",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1036,
+    "area_name": "Gowlin",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Gowlin",
+        "short_name": "Gowlin",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Gowlin, Co. Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.5446044,
+          "lng": -6.8282893
+        },
+        "southwest": {
+          "lat": 52.5312662,
+          "lng": -6.869527199999999
+        }
+      },
+      "location": {
+        "lat": 52.5389749,
+        "lng": -6.8569517
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.5446044,
+          "lng": -6.8282893
+        },
+        "southwest": {
+          "lat": 52.5312662,
+          "lng": -6.869527199999999
+        }
+      }
+    },
+    "place_id": "ChIJ86R98XtNXUgR4ga7GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3838,
+    "area_name": "Grange",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Four Lakes Retail Park",
+        "short_name": "Four Lakes Retail Park",
+        "types": [
+          "premise"
+        ]
+      },
+      {
+        "long_name": "Dublin Road",
+        "short_name": "Dublin Rd",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Pollerton Big",
+        "short_name": "Pollerton Big",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Carlow",
+        "short_name": "Carlow",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "R93 VF76",
+        "short_name": "R93 VF76",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "formatted_address": "Four Lakes Retail Park, Dublin Rd, Pollerton Big, Carlow, R93 VF76, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.84574629999999,
+        "lng": -6.9026052
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8471367302915,
+          "lng": -6.901550119708498
+        },
+        "southwest": {
+          "lat": 52.8444387697085,
+          "lng": -6.904248080291501
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJdYbCh4pnXUgRdkK5DXFhJsI",
+    "plus_code": {
+      "compound_code": "R3WW+7X Carlow, County Carlow, Ireland",
+      "global_code": "9C4MR3WW+7X"
+    },
+    "types": [
+      "department_store",
+      "establishment",
+      "furniture_store",
+      "home_goods_store",
+      "point_of_interest",
+      "store"
+    ]
+  },
+  {
+    "area_id": 1718,
+    "area_name": "Kildavin",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Kildavin",
+        "short_name": "Kildavin",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kildavin",
+        "short_name": "Kildavin",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kildavin, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.683205,
+        "lng": -6.6849832
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6845539802915,
+          "lng": -6.683634219708499
+        },
+        "southwest": {
+          "lat": 52.6818560197085,
+          "lng": -6.686332180291503
+        }
+      }
+    },
+    "place_id": "ChIJdxH0nPdXXUgR4Agyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4053,
+    "area_name": "Cloydah",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Cloydah",
+        "short_name": "Cloydah",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Mortarstown Lower",
+        "short_name": "Mortarstown Lower",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Mortarstown Lower, Cloydah, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.80186,
+        "lng": -6.9674
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8032089802915,
+          "lng": -6.966051019708497
+        },
+        "southwest": {
+          "lat": 52.8005110197085,
+          "lng": -6.968748980291502
+        }
+      }
+    },
+    "place_id": "ChIJx58rXvtCXUgRAqRTu6fHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1692,
+    "area_name": "Graigue Hill",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Graigue Hill",
+        "short_name": "Graigue Hill",
+        "types": [
+          "establishment",
+          "natural_feature"
+        ]
+      },
+      {
+        "long_name": "Kilcoole",
+        "short_name": "Kilcoole",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Graigue Hill, Kilcoole, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.7694444,
+        "lng": -6.8466667
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7707933802915,
+          "lng": -6.845317719708498
+        },
+        "southwest": {
+          "lat": 52.7680954197085,
+          "lng": -6.848015680291502
+        }
+      }
+    },
+    "place_id": "ChIJ6ZswR3pcXUgR4PMmePDNgv8",
+    "plus_code": {
+      "compound_code": "Q593+Q8 Barristown, County Carlow, Ireland",
+      "global_code": "9C4MQ593+Q8"
+    },
+    "types": [
+      "establishment",
+      "natural_feature"
+    ]
+  },
+  {
+    "area_id": 1626,
+    "area_name": "Lackan",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Lacken Rise",
+        "short_name": "Lacken Rise",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Chapelstown",
+        "short_name": "Chapelstown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Carlow",
+        "short_name": "Carlow",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lacken Rise, Chapelstown, Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8327412,
+          "lng": -6.9067573
+        },
+        "southwest": {
+          "lat": 52.8315304,
+          "lng": -6.9079031
+        }
+      },
+      "location": {
+        "lat": 52.8321093,
+        "lng": -6.9073379
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8334847802915,
+          "lng": -6.905981219708497
+        },
+        "southwest": {
+          "lat": 52.8307868197085,
+          "lng": -6.908679180291502
+        }
+      }
+    },
+    "place_id": "ChIJ1xE2c0NdXUgRE5wyXO7yVUc",
+    "types": [
+      "route"
+    ]
+  },
+  {
+    "area_id": 1679,
+    "area_name": "Lisnavagh",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Lisnevagh",
+        "short_name": "Lisnevagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lisnevagh, Co. Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8645512,
+          "lng": -6.6699502
+        },
+        "southwest": {
+          "lat": 52.84639139999999,
+          "lng": -6.699356300000001
+        }
+      },
+      "location": {
+        "lat": 52.856283,
+        "lng": -6.6864215
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8645512,
+          "lng": -6.6699502
+        },
+        "southwest": {
+          "lat": 52.84639139999999,
+          "lng": -6.699356300000001
+        }
+      }
+    },
+    "place_id": "ChIJuU47hkr1Z0gR2SGZnwBeRUg",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1693,
+    "area_name": "Nurney",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Nurney",
+        "short_name": "Nurney",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Nurney",
+        "short_name": "Nurney",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Nurney, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.7520689,
+        "lng": -6.9110065
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.75341788029149,
+          "lng": -6.909657519708498
+        },
+        "southwest": {
+          "lat": 52.7507199197085,
+          "lng": -6.912355480291502
+        }
+      }
+    },
+    "place_id": "ChIJv2nNA1NbXUgRQBkyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1685,
+    "area_name": "Tinryland",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Tinryland",
+        "short_name": "Tinryland",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Tinriland",
+        "short_name": "Tinriland",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Tinriland, Tinryland, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.7969671,
+        "lng": -6.8957413
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.79831608029149,
+          "lng": -6.894392319708498
+        },
+        "southwest": {
+          "lat": 52.79561811970849,
+          "lng": -6.897090280291502
+        }
+      }
+    },
+    "place_id": "ChIJRcY-pN1cXUgRgLExl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4251,
+    "area_name": "Killerig",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Killerrig",
+        "short_name": "Killerrig",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Killerrig",
+        "short_name": "Killerrig",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Killerrig, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.84305939999999,
+        "lng": -6.789064300000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8444083802915,
+          "lng": -6.787715319708499
+        },
+        "southwest": {
+          "lat": 52.8417104197085,
+          "lng": -6.790413280291503
+        }
+      }
+    },
+    "place_id": "ChIJvWZ3HCNeXUgR6OG9w6GJhy8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3928,
+    "area_name": "Rathoe",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Rathoe",
+        "short_name": "Rathoe",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Rathtoe",
+        "short_name": "Rathtoe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rathtoe, Rathoe, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.7872217,
+        "lng": -6.8000132
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.78857068029151,
+          "lng": -6.798664219708497
+        },
+        "southwest": {
+          "lat": 52.78587271970851,
+          "lng": -6.801362180291502
+        }
+      }
+    },
+    "place_id": "ChIJ7WuZCaJeXUgR4Kkxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1676,
+    "area_name": "Rathvilly",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Rathvilly",
+        "short_name": "Rathvilly",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Rathvilly",
+        "short_name": "Rathvilly",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rathvilly, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.87983449999999,
+        "lng": -6.6960481
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.88118348029149,
+          "lng": -6.694699119708498
+        },
+        "southwest": {
+          "lat": 52.8784855197085,
+          "lng": -6.697397080291502
+        }
+      }
+    },
+    "place_id": "ChIJZYlpjJWKZ0gRII4xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1742,
+    "area_name": "Hacketstown",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Hacketstown",
+        "short_name": "Hacketstown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Hacketstown Upper",
+        "short_name": "Hacketstown Upper",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Hacketstown Upper, Hacketstown, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.8653857,
+        "lng": -6.5586053
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8667346802915,
+          "lng": -6.557256319708498
+        },
+        "southwest": {
+          "lat": 52.8640367197085,
+          "lng": -6.559954280291502
+        }
+      }
+    },
+    "place_id": "ChIJR1KEGC3zZ0gRYAYyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1625,
+    "area_name": "Ridge",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Carlow",
+        "short_name": "Carlow",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8511318,
+          "lng": -6.8771427
+        },
+        "southwest": {
+          "lat": 52.81785199999999,
+          "lng": -6.9460839
+        }
+      },
+      "location": {
+        "lat": 52.835854,
+        "lng": -6.932474399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8511318,
+          "lng": -6.8771427
+        },
+        "southwest": {
+          "lat": 52.81785199999999,
+          "lng": -6.9460839
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJEWEVYFFdXUgRBpnunAxHwgM",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1696,
+    "area_name": "Leighlinbridge",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Leighlinbridge",
+        "short_name": "Leighlinbridge",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Leighlinbridge, Co. Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.7418099,
+          "lng": -6.9693767
+        },
+        "southwest": {
+          "lat": 52.7288504,
+          "lng": -6.986976299999999
+        }
+      },
+      "location": {
+        "lat": 52.73605190000001,
+        "lng": -6.9759183
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7418099,
+          "lng": -6.9693767
+        },
+        "southwest": {
+          "lat": 52.7288504,
+          "lng": -6.986976299999999
+        }
+      }
+    },
+    "place_id": "ChIJFxYg4mhEXUgR4I4xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1624,
+    "area_name": "The Butts",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "The Butts",
+        "short_name": "The Butts",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Agharue",
+        "short_name": "Agharue",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Agharue, The Butts, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.7694858,
+        "lng": -7.0775203
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7708347802915,
+          "lng": -7.076171319708497
+        },
+        "southwest": {
+          "lat": 52.7681368197085,
+          "lng": -7.078869280291502
+        }
+      }
+    },
+    "place_id": "ChIJe3EdxiFBXUgRvbAVrLk5A80",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1034,
+    "area_name": "Kilcoltrim",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Kilcoltrim",
+        "short_name": "Kilcoltrim",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Clashganny",
+        "short_name": "Clashganny",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilcoltrim, Clashganny, Co. Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.6025409,
+          "lng": -6.8920957
+        },
+        "southwest": {
+          "lat": 52.58585679999999,
+          "lng": -6.9150822
+        }
+      },
+      "location": {
+        "lat": 52.5956274,
+        "lng": -6.904560900000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6025409,
+          "lng": -6.8920957
+        },
+        "southwest": {
+          "lat": 52.58585679999999,
+          "lng": -6.9150822
+        }
+      }
+    },
+    "place_id": "ChIJD5qMRw1OXUgRAgC8GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3911,
+    "area_name": "Newtown",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Carlow",
+        "short_name": "Carlow",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8511318,
+          "lng": -6.8771427
+        },
+        "southwest": {
+          "lat": 52.81785199999999,
+          "lng": -6.9460839
+        }
+      },
+      "location": {
+        "lat": 52.835854,
+        "lng": -6.932474399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8511318,
+          "lng": -6.8771427
+        },
+        "southwest": {
+          "lat": 52.81785199999999,
+          "lng": -6.9460839
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJEWEVYFFdXUgRBpnunAxHwgM",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1031,
+    "area_name": "Corries",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Corries",
+        "short_name": "Corries",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Corries, Co. Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.6589624,
+          "lng": -6.8971483
+        },
+        "southwest": {
+          "lat": 52.6458616,
+          "lng": -6.9203303
+        }
+      },
+      "location": {
+        "lat": 52.652108,
+        "lng": -6.909458799999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6589624,
+          "lng": -6.8971483
+        },
+        "southwest": {
+          "lat": 52.6458616,
+          "lng": -6.9203303
+        }
+      }
+    },
+    "place_id": "ChIJh7H-dONPXUgRkA_fN6nHABg",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1783,
+    "area_name": "Clonegal",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Clonegall",
+        "short_name": "Clonegall",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Huntington",
+        "short_name": "Huntington",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Huntington, Clonegall, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.6948009,
+        "lng": -6.6477303
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.69614988029149,
+          "lng": -6.646381319708499
+        },
+        "southwest": {
+          "lat": 52.69345191970849,
+          "lng": -6.649079280291502
+        }
+      }
+    },
+    "place_id": "ChIJReFTdIv3Z0gRkK0xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1716,
+    "area_name": "Myshall",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Myshall",
+        "short_name": "Myshall",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Myshall",
+        "short_name": "Myshall",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Myshall, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.6858791,
+        "lng": -6.7804051
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.6872280802915,
+          "lng": -6.779056119708499
+        },
+        "southwest": {
+          "lat": 52.6845301197085,
+          "lng": -6.781754080291503
+        }
+      }
+    },
+    "place_id": "ChIJtxxTxPhZXUgRkKoxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1038,
+    "area_name": "Killedmond",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Killedmond",
+        "short_name": "Killedmond",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Killedmond, Co. Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.61612599999999,
+          "lng": -6.8262632
+        },
+        "southwest": {
+          "lat": 52.6053402,
+          "lng": -6.8555569
+        }
+      },
+      "location": {
+        "lat": 52.6098939,
+        "lng": -6.842719499999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.61612599999999,
+          "lng": -6.8262632
+        },
+        "southwest": {
+          "lat": 52.6053402,
+          "lng": -6.8555569
+        }
+      }
+    },
+    "place_id": "ChIJnRaB2ZVRXUgRggW7GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1707,
+    "area_name": "Seskinryan",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Seskinryan",
+        "short_name": "Seskinryan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Muine Bheag",
+        "short_name": "Muine Bheag",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Seskinryan, Muine Bheag, Co. Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.69630189999999,
+          "lng": -6.9157058
+        },
+        "southwest": {
+          "lat": 52.6794328,
+          "lng": -6.9409757
+        }
+      },
+      "location": {
+        "lat": 52.6878045,
+        "lng": -6.9274396
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.69630189999999,
+          "lng": -6.9157058
+        },
+        "southwest": {
+          "lat": 52.6794328,
+          "lng": -6.9409757
+        }
+      }
+    },
+    "place_id": "ChIJm-Hh_2tFXUgRKsmGmwNErr4",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1711,
+    "area_name": "Grangeford",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Grangeford",
+        "short_name": "Grangeford",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Hillview",
+        "short_name": "Hillview",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Grangeford, Hillview, Co. Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8188238,
+          "lng": -6.7875559
+        },
+        "southwest": {
+          "lat": 52.80374,
+          "lng": -6.8037662
+        }
+      },
+      "location": {
+        "lat": 52.8105141,
+        "lng": -6.7964352
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8188238,
+          "lng": -6.7875559
+        },
+        "southwest": {
+          "lat": 52.80374,
+          "lng": -6.8037662
+        }
+      }
+    },
+    "place_id": "ChIJ8dWZVIZeXUgR4hpUu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1681,
+    "area_name": "Graigue",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Graigue",
+        "short_name": "Graigue",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Carlow",
+        "short_name": "Carlow",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Graigue, Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8477796,
+          "lng": -6.9319676
+        },
+        "southwest": {
+          "lat": 52.8289825,
+          "lng": -6.9608408
+        }
+      },
+      "location": {
+        "lat": 52.8387991,
+        "lng": -6.940100699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8477796,
+          "lng": -6.9319676
+        },
+        "southwest": {
+          "lat": 52.8289825,
+          "lng": -6.9608408
+        }
+      }
+    },
+    "place_id": "ChIJn7rSZ6xCXUgRNBHEsGz3_Wo",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1713,
+    "area_name": "Tullow",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Tullow",
+        "short_name": "Tullow",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Templeowen",
+        "short_name": "Templeowen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Templeowen, Tullow, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.802547,
+        "lng": -6.7371517
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8038959802915,
+          "lng": -6.735802719708498
+        },
+        "southwest": {
+          "lat": 52.8011980197085,
+          "lng": -6.738500680291502
+        }
+      }
+    },
+    "place_id": "ChIJEXJuYQ1fXUgRkIwxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1698,
+    "area_name": "Rathedan",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Rathedan",
+        "short_name": "Rathedan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Muine Bheag",
+        "short_name": "Muine Bheag",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rathedan, Muine Bheag, Co. Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.7361427,
+          "lng": -6.922882100000001
+        },
+        "southwest": {
+          "lat": 52.721217,
+          "lng": -6.9518109
+        }
+      },
+      "location": {
+        "lat": 52.7287963,
+        "lng": -6.9379646
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7361427,
+          "lng": -6.922882100000001
+        },
+        "southwest": {
+          "lat": 52.721217,
+          "lng": -6.9518109
+        }
+      }
+    },
+    "place_id": "ChIJqYNdPNxEXUgRwsVTu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4007,
+    "area_name": "Graiguecullen",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Graigue",
+        "short_name": "Graigue",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Carlow",
+        "short_name": "Carlow",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Graigue, Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.8477796,
+          "lng": -6.9319676
+        },
+        "southwest": {
+          "lat": 52.8289825,
+          "lng": -6.9608408
+        }
+      },
+      "location": {
+        "lat": 52.8387991,
+        "lng": -6.940100699999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8477796,
+          "lng": -6.9319676
+        },
+        "southwest": {
+          "lat": 52.8289825,
+          "lng": -6.9608408
+        }
+      }
+    },
+    "place_id": "ChIJn7rSZ6xCXUgRNBHEsGz3_Wo",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1655,
+    "area_name": "Palatine",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Palatine",
+        "short_name": "Palatine",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Killyshane",
+        "short_name": "Killyshane",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Killyshane, Palatine, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.8649974,
+        "lng": -6.8610348
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8663463802915,
+          "lng": -6.859685819708497
+        },
+        "southwest": {
+          "lat": 52.8636484197085,
+          "lng": -6.862383780291502
+        }
+      }
+    },
+    "place_id": "ChIJLWPIX2xnXUgRYKkxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1627,
+    "area_name": "Oldleighlin",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Oldleighlin",
+        "short_name": "Oldleighlin",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Oldleighlin",
+        "short_name": "Oldleighlin",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Oldleighlin, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.7364507,
+        "lng": -7.023440099999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.7377996802915,
+          "lng": -7.022091119708497
+        },
+        "southwest": {
+          "lat": 52.7351017197085,
+          "lng": -7.024789080291502
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJsYch16ZGXUgRULAxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1052,
+    "area_name": "Drummin",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Drummin",
+        "short_name": "Drummin",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Drummin, Co. Carlow, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 52.4897474,
+          "lng": -6.895685200000001
+        },
+        "southwest": {
+          "lat": 52.4720611,
+          "lng": -6.9195556
+        }
+      },
+      "location": {
+        "lat": 52.47887919999999,
+        "lng": -6.911084799999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.4897474,
+          "lng": -6.895685200000001
+        },
+        "southwest": {
+          "lat": 52.4720611,
+          "lng": -6.9195556
+        }
+      }
+    },
+    "place_id": "ChIJJQtRgSKzQkgRI2h9rAxS60A",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1051,
+    "area_name": "St. Mullins",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Saint Mullin's",
+        "short_name": "St Mullin's",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballyknock",
+        "short_name": "Ballyknock",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyknock, St Mullin's, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.4911459,
+        "lng": -6.9297738
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.4924948802915,
+          "lng": -6.928424819708497
+        },
+        "southwest": {
+          "lat": 52.4897969197085,
+          "lng": -6.931122780291502
+        }
+      }
+    },
+    "place_id": "ChIJS4fOMzizQkgRxV3dEmC6oK4",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4197,
+    "area_name": "Oak Park",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Oak Park House",
+        "short_name": "Oak Park House",
+        "types": [
+          "premise"
+        ]
+      },
+      {
+        "long_name": "Oakpark",
+        "short_name": "Oakpark",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Oak Park House, Oakpark, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.8656519,
+        "lng": -6.9128757
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8671574302915,
+          "lng": -6.911356569708498
+        },
+        "southwest": {
+          "lat": 52.8644594697085,
+          "lng": -6.914054530291502
+        }
+      }
+    },
+    "place_id": "ChIJjytnkOpnXUgR6XM1qnsuOpE",
+    "types": [
+      "premise"
+    ]
+  },
+  {
+    "area_id": 3914,
+    "area_name": "Pollerton",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Pollerton",
+        "short_name": "Pollerton",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "Carlow",
+        "short_name": "Carlow",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Pollerton, Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.8431126,
+        "lng": -6.899811
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.84446158029149,
+          "lng": -6.898462019708497
+        },
+        "southwest": {
+          "lat": 52.8417636197085,
+          "lng": -6.901159980291502
+        }
+      }
+    },
+    "place_id": "ChIJKR_kJmFdXUgRkMriN6nHABg",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  },
+  {
+    "area_id": 1684,
+    "area_name": "Urglin Glebe",
+    "county_name": "Carlow",
+    "county_id": 10,
+    "address_components": [
+      {
+        "long_name": "Urglin Glebe",
+        "short_name": "Urglin Glebe",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Carlow",
+        "short_name": "CW",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Urglin Glebe, Co. Carlow, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 52.8426136,
+        "lng": -6.863394899999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 52.8439625802915,
+          "lng": -6.862045919708497
+        },
+        "southwest": {
+          "lat": 52.8412646197085,
+          "lng": -6.864743880291502
+        }
+      }
+    },
+    "place_id": "ChIJK6hnBoZdXUgRqC9Q3OT8Ua0",
+    "types": [
+      "political",
+      "sublocality",
+      "sublocality_level_1"
+    ]
+  }
+]

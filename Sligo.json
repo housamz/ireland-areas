@@ -1,0 +1,6219 @@
+[
+  {
+    "area_id": 1889,
+    "area_name": "Grange",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Grange",
+        "short_name": "Grange",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Newtown",
+        "short_name": "Newtown",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Newtown, Grange, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.3932789,
+        "lng": -8.5220973
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.39462788029149,
+          "lng": -8.520748319708499
+        },
+        "southwest": {
+          "lat": 54.3919299197085,
+          "lng": -8.523446280291504
+        }
+      }
+    },
+    "place_id": "ChIJ0V49U1LnXkgRwKsxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3326,
+    "area_name": "Highwood",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Sligo",
+        "short_name": "Sligo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      },
+      "location": {
+        "lat": 54.27661029999999,
+        "lng": -8.4760888
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ6a58Z7XpXkgRgHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1907,
+    "area_name": "Moneylahan",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Moneylahan",
+        "short_name": "Moneylahan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Moneylahan, Co. Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.4024377,
+          "lng": -8.4256198
+        },
+        "southwest": {
+          "lat": 54.3825987,
+          "lng": -8.4474767
+        }
+      },
+      "location": {
+        "lat": 54.39374609999999,
+        "lng": -8.4384633
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.4024377,
+          "lng": -8.4256198
+        },
+        "southwest": {
+          "lat": 54.3825987,
+          "lng": -8.4474767
+        }
+      }
+    },
+    "place_id": "ChIJ2yE_zrDmXkgRZ5OQSSSIJZM",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3299,
+    "area_name": "Achonry",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Achonry",
+        "short_name": "Achonry",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Achonry",
+        "short_name": "Achonry",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Achonry, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.0804305,
+        "lng": -8.6639096
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.08177948029149,
+          "lng": -8.662560619708499
+        },
+        "southwest": {
+          "lat": 54.0790815197085,
+          "lng": -8.665258580291503
+        }
+      }
+    },
+    "place_id": "ChIJiZ-fZcu5XkgRAqC6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3265,
+    "area_name": "Kilmacteige",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Kilmacteige",
+        "short_name": "Kilmacteige",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Oughaval",
+        "short_name": "Oughaval",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Oughaval, Kilmacteige, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.03942869999999,
+        "lng": -8.9225744
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0407776802915,
+          "lng": -8.921225419708499
+        },
+        "southwest": {
+          "lat": 54.0380797197085,
+          "lng": -8.923923380291503
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJh2RwYkdLWUgR0nLHGajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3272,
+    "area_name": "Moylough",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Moylough",
+        "short_name": "Moylough",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Moylough, Co. Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.0310493,
+          "lng": -8.6753457
+        },
+        "southwest": {
+          "lat": 54.0028284,
+          "lng": -8.7241461
+        }
+      },
+      "location": {
+        "lat": 54.018986,
+        "lng": -8.7038029
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0310493,
+          "lng": -8.6753457
+        },
+        "southwest": {
+          "lat": 54.0028284,
+          "lng": -8.7241461
+        }
+      }
+    },
+    "place_id": "ChIJMwnCts2wXkgR4q-6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3233,
+    "area_name": "Inishcrone",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Enniscrone",
+        "short_name": "Enniscrone",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Enniscrone, Co. Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.2303419,
+          "lng": -9.0757922
+        },
+        "southwest": {
+          "lat": 54.20214470000001,
+          "lng": -9.1067396
+        }
+      },
+      "location": {
+        "lat": 54.2136818,
+        "lng": -9.090835199999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2303419,
+          "lng": -9.0757922
+        },
+        "southwest": {
+          "lat": 54.20214470000001,
+          "lng": -9.1067396
+        }
+      }
+    },
+    "place_id": "ChIJ1wCmf3wxWUgRgAcyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1904,
+    "area_name": "Ballaghnatrillick",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Ballaghnatrillick",
+        "short_name": "Ballaghnatrillick",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Gortnahoula",
+        "short_name": "Gortnahoula",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Gortnahoula, Ballaghnatrillick, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.4137187,
+        "lng": -8.387833400000002
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.4150676802915,
+          "lng": -8.3864844197085
+        },
+        "southwest": {
+          "lat": 54.4123697197085,
+          "lng": -8.389182380291505
+        }
+      }
+    },
+    "place_id": "ChIJuZAy3wfkXkgRZQ0S1GcFrWk",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3307,
+    "area_name": "Kesh",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Kesh",
+        "short_name": "Kesh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Fallougher",
+        "short_name": "Fallougher",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Fallougher, Kesh, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.0504431,
+        "lng": -8.4452108
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0517920802915,
+          "lng": -8.443861819708498
+        },
+        "southwest": {
+          "lat": 54.0490941197085,
+          "lng": -8.446559780291503
+        }
+      }
+    },
+    "place_id": "ChIJo6Tl9we-XkgR4p66GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3301,
+    "area_name": "Killavil",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Killavil",
+        "short_name": "Killavil",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Killavil, Co. Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.0393742,
+          "lng": -8.5500472
+        },
+        "southwest": {
+          "lat": 54.0290139,
+          "lng": -8.5646238
+        }
+      },
+      "location": {
+        "lat": 54.0336143,
+        "lng": -8.5557989
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0393742,
+          "lng": -8.5500472
+        },
+        "southwest": {
+          "lat": 54.0290139,
+          "lng": -8.5646238
+        }
+      }
+    },
+    "place_id": "ChIJu1yhYvy7XkgRwru6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3276,
+    "area_name": "Lavagh",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Lavagh",
+        "short_name": "Lavagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lavagh",
+        "short_name": "Lavagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lavagh, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.1052387,
+        "lng": -8.6857851
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.1065876802915,
+          "lng": -8.684436119708499
+        },
+        "southwest": {
+          "lat": 54.1038897197085,
+          "lng": -8.687134080291504
+        }
+      }
+    },
+    "place_id": "ChIJd2EBOhy4XkgRMZy6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3262,
+    "area_name": "Largan",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Largan",
+        "short_name": "Largan",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "River View",
+        "short_name": "River View",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Largan, River View, Co. Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.19564099999999,
+          "lng": -8.5244339
+        },
+        "southwest": {
+          "lat": 54.18251850000001,
+          "lng": -8.5497389
+        }
+      },
+      "location": {
+        "lat": 54.188011,
+        "lng": -8.536359500000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.19564099999999,
+          "lng": -8.5244339
+        },
+        "southwest": {
+          "lat": 54.18251850000001,
+          "lng": -8.5497389
+        }
+      }
+    },
+    "place_id": "ChIJU-VKpAfBXkgRAq5Ou6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3254,
+    "area_name": "Owenbeg",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Owenbeg",
+        "short_name": "Owenbeg",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Owenbeg",
+        "short_name": "Owenbeg",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Owenbeg, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.2326201,
+        "lng": -8.94169
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2339690802915,
+          "lng": -8.940341019708496
+        },
+        "southwest": {
+          "lat": 54.2312711197085,
+          "lng": -8.943038980291501
+        }
+      }
+    },
+    "place_id": "ChIJ9y27ot_MXkgRxrj5TIOF8FI",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3295,
+    "area_name": "Ballinacarrow",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Ballynacarrow",
+        "short_name": "Ballynacarrow",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballynacarrow South",
+        "short_name": "Ballynacarrow South",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballynacarrow South, Ballynacarrow, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.13409679999999,
+        "lng": -8.560462
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.13544578029149,
+          "lng": -8.559113019708498
+        },
+        "southwest": {
+          "lat": 54.13274781970849,
+          "lng": -8.561810980291503
+        }
+      }
+    },
+    "place_id": "ChIJtdLfoajAXkgRAswjT9RjQGY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3961,
+    "area_name": "Gortfadda",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Sligo",
+        "short_name": "Sligo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      },
+      "location": {
+        "lat": 54.27661029999999,
+        "lng": -8.4760888
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ6a58Z7XpXkgRgHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3261,
+    "area_name": "Masshill",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Masshill",
+        "short_name": "Masshill",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Sessuegarry",
+        "short_name": "Sessuegarry",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Sessuegarry, Masshill, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.10351,
+        "lng": -8.85558
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.1048589802915,
+          "lng": -8.854231019708497
+        },
+        "southwest": {
+          "lat": 54.1021610197085,
+          "lng": -8.856928980291501
+        }
+      }
+    },
+    "place_id": "ChIJs1jUhIa1XkgRBpkpvyiZSuA",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3232,
+    "area_name": "Kilglass",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Kilglass",
+        "short_name": "Kilglass",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Quigabar",
+        "short_name": "Quigabar",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Quigabar, Kilglass, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.24140629999999,
+        "lng": -9.055610399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2427552802915,
+          "lng": -9.054261419708496
+        },
+        "southwest": {
+          "lat": 54.2400573197085,
+          "lng": -9.0569593802915
+        }
+      }
+    },
+    "place_id": "ChIJhcZcqEYyWUgRphdbj3-Klvk",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1888,
+    "area_name": "Moneygold",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Moneygold",
+        "short_name": "Moneygold",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Moneygold, Co. Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.4137154,
+          "lng": -8.5037077
+        },
+        "southwest": {
+          "lat": 54.39857610000001,
+          "lng": -8.527430899999999
+        }
+      },
+      "location": {
+        "lat": 54.4059853,
+        "lng": -8.5149593
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.4137154,
+          "lng": -8.5037077
+        },
+        "southwest": {
+          "lat": 54.39857610000001,
+          "lng": -8.527430899999999
+        }
+      }
+    },
+    "place_id": "ChIJjYxZBbfgXkgRrxhEjalt1js",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3266,
+    "area_name": "Aclare",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Aclare",
+        "short_name": "Aclare",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lislea",
+        "short_name": "Lislea",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lislea, Aclare, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.0364622,
+        "lng": -8.8966534
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0378111802915,
+          "lng": -8.895304419708497
+        },
+        "southwest": {
+          "lat": 54.0351132197085,
+          "lng": -8.898002380291501
+        }
+      }
+    },
+    "place_id": "ChIJEZHeTLS0XkgRYNIxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1899,
+    "area_name": "Mullaghmore",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Mullaghmore",
+        "short_name": "Mullaghmore",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kilkilloge",
+        "short_name": "Kilkilloge",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kilkilloge, Mullaghmore, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.4655463,
+        "lng": -8.4494545
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.4668952802915,
+          "lng": -8.448105519708498
+        },
+        "southwest": {
+          "lat": 54.4641973197085,
+          "lng": -8.450803480291503
+        }
+      }
+    },
+    "place_id": "ChIJ18u0ZY3hXkgRwHkxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3881,
+    "area_name": "Glencar",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Glencar Lough",
+        "short_name": "Glencar Lough",
+        "types": [
+          "establishment",
+          "natural_feature"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Glencar Lough, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.3411672,
+          "lng": -8.365966799999999
+        },
+        "southwest": {
+          "lat": 54.3347748,
+          "lng": -8.4074636
+        }
+      },
+      "location": {
+        "lat": 54.3388456,
+        "lng": -8.3858225
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.3411672,
+          "lng": -8.365966799999999
+        },
+        "southwest": {
+          "lat": 54.3347748,
+          "lng": -8.4074636
+        }
+      }
+    },
+    "place_id": "ChIJh9Jyr-flXkgR_8teS9H_zhU",
+    "types": [
+      "establishment",
+      "natural_feature"
+    ]
+  },
+  {
+    "area_id": 3268,
+    "area_name": "Arinagh",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Sligo",
+        "short_name": "Sligo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      },
+      "location": {
+        "lat": 54.27661029999999,
+        "lng": -8.4760888
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ6a58Z7XpXkgRgHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2972,
+    "area_name": "Ardmoy",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Sligo",
+        "short_name": "Sligo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      },
+      "location": {
+        "lat": 54.27661029999999,
+        "lng": -8.4760888
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ6a58Z7XpXkgRgHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3327,
+    "area_name": "Kilmactranny",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Kilmactranny",
+        "short_name": "Kilmactranny",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cloystuckera",
+        "short_name": "Cloystuckera",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cloystuckera, Kilmactranny, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.0599907,
+        "lng": -8.254272
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0613396802915,
+          "lng": -8.252923019708497
+        },
+        "southwest": {
+          "lat": 54.0586417197085,
+          "lng": -8.255620980291502
+        }
+      }
+    },
+    "place_id": "ChIJ9WPSS3-RXkgR4Ui7GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3762,
+    "area_name": "Ballinode",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Sligo",
+        "short_name": "Sligo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      },
+      "location": {
+        "lat": 54.27661029999999,
+        "lng": -8.4760888
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ6a58Z7XpXkgRgHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3290,
+    "area_name": "Ballintogher",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Ballintogher",
+        "short_name": "Ballintogher",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kingsfort",
+        "short_name": "Kingsfort",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Kingsfort, Ballintogher, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.2006449,
+        "lng": -8.3649676
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2019938802915,
+          "lng": -8.363618619708497
+        },
+        "southwest": {
+          "lat": 54.1992959197085,
+          "lng": -8.366316580291501
+        }
+      }
+    },
+    "place_id": "ChIJv3hIP4_rXkgRsHcxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3236,
+    "area_name": "Castleconor",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Sligo",
+        "short_name": "Sligo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      },
+      "location": {
+        "lat": 54.27661029999999,
+        "lng": -8.4760888
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ6a58Z7XpXkgRgHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3294,
+    "area_name": "Coola",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Coola",
+        "short_name": "Coola",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Carrickcoola",
+        "short_name": "Carrickcoola",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carrickcoola, Coola, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.15764,
+        "lng": -8.37045
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.1589889802915,
+          "lng": -8.369101019708499
+        },
+        "southwest": {
+          "lat": 54.1562910197085,
+          "lng": -8.371798980291503
+        }
+      }
+    },
+    "place_id": "ChIJf0fLDUfrXkgREb2StQMibpU",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3300,
+    "area_name": "Bunnanadden",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Bunnanadden",
+        "short_name": "Bunnanadden",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballynaraw South",
+        "short_name": "Ballynaraw South",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballynaraw South, Bunnanadden, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.0525806,
+        "lng": -8.6052274
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0539295802915,
+          "lng": -8.603878419708499
+        },
+        "southwest": {
+          "lat": 54.0512316197085,
+          "lng": -8.606576380291504
+        }
+      }
+    },
+    "place_id": "ChIJ2WwgAne5XkgRmVo4OyXXUoc",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3958,
+    "area_name": "Doocastle",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Sligo",
+        "short_name": "Sligo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      },
+      "location": {
+        "lat": 54.27661029999999,
+        "lng": -8.4760888
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ6a58Z7XpXkgRgHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3258,
+    "area_name": "Skreen",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Skreen",
+        "short_name": "Skreen",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Glebe",
+        "short_name": "Glebe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Glebe, Skreen, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.2408784,
+        "lng": -8.7316374
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2422273802915,
+          "lng": -8.730288419708499
+        },
+        "southwest": {
+          "lat": 54.2395294197085,
+          "lng": -8.732986380291504
+        }
+      }
+    },
+    "place_id": "ChIJEWZSf33PXkgRcqC6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3264,
+    "area_name": "Mullany's Cross",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Mullany's Cross",
+        "short_name": "Mullany's Cross",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Drummartin",
+        "short_name": "Drummartin",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Drummartin, Mullany's Cross, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.06639999999999,
+        "lng": -8.86828
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0677489802915,
+          "lng": -8.866931019708499
+        },
+        "southwest": {
+          "lat": 54.0650510197085,
+          "lng": -8.869628980291504
+        }
+      }
+    },
+    "place_id": "ChIJ54LkKQO1XkgRHLcgjKA2KUA",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3252,
+    "area_name": "Easkey",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Easky",
+        "short_name": "Easky",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Shannonspark West",
+        "short_name": "Shannonspark West",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Shannonspark West, Easky, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.286325,
+        "lng": -8.9623692
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2876739802915,
+          "lng": -8.961020219708498
+        },
+        "southwest": {
+          "lat": 54.2849760197085,
+          "lng": -8.963718180291503
+        }
+      }
+    },
+    "place_id": "ChIJc66CepjSXkgRsKoxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3309,
+    "area_name": "Ballinafad",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Ballinafad",
+        "short_name": "Ballinafad",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Gortalough",
+        "short_name": "Gortalough",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Gortalough, Ballinafad, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.0275633,
+        "lng": -8.3333304
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0289122802915,
+          "lng": -8.331981419708496
+        },
+        "southwest": {
+          "lat": 54.0262143197085,
+          "lng": -8.334679380291501
+        }
+      }
+    },
+    "place_id": "ChIJm4PwAuiWXkgRANwxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3287,
+    "area_name": "Colgagh",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Colgagh",
+        "short_name": "Colgagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Colgagh",
+        "short_name": "Colgagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Colgagh, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.28309480000001,
+        "lng": -8.405184300000002
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.28444378029151,
+          "lng": -8.4038353197085
+        },
+        "southwest": {
+          "lat": 54.28174581970851,
+          "lng": -8.406533280291505
+        }
+      }
+    },
+    "place_id": "ChIJP6X3JSfmXkgR8rKzuqfHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2960,
+    "area_name": "Bellahy",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Bellahy",
+        "short_name": "Bellahy",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Bellahy, Co. Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.9744361,
+          "lng": -8.781101399999999
+        },
+        "southwest": {
+          "lat": 53.9654663,
+          "lng": -8.8121025
+        }
+      },
+      "location": {
+        "lat": 53.96931910000001,
+        "lng": -8.794944
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9744361,
+          "lng": -8.781101399999999
+        },
+        "southwest": {
+          "lat": 53.9654663,
+          "lng": -8.8121025
+        }
+      }
+    },
+    "place_id": "ChIJ6Rohs0eyXkgRMjy7GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1902,
+    "area_name": "Cliffony",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Cliffony",
+        "short_name": "Cliffony",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cartronkillerdoo",
+        "short_name": "Cartronkillerdoo",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cartronkillerdoo, Cliffony, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.430559,
+        "lng": -8.453432399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.43190798029149,
+          "lng": -8.452083419708497
+        },
+        "southwest": {
+          "lat": 54.4292100197085,
+          "lng": -8.454781380291502
+        }
+      }
+    },
+    "place_id": "ChIJcRSwcGzhXkgRYHoxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3686,
+    "area_name": "Creevagh",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Creevagh",
+        "short_name": "Creevagh",
+        "types": [
+          "premise"
+        ]
+      },
+      {
+        "long_name": "Strandhill Road",
+        "short_name": "Strandhill Rd",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Rathedmond",
+        "short_name": "Rathedmond",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Sligo",
+        "short_name": "Sligo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Creevagh, Strandhill Rd, Rathedmond, Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.2722083,
+        "lng": -8.501639899999999
+      },
+      "location_type": "ROOFTOP",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2733989802915,
+          "lng": -8.500331019708497
+        },
+        "southwest": {
+          "lat": 54.2707010197085,
+          "lng": -8.503028980291502
+        }
+      }
+    },
+    "place_id": "ChIJYcIsLoLCXkgRi1FyGOfNQSk",
+    "types": [
+      "premise"
+    ]
+  },
+  {
+    "area_id": 3308,
+    "area_name": "Culfadda",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Culfadda",
+        "short_name": "Culfadda",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cloonshanbally",
+        "short_name": "Cloonshanbally",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cloonshanbally, Culfadda, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.0273978,
+        "lng": -8.4783366
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.02874678029151,
+          "lng": -8.476987619708497
+        },
+        "southwest": {
+          "lat": 54.02604881970851,
+          "lng": -8.479685580291502
+        }
+      }
+    },
+    "place_id": "ChIJ1y3NX8q9XkgR4H4xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1893,
+    "area_name": "Carney",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Carney",
+        "short_name": "Carney",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cullagh More",
+        "short_name": "Cullagh More",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cullagh More, Carney, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.3386704,
+        "lng": -8.5277091
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.34001938029149,
+          "lng": -8.526360119708498
+        },
+        "southwest": {
+          "lat": 54.33732141970849,
+          "lng": -8.529058080291502
+        }
+      }
+    },
+    "place_id": "ChIJDaQkmmTdXkgR4Ksxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4234,
+    "area_name": "Ballintrillick",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Ballintrillick",
+        "short_name": "Ballintrillick",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Gorteen",
+        "short_name": "Gorteen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Gorteen, Ballintrillick, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.40879649999999,
+        "lng": -8.4073735
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.41014548029149,
+          "lng": -8.406024519708499
+        },
+        "southwest": {
+          "lat": 54.40744751970849,
+          "lng": -8.408722480291503
+        }
+      }
+    },
+    "place_id": "ChIJY3lcow_kXkgRYLfqN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3280,
+    "area_name": "Strandhill",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Strandhill",
+        "short_name": "Strandhill",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Carrowbunnaun",
+        "short_name": "Carrowbunnaun",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carrowbunnaun, Strandhill, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.26999009999999,
+        "lng": -8.598940299999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.27133908029149,
+          "lng": -8.597591319708496
+        },
+        "southwest": {
+          "lat": 54.26864111970849,
+          "lng": -8.6002892802915
+        }
+      }
+    },
+    "place_id": "ChIJ0-xtDG7DXkgRMHkxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3279,
+    "area_name": "Cregg",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Cregg",
+        "short_name": "Cregg",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cregg, Co. Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.3103344,
+          "lng": -8.5048286
+        },
+        "southwest": {
+          "lat": 54.2991366,
+          "lng": -8.526782299999999
+        }
+      },
+      "location": {
+        "lat": 54.3060768,
+        "lng": -8.513343599999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.3103344,
+          "lng": -8.5048286
+        },
+        "southwest": {
+          "lat": 54.2991366,
+          "lng": -8.526782299999999
+        }
+      }
+    },
+    "place_id": "ChIJ30xsjKrCXkgRYnTHGajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3283,
+    "area_name": "Coolaney",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Coolaney",
+        "short_name": "Coolaney",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Coolaney, Co. Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.1786878,
+          "lng": -8.587184299999999
+        },
+        "southwest": {
+          "lat": 54.1631722,
+          "lng": -8.6112484
+        }
+      },
+      "location": {
+        "lat": 54.17380929999999,
+        "lng": -8.6008023
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.1786878,
+          "lng": -8.587184299999999
+        },
+        "southwest": {
+          "lat": 54.1631722,
+          "lng": -8.6112484
+        }
+      }
+    },
+    "place_id": "ChIJyd2igkvGXkgRoAjfN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3306,
+    "area_name": "Derry",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Derry",
+        "short_name": "Derry",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Derry Beg",
+        "short_name": "Derry Beg",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Derry Beg, Derry, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.08729,
+        "lng": -8.33607
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0886389802915,
+          "lng": -8.334721019708496
+        },
+        "southwest": {
+          "lat": 54.0859410197085,
+          "lng": -8.3374189802915
+        }
+      }
+    },
+    "place_id": "ChIJu8V2J26UXkgRAyMTEf1iq4A",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2971,
+    "area_name": "Cloonloogh",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Cloonloo",
+        "short_name": "Cloonloo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cloonloogh",
+        "short_name": "Cloonloogh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cloonloogh, Cloonloo, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.97161,
+        "lng": -8.40691
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9729589802915,
+          "lng": -8.405561019708498
+        },
+        "southwest": {
+          "lat": 53.9702610197085,
+          "lng": -8.408258980291503
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJm87ncVu9XkgRAKzqN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3269,
+    "area_name": "Tubbercurry",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Tobercurry",
+        "short_name": "Tobercurry",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Tobercurry",
+        "short_name": "Tobercurry",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Tobercurry, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.0552258,
+        "lng": -8.7298236
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0565747802915,
+          "lng": -8.728474619708496
+        },
+        "southwest": {
+          "lat": 54.0538768197085,
+          "lng": -8.731172580291501
+        }
+      }
+    },
+    "place_id": "ChIJRxsQ6uC2XkgRQCcyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3286,
+    "area_name": "Drum",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Sligo",
+        "short_name": "Sligo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      },
+      "location": {
+        "lat": 54.27661029999999,
+        "lng": -8.4760888
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      }
+    },
+    "place_id": "ChIJ6a58Z7XpXkgRgHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3267,
+    "area_name": "Tourlestrane",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Toorlestraun",
+        "short_name": "Toorlestraun",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Toorlestraun",
+        "short_name": "Toorlestraun",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Toorlestraun, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.0382306,
+        "lng": -8.8472834
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0395795802915,
+          "lng": -8.845934419708497
+        },
+        "southwest": {
+          "lat": 54.0368816197085,
+          "lng": -8.848632380291502
+        }
+      }
+    },
+    "place_id": "ChIJkTBbvGG0XkgRMQ1LgbyH2Rw",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3231,
+    "area_name": "Rathlee",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Rathlee",
+        "short_name": "Rathlee",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Rathlee",
+        "short_name": "Rathlee",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rathlee, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.2753105,
+        "lng": -9.0245613
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.27665948029149,
+          "lng": -9.023212319708499
+        },
+        "southwest": {
+          "lat": 54.27396151970849,
+          "lng": -9.025910280291503
+        }
+      }
+    },
+    "place_id": "ChIJocMguJ4yWUgR8Kgxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1894,
+    "area_name": "Cloghboley",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Cloghboley",
+        "short_name": "Cloghboley",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Doonfore",
+        "short_name": "Doonfore",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Doonfore, Cloghboley, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.3475976,
+        "lng": -8.6066645
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.3489465802915,
+          "lng": -8.6053155197085
+        },
+        "southwest": {
+          "lat": 54.3462486197085,
+          "lng": -8.608013480291504
+        }
+      }
+    },
+    "place_id": "ChIJy-YyRF_cXkgRc3qOrVXfC0w",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3274,
+    "area_name": "Carrowneden",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Carrowneden",
+        "short_name": "Carrowneden",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cashel North",
+        "short_name": "Cashel North",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cashel North, Carrowneden, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.13719889999999,
+        "lng": -8.6975886
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.13854788029149,
+          "lng": -8.696239619708496
+        },
+        "southwest": {
+          "lat": 54.13584991970849,
+          "lng": -8.698937580291501
+        }
+      }
+    },
+    "place_id": "ChIJKd0SGgrIXkgRfmvLbeFehpk",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3303,
+    "area_name": "Riverstown",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Riverstown",
+        "short_name": "Riverstown",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cuiltylough",
+        "short_name": "Cuiltylough",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cuiltylough, Riverstown, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.1304398,
+        "lng": -8.3952507
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.1317887802915,
+          "lng": -8.393901719708497
+        },
+        "southwest": {
+          "lat": 54.1290908197085,
+          "lng": -8.396599680291501
+        }
+      }
+    },
+    "place_id": "ChIJK6ZZPiiVXkgRwB0yl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3257,
+    "area_name": "Templeboy",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Templeboy",
+        "short_name": "Templeboy",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cartron",
+        "short_name": "Cartron",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cartron, Templeboy, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.2440716,
+        "lng": -8.8150783
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2454205802915,
+          "lng": -8.813729319708498
+        },
+        "southwest": {
+          "lat": 54.2427226197085,
+          "lng": -8.816427280291503
+        }
+      }
+    },
+    "place_id": "ChIJyyGNSl_OXkgRQaC6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3234,
+    "area_name": "Drinaghan",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Drinaghan",
+        "short_name": "Drinaghan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Drinaghan More",
+        "short_name": "Drinaghan More",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Drinaghan More, Drinaghan, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.2283,
+        "lng": -9.034799999999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2296489802915,
+          "lng": -9.033451019708497
+        },
+        "southwest": {
+          "lat": 54.2269510197085,
+          "lng": -9.036148980291502
+        }
+      }
+    },
+    "place_id": "ChIJRdEivVQyWUgRu54CPsmKTrs",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4077,
+    "area_name": "Sooey",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Sooey",
+        "short_name": "Sooey",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Srananagh",
+        "short_name": "Srananagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Srananagh, Sooey, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.1657351,
+        "lng": -8.393167799999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.1670840802915,
+          "lng": -8.391818819708497
+        },
+        "southwest": {
+          "lat": 54.1643861197085,
+          "lng": -8.394516780291502
+        }
+      }
+    },
+    "place_id": "ChIJX5SgRhjrXkgRoilPu6fHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3256,
+    "area_name": "Aughris",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Aughris",
+        "short_name": "Aughris",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Aughris, Co. Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.2790058,
+          "lng": -8.762630800000002
+        },
+        "southwest": {
+          "lat": 54.2648796,
+          "lng": -8.7869039
+        }
+      },
+      "location": {
+        "lat": 54.2705911,
+        "lng": -8.7812805
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2790058,
+          "lng": -8.762630800000002
+        },
+        "southwest": {
+          "lat": 54.2648796,
+          "lng": -8.7869039
+        }
+      }
+    },
+    "place_id": "ChIJpeYDHO3PXkgR8vNNu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3278,
+    "area_name": "Raghly",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Raghly",
+        "short_name": "Raghly",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Raghly, Co. Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.3328425,
+          "lng": -8.6416684
+        },
+        "southwest": {
+          "lat": 54.3212378,
+          "lng": -8.658533600000002
+        }
+      },
+      "location": {
+        "lat": 54.326625,
+        "lng": -8.6540333
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.3328425,
+          "lng": -8.6416684
+        },
+        "southwest": {
+          "lat": 54.3212378,
+          "lng": -8.658533600000002
+        }
+      }
+    },
+    "place_id": "ChIJKUM5AGfbXkgRQqa6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3284,
+    "area_name": "Drumcliff",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Drumcliffe North",
+        "short_name": "Drumcliffe North",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Drumcliff North",
+        "short_name": "Drumcliff North",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Drumcliff North, Drumcliffe North, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.33047,
+        "lng": -8.50147
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.3318189802915,
+          "lng": -8.500121019708496
+        },
+        "southwest": {
+          "lat": 54.3291210197085,
+          "lng": -8.5028189802915
+        }
+      }
+    },
+    "place_id": "ChIJPdk5Ye3nXkgRzTSZ00Uj-SQ",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2970,
+    "area_name": "Mullaghroe",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Mullaghroe",
+        "short_name": "Mullaghroe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Mullaghroe, Co. Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 53.9907165,
+          "lng": -8.4523048
+        },
+        "southwest": {
+          "lat": 53.9727669,
+          "lng": -8.477622799999999
+        }
+      },
+      "location": {
+        "lat": 53.9837436,
+        "lng": -8.4647123
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9907165,
+          "lng": -8.4523048
+        },
+        "southwest": {
+          "lat": 53.9727669,
+          "lng": -8.477622799999999
+        }
+      }
+    },
+    "place_id": "ChIJ3y_rAeC8XkgRoq-6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3305,
+    "area_name": "Castlebaldwin",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Castlebaldwin",
+        "short_name": "Castlebaldwin",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Bellanagarrigeeny",
+        "short_name": "Bellanagarrigeeny",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Bellanagarrigeeny, Castlebaldwin, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.0792486,
+        "lng": -8.3758809
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0805975802915,
+          "lng": -8.374531919708499
+        },
+        "southwest": {
+          "lat": 54.0778996197085,
+          "lng": -8.377229880291504
+        }
+      }
+    },
+    "place_id": "ChIJ1zlAykqUXkgRgKsxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1891,
+    "area_name": "Cashelgarran",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Cashelgarran",
+        "short_name": "Cashelgarran",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cashelgarran",
+        "short_name": "Cashelgarran",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Cashelgarran, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.3598854,
+        "lng": -8.5224894
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.3612343802915,
+          "lng": -8.521140419708498
+        },
+        "southwest": {
+          "lat": 54.3585364197085,
+          "lng": -8.523838380291503
+        }
+      }
+    },
+    "place_id": "ChIJPT6tTHznXkgRQL8eKOpV03w",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3325,
+    "area_name": "Geevagh",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Geevagh",
+        "short_name": "Geevagh",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballyculleen",
+        "short_name": "Ballyculleen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyculleen, Geevagh, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.0989357,
+        "lng": -8.250077
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.10028468029149,
+          "lng": -8.248728019708498
+        },
+        "southwest": {
+          "lat": 54.0975867197085,
+          "lng": -8.251425980291502
+        }
+      }
+    },
+    "place_id": "ChIJkxwOOVqSXkgRQAMyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3281,
+    "area_name": "Beltra",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Beltra",
+        "short_name": "Beltra",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Tanrego East",
+        "short_name": "Tanrego East",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Tanrego East, Beltra, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.2218763,
+        "lng": -8.624828
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2232252802915,
+          "lng": -8.6234790197085
+        },
+        "southwest": {
+          "lat": 54.2205273197085,
+          "lng": -8.626176980291504
+        }
+      }
+    },
+    "place_id": "ChIJf1YV1RvEXkgRAay6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4052,
+    "area_name": "Ransboro",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Knocknahur",
+        "short_name": "Knocknahur",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Knocknahur North",
+        "short_name": "Knocknahur North",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Knocknahur North, Knocknahur, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.24361099999999,
+        "lng": -8.540546599999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.24495998029149,
+          "lng": -8.539197619708498
+        },
+        "southwest": {
+          "lat": 54.2422620197085,
+          "lng": -8.5418955802915
+        }
+      }
+    },
+    "place_id": "ChIJg5cP40jCXkgRHA6dzjrSQi8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1896,
+    "area_name": "Ballyconnell",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Ballyconnell",
+        "short_name": "Ballyconnell",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballyconnell, Co. Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.3681802,
+          "lng": -8.6423095
+        },
+        "southwest": {
+          "lat": 54.3522556,
+          "lng": -8.6797787
+        }
+      },
+      "location": {
+        "lat": 54.35912399999999,
+        "lng": -8.6580716
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.3681802,
+          "lng": -8.6423095
+        },
+        "southwest": {
+          "lat": 54.3522556,
+          "lng": -8.6797787
+        }
+      }
+    },
+    "place_id": "ChIJC14_jYvbXkgRMnTHGajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3263,
+    "area_name": "Bellanagraugh Bridge",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Sligo",
+        "short_name": "Sligo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      },
+      "location": {
+        "lat": 54.27661029999999,
+        "lng": -8.4760888
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ6a58Z7XpXkgRgHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3253,
+    "area_name": "Dromore West",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Dromore West",
+        "short_name": "Dromore West",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Knockaculleen",
+        "short_name": "Knockaculleen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Knockaculleen, Dromore West, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.2495094,
+        "lng": -8.8799262
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2508583802915,
+          "lng": -8.878577219708498
+        },
+        "southwest": {
+          "lat": 54.2481604197085,
+          "lng": -8.881275180291503
+        }
+      }
+    },
+    "place_id": "ChIJs92yksjNXkgREKsxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3304,
+    "area_name": "Drumfin",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Drumfin",
+        "short_name": "Drumfin",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Murillyroe",
+        "short_name": "Murillyroe",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Murillyroe, Drumfin, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.1314545,
+        "lng": -8.4443649
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.1328034802915,
+          "lng": -8.443015919708499
+        },
+        "southwest": {
+          "lat": 54.1301055197085,
+          "lng": -8.445713880291503
+        }
+      }
+    },
+    "place_id": "ChIJXz1Q6VOVXkgREee6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3235,
+    "area_name": "Corbally",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Corbally",
+        "short_name": "Corbally",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Fiddaun",
+        "short_name": "Fiddaun",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Fiddaun, Corbally, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.17007719999999,
+        "lng": -9.06217
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.1714261802915,
+          "lng": -9.060821019708499
+        },
+        "southwest": {
+          "lat": 54.1687282197085,
+          "lng": -9.063518980291501
+        }
+      }
+    },
+    "place_id": "ChIJUdGMJwU0WUgRcqO6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3273,
+    "area_name": "Cloonacool",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Cloonacool",
+        "short_name": "Cloonacool",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Leitrim North",
+        "short_name": "Leitrim North",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Leitrim North, Cloonacool, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.100753,
+        "lng": -8.7778571
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.1021019802915,
+          "lng": -8.776508119708497
+        },
+        "southwest": {
+          "lat": 54.0994040197085,
+          "lng": -8.779206080291502
+        }
+      }
+    },
+    "place_id": "ChIJu0ouUxa2XkgRQPExl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3291,
+    "area_name": "Ballygawley",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Ballygawley",
+        "short_name": "Ballygawley",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Lavinscartron",
+        "short_name": "Lavinscartron",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Lavinscartron, Ballygawley, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.1920204,
+        "lng": -8.4452435
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.19336938029149,
+          "lng": -8.443894519708499
+        },
+        "southwest": {
+          "lat": 54.19067141970849,
+          "lng": -8.446592480291502
+        }
+      }
+    },
+    "place_id": "ChIJzamRSmbqXkgRwHcxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3296,
+    "area_name": "Ropefield",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Falnasoogaun",
+        "short_name": "Falnasoogaun",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Falnasoogaun, Co. Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.12912979999999,
+          "lng": -8.594524999999999
+        },
+        "southwest": {
+          "lat": 54.1162053,
+          "lng": -8.6147882
+        }
+      },
+      "location": {
+        "lat": 54.1231433,
+        "lng": -8.6072223
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.12912979999999,
+          "lng": -8.594524999999999
+        },
+        "southwest": {
+          "lat": 54.1162053,
+          "lng": -8.6147882
+        }
+      }
+    },
+    "place_id": "ChIJzdVFA5-4XkgRKU6PIr4JOf0",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3275,
+    "area_name": "Carrowmore",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Carrowmore",
+        "short_name": "Carrowmore",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carrowmore, Co. Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.25750739999999,
+          "lng": -8.5106017
+        },
+        "southwest": {
+          "lat": 54.2472595,
+          "lng": -8.532692299999999
+        }
+      },
+      "location": {
+        "lat": 54.2527191,
+        "lng": -8.5225157
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.25750739999999,
+          "lng": -8.5106017
+        },
+        "southwest": {
+          "lat": 54.2472595,
+          "lng": -8.532692299999999
+        }
+      }
+    },
+    "place_id": "ChIJiQPuJGjCXkgRc4zbR1p0kKk",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3255,
+    "area_name": "Culleens",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Culleens",
+        "short_name": "Culleens",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Culleens",
+        "short_name": "Culleens",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Culleens, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.2118163,
+        "lng": -8.9916907
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2131652802915,
+          "lng": -8.990341719708498
+        },
+        "southwest": {
+          "lat": 54.2104673197085,
+          "lng": -8.993039680291503
+        }
+      }
+    },
+    "place_id": "ChIJwazy5EczWUgREBbfN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3289,
+    "area_name": "Belladrihid",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Belladrihid",
+        "short_name": "Belladrihid",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Belladrihid, Co. Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.22495869999999,
+          "lng": -8.491272
+        },
+        "southwest": {
+          "lat": 54.21339649999999,
+          "lng": -8.5114164
+        }
+      },
+      "location": {
+        "lat": 54.2172803,
+        "lng": -8.5008377
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.22495869999999,
+          "lng": -8.491272
+        },
+        "southwest": {
+          "lat": 54.21339649999999,
+          "lng": -8.5114164
+        }
+      }
+    },
+    "place_id": "ChIJ0XOt-fbBXkgRgqu6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2961,
+    "area_name": "Curry",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Curry",
+        "short_name": "Curry",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Drumbaun",
+        "short_name": "Drumbaun",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Drumbaun, Curry, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.0013835,
+        "lng": -8.7729846
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.00273248029151,
+          "lng": -8.771635619708496
+        },
+        "southwest": {
+          "lat": 54.00003451970851,
+          "lng": -8.7743335802915
+        }
+      }
+    },
+    "place_id": "ChIJ_0r2d9-zXkgRsPgxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3277,
+    "area_name": "Rosses Point",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Rosses Point",
+        "short_name": "Rosses Point",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Rosses Upper",
+        "short_name": "Rosses Upper",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rosses Upper, Rosses Point, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.3047546,
+        "lng": -8.5640206
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.30610358029149,
+          "lng": -8.562671619708496
+        },
+        "southwest": {
+          "lat": 54.30340561970849,
+          "lng": -8.5653695802915
+        }
+      }
+    },
+    "place_id": "ChIJ0xxr7SzdXkgRAKwxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2969,
+    "area_name": "Monasteraden",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Monasteraden",
+        "short_name": "Monasteraden",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Tawnymucklagh",
+        "short_name": "Tawnymucklagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Tawnymucklagh, Monasteraden, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.9437307,
+        "lng": -8.4955626
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.9450796802915,
+          "lng": -8.494213619708498
+        },
+        "southwest": {
+          "lat": 53.9423817197085,
+          "lng": -8.496911580291503
+        }
+      }
+    },
+    "place_id": "ChIJy7eL7USjXkgRgBQyl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4025,
+    "area_name": "Bellaghy",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Sligo",
+        "short_name": "Sligo",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Sligo, Co. Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.4730236,
+          "lng": -8.1530062
+        },
+        "southwest": {
+          "lat": 53.9130094,
+          "lng": -9.1365508
+        }
+      },
+      "location": {
+        "lat": 54.1553277,
+        "lng": -8.606453199999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.4730236,
+          "lng": -8.1530062
+        },
+        "southwest": {
+          "lat": 53.9130094,
+          "lng": -9.1365508
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJmaHiaIzGXkgRkHcqLqfHAAQ",
+    "types": [
+      "administrative_area_level_2",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3297,
+    "area_name": "Ballymote",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Ballymote",
+        "short_name": "Ballymote",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballymote",
+        "short_name": "Ballymote",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballymote, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.08982880000001,
+        "lng": -8.5171827
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.09117778029151,
+          "lng": -8.515833719708498
+        },
+        "southwest": {
+          "lat": 54.08847981970851,
+          "lng": -8.518531680291503
+        }
+      }
+    },
+    "place_id": "ChIJJVlFpOK-XkgRMHcxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 4250,
+    "area_name": "Calry",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Calry",
+        "short_name": "Calry",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Colgagh",
+        "short_name": "Colgagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Colgagh, Calry, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.2843521,
+        "lng": -8.3944489
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2857010802915,
+          "lng": -8.393099919708497
+        },
+        "southwest": {
+          "lat": 54.2830031197085,
+          "lng": -8.395797880291502
+        }
+      }
+    },
+    "place_id": "ChIJKy9M-NDoXkgRkM3fN6nHABg",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3260,
+    "area_name": "Carrowreagh",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Carrowreagh",
+        "short_name": "Carrowreagh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carrowreagh, Co. Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.0664738,
+          "lng": -8.9312864
+        },
+        "southwest": {
+          "lat": 54.0458217,
+          "lng": -8.9745484
+        }
+      },
+      "location": {
+        "lat": 54.0525746,
+        "lng": -8.9500441
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0664738,
+          "lng": -8.9312864
+        },
+        "southwest": {
+          "lat": 54.0458217,
+          "lng": -8.9745484
+        }
+      }
+    },
+    "place_id": "ChIJXZKVfB1LWUgRD3NfinP30ws",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3298,
+    "area_name": "Clonkeevy",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Sligo",
+        "short_name": "Sligo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      },
+      "location": {
+        "lat": 54.27661029999999,
+        "lng": -8.4760888
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ6a58Z7XpXkgRgHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3671,
+    "area_name": "Boyle",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Sligo",
+        "short_name": "Sligo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      },
+      "location": {
+        "lat": 54.27661029999999,
+        "lng": -8.4760888
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      }
+    },
+    "partial_match": true,
+    "place_id": "ChIJ6a58Z7XpXkgRgHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3293,
+    "area_name": "Toberscanavan",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Toberscanavan",
+        "short_name": "Toberscanavan",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Mullaghnabreena",
+        "short_name": "Mullaghnabreena",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Mullaghnabreena, Toberscanavan, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.16690000000001,
+        "lng": -8.49509
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.16824898029151,
+          "lng": -8.493741019708496
+        },
+        "southwest": {
+          "lat": 54.16555101970851,
+          "lng": -8.4964389802915
+        }
+      }
+    },
+    "place_id": "ChIJ40BRWjrAXkgRcZ66GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3292,
+    "area_name": "Collooney",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Collooney",
+        "short_name": "Collooney",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Rinn",
+        "short_name": "Rinn",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rinn, Collooney, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.1849522,
+        "lng": -8.4865545
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.18630118029149,
+          "lng": -8.485205519708497
+        },
+        "southwest": {
+          "lat": 54.1836032197085,
+          "lng": -8.487903480291502
+        }
+      }
+    },
+    "place_id": "ChIJyVkbcMzBXkgRUPQxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 1900,
+    "area_name": "Castlegal",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Castlegal",
+        "short_name": "Castlegal",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Castlegal, Co. Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.4617484,
+          "lng": -8.394093699999999
+        },
+        "southwest": {
+          "lat": 54.4423995,
+          "lng": -8.4241394
+        }
+      },
+      "location": {
+        "lat": 54.4553811,
+        "lng": -8.410428399999999
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.4617484,
+          "lng": -8.394093699999999
+        },
+        "southwest": {
+          "lat": 54.4423995,
+          "lng": -8.4241394
+        }
+      }
+    },
+    "place_id": "ChIJxQvm8UviXkgRIqq6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3285,
+    "area_name": "Rathcormac",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Rathcormack",
+        "short_name": "Rathcormack",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Clooneen",
+        "short_name": "Clooneen",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Clooneen, Rathcormack, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.3197,
+        "lng": -8.471200000000001
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.32104898029149,
+          "lng": -8.4698510197085
+        },
+        "southwest": {
+          "lat": 54.31835101970849,
+          "lng": -8.472548980291505
+        }
+      }
+    },
+    "place_id": "ChIJxb-FK9znXkgRIaa6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3288,
+    "area_name": "Sligo",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Sligo",
+        "short_name": "Sligo",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      },
+      "location": {
+        "lat": 54.27661029999999,
+        "lng": -8.4760888
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2872399,
+          "lng": -8.44213
+        },
+        "southwest": {
+          "lat": 54.24951,
+          "lng": -8.5193301
+        }
+      }
+    },
+    "place_id": "ChIJ6a58Z7XpXkgRgHMxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3259,
+    "area_name": "Dromard",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Drumard",
+        "short_name": "Drumard",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Caltragh",
+        "short_name": "Caltragh",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Caltragh, Drumard, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.2371932,
+        "lng": -8.6733389
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.2385421802915,
+          "lng": -8.671989919708496
+        },
+        "southwest": {
+          "lat": 54.2358442197085,
+          "lng": -8.6746878802915
+        }
+      }
+    },
+    "place_id": "ChIJD2URdrTFXkgRk4XxTRjjLT8",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3775,
+    "area_name": "Carrowkeel",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Carrowkeel",
+        "short_name": "Carrowkeel",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Carrowkeel, Co. Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.06592699999999,
+          "lng": -8.3678192
+        },
+        "southwest": {
+          "lat": 54.0493945,
+          "lng": -8.391748999999999
+        }
+      },
+      "location": {
+        "lat": 54.0605539,
+        "lng": -8.3784306
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.06592699999999,
+          "lng": -8.3678192
+        },
+        "southwest": {
+          "lat": 54.0493945,
+          "lng": -8.391748999999999
+        }
+      }
+    },
+    "place_id": "ChIJ2bJZ0teVXkgRUjJPu6fHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3270,
+    "area_name": "Banada",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Banada",
+        "short_name": "Banada",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Cloonrane",
+        "short_name": "Cloonrane",
+        "types": [
+          "political",
+          "sublocality",
+          "sublocality_level_1"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Banada, Cloonrane, Co. Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.0397974,
+          "lng": -8.8077027
+        },
+        "southwest": {
+          "lat": 54.02208899999999,
+          "lng": -8.8332299
+        }
+      },
+      "location": {
+        "lat": 54.0325655,
+        "lng": -8.8181563
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.0397974,
+          "lng": -8.8077027
+        },
+        "southwest": {
+          "lat": 54.02208899999999,
+          "lng": -8.8332299
+        }
+      }
+    },
+    "place_id": "ChIJ468Bkmy0XkgRorm6GajHACY",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3271,
+    "area_name": "Curraghbonaun",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Curraghbonaun",
+        "short_name": "Curraghbonaun",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Curraghbonaun, Co. Sligo, Ireland",
+    "geometry": {
+      "bounds": {
+        "northeast": {
+          "lat": 54.01523109999999,
+          "lng": -8.820746999999999
+        },
+        "southwest": {
+          "lat": 53.9921077,
+          "lng": -8.8587004
+        }
+      },
+      "location": {
+        "lat": 54.0060236,
+        "lng": -8.8393695
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.01523109999999,
+          "lng": -8.820746999999999
+        },
+        "southwest": {
+          "lat": 53.9921077,
+          "lng": -8.8587004
+        }
+      }
+    },
+    "place_id": "ChIJ4ZCPHHSzXkgRVV_st5TkQBk",
+    "types": [
+      "neighborhood",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3836,
+    "area_name": "Ballinfull",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Ballinfull",
+        "short_name": "Ballinfull",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ballinphull",
+        "short_name": "Ballinphull",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Ballinphull, Ballinfull, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.3617644,
+        "lng": -8.5811682
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.36311338029149,
+          "lng": -8.579819219708499
+        },
+        "southwest": {
+          "lat": 54.3604154197085,
+          "lng": -8.582517180291504
+        }
+      }
+    },
+    "place_id": "ChIJ1dvhlrHdXkgRUaq6GajHACY",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 2968,
+    "area_name": "Gurteen",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Gorteen",
+        "short_name": "Gorteen",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Rathmadder",
+        "short_name": "Rathmadder",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Rathmadder, Gorteen, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 53.99590019999999,
+        "lng": -8.5226889
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 53.99724918029149,
+          "lng": -8.521339919708497
+        },
+        "southwest": {
+          "lat": 53.99455121970849,
+          "lng": -8.524037880291502
+        }
+      }
+    },
+    "place_id": "ChIJY802MoS8XkgRoHwxl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  },
+  {
+    "area_id": 3282,
+    "area_name": "Ballisodare",
+    "county_name": "Sligo",
+    "county_id": 22,
+    "address_components": [
+      {
+        "long_name": "Ballysadare",
+        "short_name": "Ballysadare",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Knockmuldoney",
+        "short_name": "Knockmuldoney",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "County Sligo",
+        "short_name": "SO",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ireland",
+        "short_name": "IE",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "formatted_address": "Knockmuldoney, Ballysadare, Co. Sligo, Ireland",
+    "geometry": {
+      "location": {
+        "lat": 54.2121162,
+        "lng": -8.5090366
+      },
+      "location_type": "APPROXIMATE",
+      "viewport": {
+        "northeast": {
+          "lat": 54.21346518029149,
+          "lng": -8.507687619708499
+        },
+        "southwest": {
+          "lat": 54.2107672197085,
+          "lng": -8.510385580291503
+        }
+      }
+    },
+    "place_id": "ChIJ38lbYY3BXkgRMN0xl6nHAAo",
+    "types": [
+      "locality",
+      "political"
+    ]
+  }
+]
